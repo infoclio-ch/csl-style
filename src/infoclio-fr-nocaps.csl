@@ -419,6 +419,11 @@
   </macro>
   <macro name="date">
     <choose>
+      <if is-uncertain-date="issued">
+        <text term="circa" suffix=" "/>
+      </if>
+    </choose>
+    <choose>
       <if type="book chapter paper-conference thesis" match="any">
         <choose>
           <if variable="issued">
