@@ -1,0 +1,10 @@
+{
+    "citations": [
+        [ { "id": "Honegger1996" } ],
+        [ { "id": "Haber2011" } ],
+        [ { "id": "Bourdieu1990" } ],
+        [ { "id": "Honegger1996", "locator": "16", "label": "page" } ],
+        [ { "id": "Haber2011", "locator": "1-2", "label": "page" } ],
+        [ { "id": "Bourdieu1990", "locator": "79", "label": "page" } ]
+    ]
+}
