@@ -27,10 +27,10 @@ def run_one_test(test_in, all_styles):
             n_warnings += 1
             return (n_tests, n_succeeded, n_failed, n_warnings)
         else:
-            # find the style matching the test
+            # general tests, but specific outputs, find the outputs and the matching styles
             styles = {}
             tests_out = []
-            for t in glob.iglob(test_in.replace(".in.json", "") + "*.out.json"):
+            for t in glob.iglob(test_in.replace(".in.json", "") + ".*.out.json"):
                 identifier = t.split(".")[-3]
                 if identifier in all_styles:
                     tests_out.append(t)
@@ -39,6 +39,11 @@ def run_one_test(test_in, all_styles):
                     sys.stderr.write(f"Warning: no style matching {identifier} (in {t})\n")
                     n_warnings += 1
                     return (n_tests, n_succeeded, n_failed, n_warnings)
+    elif len(styles) > 1:
+        # specific test and specific output
+        styles = {}
+        identifier = test_out.split(".")[-3]
+        styles[identifier] = all_styles[identifier]
 
     if not styles:
         print(f"Warning: no styles found to test {test_in}")
