@@ -4,7 +4,7 @@
     <title>infoclio.ch (petites majuscules, Français)</title>
     <id>http://www.zotero.org/styles/infoclio-fr-smallcaps</id>
     <link href="http://www.zotero.org/styles/infoclio-fr-smallcaps" rel="self"/>
-    <link href="https://www.infoclio.ch/fr/node/138218" rel="documentation"/>
+    <link href="https://www.infoclio.ch/fr/stylecitation#zotero" rel="documentation"/>
     <author>
       <name>Nicolas Chachereau</name>
       <email>nicolas.chachereau@unil.ch</email>

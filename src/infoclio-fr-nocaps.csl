@@ -5,7 +5,7 @@
     <id>http://www.zotero.org/styles/infoclio-fr-nocaps</id>
     <link href="http://www.zotero.org/styles/infoclio-fr-nocaps" rel="self"/>
     <link href="http://www.zotero.org/styles/infoclio-fr-smallcaps" rel="template"/>
-    <link href="https://www.infoclio.ch/fr/node/138218" rel="documentation"/>
+    <link href="https://www.infoclio.ch/fr/stylecitation#zotero" rel="documentation"/>
     <author>
       <name>Nicolas Chachereau</name>
       <email>nicolas.chachereau@unil.ch</email>

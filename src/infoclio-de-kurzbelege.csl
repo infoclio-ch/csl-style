@@ -5,7 +5,7 @@
     <id>http://www.zotero.org/styles/infoclio-de-kurzbelege</id>
     <link href="http://www.zotero.org/styles/infoclio-de-kurzbelege" rel="self"/>
     <link href="http://www.zotero.org/styles/infoclio-de" rel="template"/>
-    <link href="https://www.infoclio.ch/de/node/133932" rel="documentation"/>
+    <link href="https://www.infoclio.ch/de/zitierstil#zotero" rel="documentation"/>
     <author>
       <name>Nicolas Chachereau</name>
       <email>nicolas.chachereau@unil.ch</email>
