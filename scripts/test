@@ -11,7 +11,7 @@ import difflib
 from utils import get_styles
 
 
-def run_one_test(test_in, all_styles):
+def run_one_test(test_in, all_styles, quiet=False):
     n_tests = 0
     n_succeeded = 0
     n_failed = 0
@@ -87,15 +87,16 @@ def run_one_test(test_in, all_styles):
         for k in expected:
             if results[k] != expected[k]:
                 n_failed += 1
-                diff = difflib.unified_diff(
-                    expected[k],
-                    results[k],
-                    test_out,
-                    f'actual output from {style}',
-                    n=0,
-                    lineterm=""
-                )
-                sys.stdout.write("\n".join(diff) + "\n")
+                if not quiet:
+                    diff = difflib.unified_diff(
+                        expected[k],
+                        results[k],
+                        test_out,
+                        f'actual output from {style}',
+                        n=0,
+                        lineterm=""
+                    )
+                    sys.stdout.write("\n".join(diff) + "\n")
                 break
         else:
             # loop not broken
@@ -104,7 +105,7 @@ def run_one_test(test_in, all_styles):
     return (n_tests, n_succeeded, n_failed, n_warnings)
 
 
-def run_tests(tests_in, stop_early=False):
+def run_tests(tests_in, stop_early=False, quiet_tests=False):
     all_styles = get_styles()
 
     if not tests_in:
@@ -116,7 +117,7 @@ def run_tests(tests_in, stop_early=False):
     n_warnings = 0
 
     for test_in in tests_in:
-        t, s, f, w = run_one_test(test_in, all_styles)
+        t, s, f, w = run_one_test(test_in, all_styles, quiet_tests)
         n_tests += t
         n_succeeded += s
         n_failed += f
@@ -136,11 +137,13 @@ def main():
     parser = argparse.ArgumentParser(description="Run tests")
     parser.add_argument("-s", "--early-stop", action='store_true',
                         help="stop after first failed test")
+    parser.add_argument("--summary", action="store_true",
+                        help="only report number of tests, failures and warnings")
     parser.add_argument("tests_in", metavar="TESTS", nargs='*',
                         help="specific test files to run")
     args = parser.parse_args()
 
-    run_tests(args.tests_in, args.early_stop)
+    run_tests(args.tests_in, args.early_stop, args.summary)
 
 
 if __name__ == '__main__':
