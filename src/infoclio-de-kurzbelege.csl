@@ -35,7 +35,6 @@
       <term name="accessed">Stand</term>
       <term name="letter">Schreiben</term>
       <term name="number-of-volumes" form="short">Bd.</term>
-      <term name="no date" form="short">o. D.</term>
       <term name="edition">Ausgabe</term>
     </terms>
   </locale>
@@ -345,21 +344,8 @@
               </if>
             </choose>
           </if>
-          <else>
-            <text term="no date" form="short"/>
-          </else>
         </choose>
       </if>
-      <else-if type="article-journal article-newspaper article-magazine graphic entry-encyclopedia entry-dictionary report speech interview manuscript personal_communication" match="any">
-        <choose>
-          <if variable="issued">
-            <date variable="issued" form="numeric" date-parts="year-month-day"/>
-          </if>
-          <else>
-            <text term="no date" form="short"/>
-          </else>
-        </choose>
-      </else-if>
       <else>
         <date variable="issued" form="numeric" date-parts="year-month-day"/>
       </else>

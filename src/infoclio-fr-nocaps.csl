@@ -425,25 +425,8 @@
     </choose>
     <choose>
       <if type="book chapter paper-conference thesis" match="any">
-        <choose>
-          <if variable="issued">
-            <date variable="issued" form="numeric" date-parts="year"/>
-          </if>
-          <else>
-            <text term="no date" form="short"/>
-          </else>
-        </choose>
+        <date variable="issued" form="numeric" date-parts="year"/>
       </if>
-      <else-if type="article-journal article-newspaper article-magazine graphic entry-encyclopedia entry-dictionary report speech interview manuscript personal_communication" match="any">
-        <choose>
-          <if variable="issued">
-            <date variable="issued" form="numeric" date-parts="year-month-day"/>
-          </if>
-          <else>
-            <text term="no date" form="short"/>
-          </else>
-        </choose>
-      </else-if>
       <else>
         <date variable="issued" form="numeric" date-parts="year-month-day"/>
       </else>
