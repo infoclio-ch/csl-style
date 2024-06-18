@@ -1,70 +1,2163 @@
 [
-  {"id":"Althoff2012","author":[{"family":"Althoff","given":"Gerd"}],"citation-key":"Althoff2012","container-title":"Canossa. Aspekte einer Wende","editor":[{"family":"Hasberg","given":"Wolfgang"}],"event-place":"Regensburg","issued":{"date-parts":[["2012"]]},"page":"73-88","publisher":"Friedrich Pustet","publisher-place":"Regensburg","title":"Zu den Grundlagen des Gregorianischen Amtsverständnisses","type":"chapter"},
-  {"id":"Bacher","accessed":{"date-parts":[["2015",9,15]]},"author":[{"family":"Bacher","given":"Kaspar"}],"citation-key":"Bacher","container-title":"Eidgenössisches Departement für auswärtige Angelegenheiten","license":"EDA/Kaspar Bacher","title":"Der Präsident der Italienischen Republik Giorgio Napolitano wurde mit militärischen Ehren empfangen, Bern 20.05.2014","type":"webpage","URL":"https://www.erweiterungsbeitrag.admin.ch/eda/de/meta/agenda/2014/mai/staatsbesuch-napolitano.html/content/eda/de/meta/agenda/2014/mai/staatsbesuch-napolitano/_jcr_content/par/imagegallery/galleryParsys/galleryimage"},
-  {"id":"Becker2002","author":[{"family":"Becker","given":"Peter"}],"call-number":"HV 6022.G3 B396 2002","citation-key":"Becker2002","collection-number":"176","collection-title":"Veröffentlichungen des Max-Planck-Instituts für Geschichte","event-place":"Göttingen","ISBN":"3-525-35172-0","issued":{"date-parts":[["2002"]]},"number-of-pages":"416","publisher":"Vandenhoeck & Ruprecht","publisher-place":"Göttingen","source":"Library of Congress ISBN","title":"Verderbnis und Entartung. Eine Geschichte der Kriminologie des 19. Jahrhunderts als Diskurs und Praxis","title-short":"Verderbnis und Entartung","type":"book"},
-  {"id":"Berset2020","accessed":{"date-parts":[["2020",3,10]]},"author":[{"family":"Berset","given":"Alain"}],"citation-key":"Berset2020","container-title":"Facebook","issued":{"date-parts":[["2020",2,28]]},"title":"Der Bundesrat hat sich heute zu einer ausserordentlichen Sitzung getroffen...","type":"post-weblog","URL":"https://www.facebook.com/BersetAlain/photos/a.1115701091805829/3549035598472354/?type=3&theater"},
-  {"id":"BlaueFee2012","accessed":{"date-parts":[["2014",2,4]]},"author":[{"family":"\"Blaue Fee\"","given":""}],"citation-key":"BlaueFee2012","container-title":"Spiegel Online-Forum: Kindergärten - Sollte es mehr männliche Erzieher geben?","issued":{"date-parts":[["2012",9,2]]},"title":"Warum nicht?","type":"post","URL":"http://forum.spiegel.de/f10/kindergaerten-sollte-es-mehr-maennliche-erzieher-geben-69683.html#post10873112"},
-  {"id":"Bourdieu1990","abstract":"Criticizes the biographical conception of a life as a coherent whole that can be narrated as a history or story.","author":[{"family":"Bourdieu","given":"Pierre"}],"call-number":"46320662","citation-key":"Bourdieu1990","container-title":"Bios","container-title-short":"BIOS: Zeitschrift für Biographieforschung und Oral History","ISSN":"09335315","issue":"1","issued":{"date-parts":[["1990"]]},"original-date":{"date-parts":[["1986"]]},"page":"75-81","source":"EBSCOhost","title":"Die biographische Illusion","type":"article-journal","volume":"3"},
-  {"id":"Brandli1990","call-number":"DQ36 .S366 1990","citation-key":"Brandli1990","editor":[{"family":"Brändli","given":"Sebastian"},{"family":"Gugerli","given":"David"},{"family":"Jaun","given":"Rudolf"},{"family":"Pfister","given":"Ulrich"}],"event-place":"Basel","ISBN":"3-7190-1058-9","issued":{"date-parts":[["1990"]]},"number-of-pages":"434","publisher":"Helbing & Lichtenhahn","publisher-place":"Basel","source":"Library of Congress ISBN","title":"Schweiz im Wandel. Studien zur neueren Gesellschaftsgeschichte","title-short":"Schweiz im Wandel","type":"book"},
-  {"id":"Brugger2016","accessed":{"date-parts":[["2016",8,10]]},"citation-key":"Brugger2016","collection-number":"60","collection-title":"FKW. Zeitschrift für Geschlechterforschung und visuelle Kultur","editor":[{"family":"Brugger","given":"Eva"},{"family":"Christadler","given":"Maike"}],"issued":{"date-parts":[["2016"]]},"title":"Riskante Versprechen. Erfolg und Scheitern in der Vormoderne","type":"book","URL":"http://www.fkw-journal.de./index.php/fkw/issue/view/72"},
-  {"id":"Capus2013","author":[{"family":"Capus","given":"Alex"}],"citation-key":"Capus2013","event-place":"München","issued":{"date-parts":[["2013"]]},"note":"Ebook","publisher":"Carl Hanser Verlag","publisher-place":"München","title":"Der Fälscher, die Spionin und der Bombenbauer (E-Book)","type":"book"},
-  {"id":"ChaptGPT2023","citation-key":"ChaptGPT2023","container-title":"ChatGPT (Version 3.5)","issued":{"date-parts":[["2023",3,23]]},"title":"Prompt: Was ist Geologie?","type":"webpage","URL":"https://chat.openai.com/"},
-  {"id":"Delaloye2016","citation-key":"Delaloye2016","collection-number":"2","collection-title":"Traverse","editor":[{"family":"Delaloye","given":"Magali"},{"family":"Gillard","given":"Diane"},{"family":"Ludi","given":"Regula"}],"event-place":"Zürich","ISBN":"978-3-905315-68-4","issued":{"date-parts":[["2016"]]},"publisher":"Chronos","publisher-place":"Zürich","title":"Transnationale Feminismen - Les féminismes transnationaux","title-short":"Transnationale Feminismen","type":"book"},
-  {"id":"Diener1967","author":[{"family":"Diener","given":"Hermann"}],"citation-key":"Diener1967","container-title":"Archiv für Kulturgeschichte","issued":{"date-parts":[["1967"]]},"page":"43-97","title":"Die \"Camera Papagalli\" im Palast des Papstes. Papageien als Hausgenossen der Päpste, Könige und Fürsten des Mittelalters und der Renaissance","title-short":"Die \"Camera Papagalli\" im Palast des Papstes","type":"article-journal","volume":"49"},
-  {"id":"Dobrinski2007","accessed":{"date-parts":[["2014",10,10]]},"citation-key":"Dobrinski2007","editor":[{"family":"Dobrinski","given":"Claudia"},{"family":"Gedderth","given":"Brunhilde"},{"family":"Wipfler","given":"Katrin"}],"event-place":"München","ISBN":"978-3-7705-4527-8","issued":{"date-parts":[["2007"]]},"number-of-pages":"226","publisher":"W. Fink","publisher-place":"München","source":"Deutsche Digitale Bibliothek","title":"Kloster und Wirtschaftswelt im Mittelalter","type":"book","URL":"https://opacplus.bsb-muenchen.de/title/BV022535069"},
-  {"id":"Dufour1998","accessed":{"date-parts":[["2014",3,18]]},"author":[{"family":"Dufour","given":"Nicolas"}],"citation-key":"Dufour1998","container-title":"Journal de Genève et Gazette de Lausanne","issued":{"date-parts":[["1998",2,11]]},"page":"1","source":"Le Temps Archives Historiques","title":"Cinquante ans après sa mort, Ramuz hésite encore entre Paris et Lausanne","type":"article-newspaper","URL":"http://www.letempsarchives.ch/Repository/getFiles.asp?Style=OliveXLib:LowLevelEntityToSaveGifMSIE_LETEMPSFR&Type=text/html&Locale=french-skin-custom&Path=JDG/1998/02/11&ChunkNum=-1&ID=Ar00101&PageLabel=1"},
-  {"id":"Einstein1911","accessed":{"date-parts":[["2014",2,4]]},"archive":"ETH Bibliothek Zürich","author":[{"family":"Einstein","given":"Albert"}],"call-number":"HS 1457:39","citation-key":"Einstein1911","event-place":"o. O.","issued":{"date-parts":[["1911",4,2]]},"publisher-place":"o. O.","recipient":[{"family":"Habicht","given":"Conrad"}],"source":"Einstein-Online","type":"personal_communication","URL":"http://www.library.ethz.ch/content/download/1583/16074/file/Hs_1457_39.pdf"},
-  {"id":"Emich","citation-key":"Emich","editor":[{"family":"Emich","given":"Birgit"},{"family":"Jaspert","given":"Nikolas"},{"family":"Kunisch","given":"Johannes"},{"family":"Luig","given":"Klaus"},{"family":"Moraw","given":"Peter"},{"family":"Oestmann","given":"Peter"},{"family":"Schilling","given":"Heinz"},{"family":"Schneidmüller","given":"Bernd"},{"family":"Stollberg-Reilinger","given":"Barbara"}],"event-place":"Münster","publisher-place":"Münster","title":"Zeitschrift für historische Forschung","type":"book"},
-  {"id":"Ende1973","accessed":{"date-parts":[["2014",10,9]]},"citation-key":"Ende1973","container-title":"Jim Knopf und Lukas der Lokomotivführer (Hörspiel)","dimensions":"4:02 min.","director":[{"family":"Ende","given":"Michael"}],"event-place":"o. O.","issued":{"date-parts":[["1973"]]},"number":"01","publisher":"Universal Music Family Entertainment","publisher-place":"o. O.","source":"Spotify","title":"Lummerland","type":"broadcast","URL":"https://play.spotify.com/track/3VwH2BBHaHb1SsjLFJ9VAG"},
-  {"id":"Escher1849","abstract":"Brief von Alfred Escher (1819-1882) an Pfarrer Heinrich Schweizer in Rüti, Ausstellungsort Belvoir","archive":"Staatsarchiv des Kantons Zürich","author":[{"family":"Escher","given":"Alfred"}],"call-number":"X 52.3 w","citation-key":"Escher1849","event-place":"Belvoir","issued":{"date-parts":[["1849",1,6]]},"publisher-place":"Belvoir","recipient":[{"family":"Schweizer","given":"Heinrich"}],"source":"Online-Archivdatenbank des Staatsarchivs Zürich","type":"personal_communication"},
-  {"id":"Forster2006","citation-key":"Forster2006","dimensions":"113 min.","director":[{"family":"Forster","given":"Marc"}],"event-place":"USA","issued":{"date-parts":[["2006"]]},"publisher":"Columbia Pictures","publisher-place":"USA","source":"Sony Pictures","title":"Stranger than Fiction","type":"motion_picture"},
-  {"id":"Gahwyler1976","archive":"Schweizerische Nationalphonothek","author":[{"family":"Gähwyler","given":"Karl"}],"call-number":"18BD1486","citation-key":"Gahwyler1976","dimensions":"26min","event-place":"o. O.","issued":{"date-parts":[["1976"]]},"medium":"Plastikspule","publisher-place":"o. O.","title":"Ich will leben wie Mensch nicht wie Hund an Kette!","type":"song"},
-  {"id":"Gardi2012","author":[{"family":"Gardi","given":"René"}],"citation-key":"Gardi2012","container-title":"Postkoloniale Schweiz","editor":[{"family":"Purtschert","given":"Patricia"},{"family":"Lüthi","given":"Barbara"},{"family":"Falk","given":"Francesca"}],"event-place":"Bielefeld","issued":{"date-parts":[["2012"]]},"page":"373","publisher":"Transcript","publisher-place":"Bielefeld","title":"In der Bar von Mokolo, Mokolo 1953","type":"chapter"},
-  {"id":"Gauchat1920","accessed":{"date-parts":[["2014",3,18]]},"author":[{"family":"Gauchat","given":"L."}],"citation-key":"Gauchat1920","container-title":"Anzeiger für schweizerische Geschichte","DOI":"10.5169/seals-64626","issued":{"date-parts":[["1920"]]},"page":"1-11","source":"retro.seals.ch","title":"Le nom de la ville d'Oron à l'époque romaine","type":"article-journal","URL":"https://www.e-periodica.ch/digbib/view?pid=szg-004:1920:18::471#9","volume":"18"},
-  {"id":"Gemperli1958","author":[{"family":"Gemperli","given":"Stefan"}],"citation-key":"Gemperli1958","collection-title":"Veröffentlichungen des Staatsarchivs St. Gallen","event-place":"St. Gallen","issued":{"date-parts":[["1958"]]},"page":"604-607","publisher":"Departement des Innern, Amt für Kultur","publisher-place":"St. Gallen","title":"Gesetz über Aktenführung und Archivierung des Kantons St. Gallen","type":"report"},
-  {"id":"Gruntz2011","accessed":{"date-parts":[["2014",3,27]]},"citation-key":"Gruntz2011","container-title":"Until We Get There","dimensions":"3:55 min.","director":[{"family":"Gruntz","given":"James"}],"issued":{"date-parts":[["2011"]]},"publisher":"Bakara Music","source":"iTunes Store Switzerland","title":"Good Times","type":"broadcast","URL":"https://itunes.apple.com/ch/album/good-times/id458572221?i=458572233"},
-  {"id":"Haber2011","author":[{"family":"Haber","given":"Peter"},{"family":"Hodel","given":"Jan"}],"citation-key":"Haber2011","event-place":"Basel","issued":{"date-parts":[["2011"]]},"number-of-pages":"Online-Datei","publisher":"hist.net","publisher-place":"Basel","title":"Geschichtswissenschaft und Web 2.0. Eine Dokumentation","title-short":"Geschichtswissenschaft und Web 2.0","type":"book"},
-  {"id":"Haber2011a","author":[{"family":"Haber","given":"Peter"}],"citation-key":"Haber2011a","interviewer":[{"family":"Natale","given":"Enrico"}],"issued":{"date-parts":[["2011",6,13]]},"publisher-place":"Basel","title":"Gespräch über Digital Humanities","type":"interview"},
-  {"id":"Hanzo2007","accessed":{"date-parts":[["2018",3,28]]},"author":[{"family":"Hanzo","given":"Lajos"},{"family":"Somerville","given":"F. Clare"},{"family":"Woodard","given":"Jason"}],"citation-key":"Hanzo2007","DOI":"10.1002/9780470516034","event-place":"Chichester, UK","ISBN":"978-0-470-51603-4 978-0-470-51581-5","issued":{"date-parts":[["2007",8,10]]},"language":"en","publisher":"John Wiley & Sons, Ltd.","publisher-place":"Chichester, UK","source":"CrossRef","title":"Voice and Audio Compression for Wireless Communications","type":"book","URL":"http://doi.wiley.com/10.1002/9780470516034"},
-  {"id":"HistorischeundAntiquarischeGesellschaftzuBasel2011","accessed":{"date-parts":[["2016",8,10]]},"citation-key":"HistorischeundAntiquarischeGesellschaftzuBasel2011","collection-number":"111","collection-title":"Basler Zeitschrift für Geschichte und Altertumskunde","editor":[{"literal":"Historische und Antiquarische Gesellschaft zu Basel"}],"event-place":"Basel","issued":{"date-parts":[["2011"]]},"publisher":"Schwabe","publisher-place":"Basel","title":"Basler Selbstzeugnisse","type":"book","URL":"http://www.e-periodica.ch/digbib/view?pid=bzg-002:2011:111#4"},
-  {"id":"Hoechner2018","author":[{"family":"Höchner","given":"Marc"},{"family":"Mathys","given":"Nora"},{"family":"Rüegg","given":"Severin"},{"family":"Schlittler","given":"Lisa"},{"family":"Schneider","given":"Oliver"}],"citation-key":"Hoechner2018","event-place":"Wabern","event-title":"Austellung Bernisches Historisches Museum, Bern, 23.08.2018−22.04.2019","ISBN":"978-3-9524783-1-8","issued":{"date-parts":[["2018"]]},"language":"ger","publisher":"Rub Media","publisher-place":"Wabern","title":"Grand Prix Suisse 1934-54: Bern im Rennfieber","title-short":"Grand Prix Suisse 1934-54","type":"book"},
-  {"id":"Holzhey2010","citation-key":"Holzhey2010","editor":[{"family":"Holzhey","given":"Magdalena"},{"family":"Michel","given":"Regina"}],"event-place":"Friedrichshafen","event-title":"Ausstellung Zeppelin-Museum, Friedrichshafen, 29.10.2010−12.12.2010","issued":{"date-parts":[["2010"]]},"language":"ger","publisher":"Kunststiftung der ZF Friedrichshafen AG","publisher-place":"Friedrichshafen","title":"Das Double der Ursache. Sandra Boeschenstein","type":"book"},
-  {"id":"Honegger1996","author":[{"family":"Honegger","given":"Claudia"}],"call-number":"Oz 41659","citation-key":"Honegger1996","event-place":"München","ISBN":"3-423-04684-8","issued":{"date-parts":[["1996"]]},"number-of-pages":"300","publisher":"Deutscher Taschenbuch Verlag","publisher-place":"München","source":"aleph.unibas.ch Library Catalog","title":"Die Ordnung der Geschlechter. Die Wissenschaften vom Menschen und das Weib","title-short":"Ordnung der Geschlechter","type":"book"},
-  {"id":"Hug2014","abstract":"Zwischen zwei Buchdeckeln findet Al Imfelds Leben nicht genügend Platz. Das ist vermutlich der Hauptgrund für die über fünfzig Publikationen, die der Theologe, Philosoph, Tropenagronom, Journalist und Afrikakenner im Laufe seines bald 80-jährigen Lebens veröffentlicht hat.","accessed":{"date-parts":[["2014",5,23]]},"citation-key":"Hug2014","container-title":"Focus","dimensions":"60min","director":[{"family":"Hug","given":"Hannes"}],"issued":{"date-parts":[["2014",5,19]]},"language":"de-CH","medium":"mp3","publisher":"Schweizer Radio und Fernsehen SRF","source":"Schweizer Radio und Fernsehen SRF","title":"Al Imfeld: Mein Leben ist die Besteigung eines sozialen Mount Everest","title-short":"Al Imfeld","type":"broadcast","URL":"http://www.srf.ch/sendungen/focus/al-imfeld-mein-leben-ist-die-besteigung-eines-sozialen-mount-everest"},
-  {"id":"Hunger2012","accessed":{"date-parts":[["2014",3,27]]},"citation-key":"Hunger2012","container-title":"The Danger of Light","dimensions":"61 min","director":[{"family":"Hunger","given":"Sophie"}],"issued":{"date-parts":[["2012"]]},"publisher":"Two Gentlemen Records","source":"Two Gentlemen","type":"broadcast","URL":"https://itunes.apple.com/de/album/danger-light-deluxe-edition/id556828272"},
-  {"id":"Hurlimann2015","author":[{"family":"Hürlimann","given":"Katja"}],"citation-key":"Hurlimann2015","container-title":"traverse - Zeitschrift für Geschichte","issued":{"date-parts":[["2015"]]},"page":"190-192","title":"Rezension zu: Moddelmog, Claudia; Teuscher, Simon (Hg.): Königsmord, Kloster, Klinik, Baden 2012","type":"article-journal","volume":"3"},
-  {"id":"Hurlimann2015a","author":[{"family":"Hürlimann","given":"Katja"}],"citation-key":"Hurlimann2015a","container-title":"traverse - Zeitschrift für Geschichte","issued":{"date-parts":[["2015"]]},"page":"190-192","title":"Recension de: Moddelmog Claudia, Teuscher Simon (éds.), Königsmord, Kloster, Klinik, Baden, Hier + Jetzt, 2012","type":"article-journal","volume":"3"},
-  {"id":"JohnBuettner","accessed":{"date-parts":[["2016",8,10]]},"citation-key":"JohnBuettner","editor":[{"family":"John","given":"Jennifer"},{"family":"Büttner","given":"Silke"},{"family":"Heinz","given":"Kathrin"},{"family":"Zimmermann","given":"Anja"},{"family":"Brandes","given":"Kerstin"},{"family":"Wienand","given":"Kea"},{"family":"Adorf","given":"Sigrid"},{"family":"Christadler","given":"Maike"},{"family":"Futscher","given":"Edith"},{"family":"Koos","given":"Marianne"},{"family":"Hofer","given":"Kristina Pia"},{"family":"Hermann","given":"Anja"}],"event-place":"Bremen","publisher-place":"Bremen","title":"FKW. Zeitschrift für Geschlechterforschung und visuelle Kultur","type":"book","URL":"http://www.fkw-journal.de/index.php/fkw/index"},
-  {"id":"Jost1932","accessed":{"date-parts":[["2014",3,25]]},"archive":"Staatsarchiv des Kantons Bern","archive_location":"FN Jost Fotonachlass Carl Jost","author":[{"family":"Jost","given":"Carl"}],"call-number":"FN Jost N 10064","citation-key":"Jost1932","dimensions":"3.5 x 2.5 cm","event-place":"Bern","issued":{"circa":true,"date-parts":[["1932"]]},"medium":"Fotografie","publisher-place":"Bern","source":"Online-Inventar des Staatsarchivs des Kantons Bern","title":"Berner Mattequartier","type":"graphic","URL":"http://www.query.sta.be.ch/detail.aspx?ID=472422"},
-  {"id":"Kashimada2014","abstract":"Im späten 19. Jahrhundert entwickelte sich das rasch modernisierte Japan zu einem Militärstaat. Hautnah erlebte dies Paul Ritter. Für den jungen Diplomaten aus der neutralen Schweiz hatte sich Japan, das mit Reichtum und militärischer Stärke auftrumpfte, \"sehr rasch zu einem modernen Staat entwickelt\", wie er in Briefen an seine Eltern in Basel schrieb.","accessed":{"date-parts":[["2014",3,28]]},"author":[{"family":"Kashimada","given":"Fumi"}],"citation-key":"Kashimada2014","container-title":"swissinfo.ch","issued":{"date-parts":[["2014",3,18]]},"title":"Erster Schweizer Botschafter erlebt Japan im Umbruch","type":"webpage","URL":"http://www.swissinfo.ch/ger/politik/genauer-beobachter-der-meiji-aera_erster-schweizer-botschafter-erlebt-japan-im-umbruch/37959262"},
-  {"id":"Kennedy1962","accessed":{"date-parts":[["2014",8,5]]},"archive":"John F. Kennedy Presidental Library and Museum","author":[{"family":"Kennedy","given":"John F."}],"call-number":"JFKWHA-142-001","citation-key":"Kennedy1962","collection-title":"Historic Speeches","dimensions":"18min","event-place":"Washington DC","issued":{"date-parts":[["1962",10,22]]},"medium":"Tonband","publisher-place":"Washington DC","source":"jfklibrary.org","title":"Radio and television address to the American people on the Soviet arms build-up in Cuba","type":"song","URL":"http://www.jfklibrary.org/Asset-Viewer/sUVmCh-sB0moLfrBcaHaSg.aspx"},
-  {"id":"Koller2014","accessed":{"date-parts":[["2014",9,5]]},"author":[{"family":"Koller","given":"Guido"}],"citation-key":"Koller2014","collection-title":"infoclio.ch-Tagungsberichte","issued":{"date-parts":[["2014",6,24]]},"source":"infoclio.ch","title":"Lobbying. Die Vorräume der Macht","type":"report","URL":"https://www.infoclio.ch/de/node/135139"},
-  {"id":"Konig2012","accessed":{"date-parts":[["2014",2,4]]},"author":[{"family":"König","given":"Mareike"}],"citation-key":"Konig2012","container-title":"Redaktionsblog","issued":{"date-parts":[["2012",4,26]]},"title":"Guck mal, wer da bloggt! Neue Blogs bei de.hypotheses.org","type":"post-weblog","URL":"http://redaktionsblog.hypotheses.org/485"},
-  {"id":"Kortum2001","call-number":"D121 .K75 2001","citation-key":"Kortum2001","editor":[{"family":"Kortüm","given":"Hans-Henning"}],"event-place":"Berlin","ISBN":"3-05-003496-3","issued":{"date-parts":[["2001"]]},"number-of-pages":"309","publisher":"Akademie Verlag","publisher-place":"Berlin","source":"Library of Congress ISBN","title":"Krieg im Mittelalter","type":"book"},
-  {"id":"Kreis2014","author":[{"family":"Kreis","given":"Georg"}],"citation-key":"Kreis2014","edition":"2","event-place":"Zürich","ISBN":"978-3-03823-844-7","issued":{"date-parts":[["2014"]]},"number-of-pages":"299","publisher":"Neue Zürcher Zeitung","publisher-place":"Zürich","source":"Library of Congress ISBN","title":"Insel der unsicheren Geborgenheit. Die Schweiz in den Kriegsjahren 1914-1918","title-short":"Insel der unsicheren Geborgenheit","type":"book"},
-  {"id":"Leclerc","accessed":{"date-parts":[["2014",9,16]]},"citation-key":"Leclerc","container-title":"Histoire vivante","director":[{"family":"Leclerc","given":"Jean"}],"publisher":"Radio Télévision Suisse RTS","source":"RTS.ch","type":"broadcast","URL":"http://www.rts.ch/docs/histoire-vivante/podcasts/"},
-  {"id":"Marti-Weissenbach2006","abstract":"Artikel 'Füssli, Johann Konrad' im Historischen Lexikon der Schweiz - Geschichte","author":[{"family":"Marti-Weissenbach","given":"Karin"}],"citation-key":"Marti-Weissenbach2006","container-title":"Historisches Lexikon der Schweiz","event-place":"Basel","issued":{"date-parts":[["2006"]]},"language":"de","number-of-volumes":"13","page":"48","publisher":"Schwabe","publisher-place":"Basel","title":"Füssli, Johann Konrad","type":"entry-encyclopedia","volume":"5"},
-  {"id":"Meyers1885","accessed":{"date-parts":[["2015",9,11]]},"author":[{"literal":"o. A."}],"citation-key":"Meyers1885","container-title":"Meyers Konversations-Lexikon","edition":"4","event-place":"Leipzig, Wien","issued":{"date-parts":[["1885"],["1892"]]},"page":"27","publisher":"Bibliographisches Institut","publisher-place":"Leipzig, Wien","source":"Retrobibliothek.de","title":"Chinesische Mauer","title-short":"Meyers Konversations-Lexikon","type":"entry-encyclopedia","URL":"http://www.retrobibliothek.de/retrobib/seite.html?id=103375"},
-  {"id":"Morgenthaler1964","accessed":{"date-parts":[["2014",8,8]]},"archive":"Staatsarchiv des Kantons Bern","archive_location":"D Spezialarchive","call-number":"VID 41","citation-key":"Morgenthaler1964","director":[{"family":"Morgenthaler","given":"Niklaus"}],"event-place":"Bern","issued":{"date-parts":[["1964"]]},"medium":"Film 16mm","publisher-place":"Bern","title":"Halen 1964","type":"motion_picture"},
-  {"id":"Moser1996","author":[{"family":"Moser","given":"Peter"}],"citation-key":"Moser1996","container-title":"NZZ","issued":{"date-parts":[["1996",10,25]]},"page":"166-171","title":"Besessen von der Vergangenheit? Geschichtsschreibung und Literatur in Irland","title-short":"Besessen von der Vergangenheit?","type":"article-newspaper"},
-  {"id":"Muller1998","abstract":"Schloss Wildegg ist vielen Leuten in erster Linie als Schulreiseziel aus der Kindheit bekannt. Die älteste Aussenstelle des Schweizerischen Landesmuseums beherbergt einen der komplettesten ...","accessed":{"date-parts":[["2014",1,24]]},"author":[{"family":"Müller","given":"Felix"}],"citation-key":"Muller1998","event-place":"Bern","genre":"Dissertation","issued":{"date-parts":[["1998"]]},"publisher":"Universität Bern","publisher-place":"Bern","title":"Aussterben oder Verarmen? Lebensführung und wirtschaftliche Verhältnisse der Berner Patrizierfamilie Effinger von Wildegg (1725-1815)","type":"thesis"},
-  {"id":"o.A.2010","accessed":{"date-parts":[["2014",3,28]]},"author":[{"literal":"o. A."}],"citation-key":"o.A.2010","container-title":"Schweizerische Nationalbibliothek","issued":{"date-parts":[["2010",12,23]]},"title":"Geschichte der Bibliothek","type":"webpage","URL":"http://www.nb.admin.ch/org/03651/index.html?lang=de"},
-  {"id":"Obama2012","accessed":{"date-parts":[["2015",6,5]]},"author":[{"family":"Obama","given":"Barack"}],"citation-key":"Obama2012","container-title":"@BarackObama","genre":"Twitter","issued":{"date-parts":[["2012",11,6]]},"title":"Four more years","type":"post-weblog","URL":"https://twitter.com/BarackObama/status/266031293945503744"},
-  {"id":"Pellin2014","accessed":{"date-parts":[["2014",5,16]]},"author":[{"family":"Pellin","given":"Elio"}],"citation-key":"Pellin2014","container-title":"swiss-lib","issued":{"date-parts":[["2014",5,6]]},"title":"Buch am Mittag","type":"post","URL":"https://lists.switch.ch/mailman/private/swiss-lib/2014-May/014964.html"},
-  {"id":"Pesne1729","accessed":{"date-parts":[["2014",9,12]]},"archive":"Stiftung Preussische Schlösser und Gärten","archive_location":"Park Schloss Charlottenburg","author":[{"family":"Pesne","given":"Antoine"}],"call-number":"00000012","citation-key":"Pesne1729","dimensions":"242 x 149 cm","event-place":"Berlin","issued":{"date-parts":[["1729"]]},"license":"Stiftung Preussische Schlösser und Gärten Berlin-Brandenburg","medium":"Gemälde / Öl auf Leinwand","publisher-place":"Berlin","source":"Bildportal der Kunstmuseen","title":"Der «Soldatenkönig» von Preußen - Friedrich Wilhelm I.","type":"graphic","URL":"http://www.bpk-images.de/?18671877727020631900&MEDIANUMBER=00000012"},
-  {"id":"Plag2007","author":[{"family":"Plag","given":"Ingo"},{"family":"Braun","given":"Maria"},{"family":"Lappe","given":"Sabine"},{"family":"Schramm","given":"Mareile"}],"citation-key":"Plag2007","event-place":"Berlin; New York","ISBN":"978-3-11-019834-8 3-11-019834-7","issued":{"date-parts":[["2007"]]},"language":"English","publisher":"Mouton de Gruyter","publisher-place":"Berlin; New York","source":"Open WorldCat","title":"Introduction to English linguistics","type":"book"},
-  {"id":"Poletti","abstract":"«Rundschau» – Das Politmagazin: Hintergrund und Recherchen über aktuelle Ereignisse und latente Brennpunkte im In- und Ausland. Reportagen und Magazinberichte nah am Geschehen, oft mitten drin ohne je die kritisch-journalistische Distanz zu verlieren.","accessed":{"date-parts":[["2014",5,23]]},"citation-key":"Poletti","container-title":"Rundschau","director":[{"family":"Poletti","given":"Mario"}],"language":"de-CH","publisher":"Schweizer Radio und Fernsehen SRF","source":"Schweizer Radio und Fernsehen SRF","type":"broadcast","URL":"http://www.srf.ch/sendungen/rundschau/sendeportraet"},
-  {"id":"Reinau1981","accessed":{"date-parts":[["2014",3,6]]},"author":[{"family":"Reinau","given":"Hansjörg"}],"citation-key":"Reinau1981","event-place":"Basel","genre":"Dissertation","issued":{"date-parts":[["1981"]]},"publisher":"Universität Basel","publisher-place":"Basel","source":"edoc Basel","title":"Die Entstehung des Bürgerbegriffs bei den Griechen","type":"thesis","URL":"http://edoc.unibas.ch/diss/DissB_70"},
-  {"id":"Scheiwiller2015","author":[{"family":"Scheiwiller","given":"Walter"}],"citation-key":"Scheiwiller2015","collection-title":"NZZ Geschichte","container-title":"NZZ Geschichte: Wir Protestanten. Wie die Reformation die Schweiz reich gemacht hat","editor":[{"family":"Beglinger","given":"Martin"}],"issue":"2","issued":{"date-parts":[["2015"]]},"page":"82","title":"Kinder betteln bei den Amerikanern um Kaugummis, Chur 1945","type":"article-journal"},
-  {"id":"SchweizerischeGesellschaftfurGeschichte","citation-key":"SchweizerischeGesellschaftfurGeschichte","editor":[{"literal":"Schweizerische Gesellschaft für Geschichte"}],"event-place":"Basel","publisher":"Schwabe","publisher-place":"Basel","title":"Schweizerische Zeitschrift für Geschichte (SZG)","type":"book"},
-  {"id":"SchweizerischerBundesrat1992","accessed":{"date-parts":[["2014",2,23]]},"author":[{"family":"Schweizerischer Bundesrat","given":""}],"citation-key":"SchweizerischerBundesrat1992","collection-title":"Bundesblatt","issued":{"date-parts":[["1992",2,19]]},"number":"2/17","page":"1441-1481","source":"Amtsdruckschriften","title":"Botschaft über die Reorganisation der Schweizerischen Landesbibliothek vom 19. Februar 1992","type":"report","URL":"http://www.amtsdruckschriften.bar.admin.ch/viewOrigDoc.do?id=10052205"},
-  {"id":"Siegenthaler1990","author":[{"family":"Siegenthaler","given":"Hansjörg"}],"citation-key":"Siegenthaler1990","container-title":"Schweiz im Wandel: Studien zur neueren Gesellschaftsgeschichte","editor":[{"family":"Brändli","given":"Sebastian"},{"family":"Gugerli","given":"David"},{"family":"Jaun","given":"Rudolf"},{"family":"Pfister","given":"Ulrich"}],"event-place":"Basel","issued":{"date-parts":[["1990"]]},"page":"419-434","publisher":"Helbing und Lichtenhahn","publisher-place":"Basel","title":"Die Rede von der Kontinuität in der Diskontinuität sozialen Wandels – das Beispiel der dreißiger Jahre","type":"chapter"},
-  {"id":"Stadtwanderer2014","accessed":{"date-parts":[["2014",3,25]]},"author":[{"literal":"Stadtwanderer"}],"citation-key":"Stadtwanderer2014","container-title":"Stadtwanderer - Geschichte(n) aus meinem Lebensraum","issued":{"date-parts":[["2014",3,22]]},"title":"Gelebte Machtteilung","title-short":"Gelebte Machtteilung","type":"post-weblog","URL":"http://www.stadtwanderer.net/?p=16726"},
-  {"id":"Strassburg1210","author":[{"family":"Strassburg","given":"Gottfried"}],"citation-key":"Strassburg1210","issued":{"circa":true,"date-parts":[["1210"]]},"title":"Tristan und Isolde","type":"book"},
-  {"id":"Verpflegungsverträge1868","archive":"Staatsarchiv des Kantons Bern","archive_location":"Armen- und Fürsorgewesen 1858-1897","call-number":"BB XII B 163","citation-key":"Verpflegungsverträge1868","event-place":"Bern","issued":{"date-parts":[["1868"],["1879"]]},"publisher-place":"Bern","title":"Verpflegungsverträge für Verdingkinder","type":"manuscript"},
-  {"id":"Vulgata","accessed":{"date-parts":[["2014",2,5]]},"archive":"Burgerbibliothek Bern","call-number":"Cod. 4","citation-key":"Vulgata","event-place":"Tours, Kloster St. Martin","issued":{"literal":"um 820–830"},"publisher-place":"Tours, Kloster St. Martin","source":"e-codices","title":"Biblia latina (Vulgata), Teil 2: Salomon bis Apokalypse (unvollständig)","type":"manuscript","URL":"http://www.e-codices.unifr.ch/de/list/one/bbb/0004"},
-  {"id":"Wyss2014","abstract":"Le 11 septembre 1973, Pinochet renverse le gouvernement socialiste d'Allende, au Chili.","accessed":{"date-parts":[["2014",5,23]]},"citation-key":"Wyss2014","container-title":"Histoire vivante","dimensions":"56min.","director":[{"family":"Wyss","given":"Daniel"}],"issued":{"date-parts":[["2014",5,18]]},"publisher":"Radio Télévision Suisse","source":"rts.ch","title":"La barque n'est pas pleine - Réfugiés chiliens en Suisse","title-short":"La barque n'est pas pleine","type":"broadcast","URL":"http://www.rts.ch/docs/histoire-vivante/a-voir/5757336-la-barque-n-est-pas-pleine-refugies-chiliens-en-suisse.html"},
-  {"id":"Ziegler2015","accessed":{"date-parts":[["2015",11,19]]},"author":[{"family":"Ziegler","given":"Béatrice"}],"citation-key":"Ziegler2015","container-title":"H-Soz-Kult","issued":{"date-parts":[["2015",9,10]]},"title":"Rezension zu: Holenstein, André: Mitten in Europa. Verflechtung und Abgrenzung in der Schweizer Geschichte, Baden 2014","type":"webpage","URL":"http://www.hsozkult.de/publicationreview/id/rezbuecher-24026"},
-  {"id":"Ziegler2015a","accessed":{"date-parts":[["2015",11,19]]},"author":[{"family":"Ziegler","given":"Béatrice"}],"citation-key":"Ziegler2015a","container-title":"H-Soz-Kult","issued":{"date-parts":[["2015",9,10]]},"title":"Recension de: Holenstein André, Mitten in Europa. Verflechtung und Abgrenzung in der Schweizer Geschichte, Baden, Hier + Jetzt, 2014","type":"webpage","URL":"http://www.hsozkult.de/publicationreview/id/rezbuecher-24026"},
-  {"id":"Zogg2000","author":[{"family":"Zogg","given":"Andi"}],"citation-key":"Zogg2000","event-place":"Zürich","genre":"Lizentiatsarbeit","issued":{"date-parts":[["2000"]]},"publisher":"Universität Zürich","publisher-place":"Zürich","title":"Das \"System\" hat die Grippe. Vom Umgang mit einer Epidemie im Jahr des schweizerischen Landesstreiks von 1918","title-short":"Das „System“ hat die Grippe","type":"thesis"}
+  {
+    "id": "Althoff2012",
+    "author": [
+      {
+        "family": "Althoff",
+        "given": "Gerd"
+      }
+    ],
+    "citation-key": "Althoff2012",
+    "container-title": "Canossa. Aspekte einer Wende",
+    "editor": [
+      {
+        "family": "Hasberg",
+        "given": "Wolfgang"
+      }
+    ],
+    "event-place": "Regensburg",
+    "issued": {
+      "date-parts": [
+        [
+          "2012"
+        ]
+      ]
+    },
+    "page": "73-88",
+    "publisher": "Friedrich Pustet",
+    "publisher-place": "Regensburg",
+    "title": "Zu den Grundlagen des Gregorianischen Amtsverständnisses",
+    "type": "chapter"
+  },
+  {
+    "id": "Bacher",
+    "accessed": {
+      "date-parts": [
+        [
+          "2015",
+          9,
+          15
+        ]
+      ]
+    },
+    "author": [
+      {
+        "family": "Bacher",
+        "given": "Kaspar"
+      }
+    ],
+    "citation-key": "Bacher",
+    "container-title": "Eidgenössisches Departement für auswärtige Angelegenheiten",
+    "license": "EDA/Kaspar Bacher",
+    "title": "Der Präsident der Italienischen Republik Giorgio Napolitano wurde mit militärischen Ehren empfangen, Bern 20.05.2014",
+    "type": "webpage",
+    "URL": "https://www.erweiterungsbeitrag.admin.ch/eda/de/meta/agenda/2014/mai/staatsbesuch-napolitano.html/content/eda/de/meta/agenda/2014/mai/staatsbesuch-napolitano/_jcr_content/par/imagegallery/galleryParsys/galleryimage"
+  },
+  {
+    "id": "Becker2002",
+    "author": [
+      {
+        "family": "Becker",
+        "given": "Peter"
+      }
+    ],
+    "call-number": "HV 6022.G3 B396 2002",
+    "citation-key": "Becker2002",
+    "collection-number": "176",
+    "collection-title": "Veröffentlichungen des Max-Planck-Instituts für Geschichte",
+    "event-place": "Göttingen",
+    "ISBN": "3-525-35172-0",
+    "issued": {
+      "date-parts": [
+        [
+          "2002"
+        ]
+      ]
+    },
+    "number-of-pages": "416",
+    "publisher": "Vandenhoeck & Ruprecht",
+    "publisher-place": "Göttingen",
+    "source": "Library of Congress ISBN",
+    "title": "Verderbnis und Entartung. Eine Geschichte der Kriminologie des 19. Jahrhunderts als Diskurs und Praxis",
+    "title-short": "Verderbnis und Entartung",
+    "type": "book"
+  },
+  {
+    "id": "Berset2020",
+    "accessed": {
+      "date-parts": [
+        [
+          "2020",
+          3,
+          10
+        ]
+      ]
+    },
+    "author": [
+      {
+        "family": "Berset",
+        "given": "Alain"
+      }
+    ],
+    "citation-key": "Berset2020",
+    "container-title": "Facebook",
+    "issued": {
+      "date-parts": [
+        [
+          "2020",
+          2,
+          28
+        ]
+      ]
+    },
+    "title": "Der Bundesrat hat sich heute zu einer ausserordentlichen Sitzung getroffen...",
+    "type": "post-weblog",
+    "URL": "https://www.facebook.com/BersetAlain/photos/a.1115701091805829/3549035598472354/?type=3&theater"
+  },
+  {
+    "id": "BlaueFee2012",
+    "accessed": {
+      "date-parts": [
+        [
+          "2014",
+          2,
+          4
+        ]
+      ]
+    },
+    "author": [
+      {
+        "family": "\"Blaue Fee\"",
+        "given": ""
+      }
+    ],
+    "citation-key": "BlaueFee2012",
+    "container-title": "Spiegel Online-Forum: Kindergärten - Sollte es mehr männliche Erzieher geben?",
+    "issued": {
+      "date-parts": [
+        [
+          "2012",
+          9,
+          2
+        ]
+      ]
+    },
+    "title": "Warum nicht?",
+    "type": "post",
+    "URL": "http://forum.spiegel.de/f10/kindergaerten-sollte-es-mehr-maennliche-erzieher-geben-69683.html#post10873112"
+  },
+  {
+    "id": "Bourdieu1990",
+    "abstract": "Criticizes the biographical conception of a life as a coherent whole that can be narrated as a history or story.",
+    "author": [
+      {
+        "family": "Bourdieu",
+        "given": "Pierre"
+      }
+    ],
+    "call-number": "46320662",
+    "citation-key": "Bourdieu1990",
+    "container-title": "Bios",
+    "container-title-short": "BIOS: Zeitschrift für Biographieforschung und Oral History",
+    "ISSN": "09335315",
+    "issue": "1",
+    "issued": {
+      "date-parts": [
+        [
+          "1990"
+        ]
+      ]
+    },
+    "original-date": {
+      "date-parts": [
+        [
+          "1986"
+        ]
+      ]
+    },
+    "page": "75-81",
+    "source": "EBSCOhost",
+    "title": "Die biographische Illusion",
+    "type": "article-journal",
+    "volume": "3"
+  },
+  {
+    "id": "Brandli1990",
+    "call-number": "DQ36 .S366 1990",
+    "citation-key": "Brandli1990",
+    "editor": [
+      {
+        "family": "Brändli",
+        "given": "Sebastian"
+      },
+      {
+        "family": "Gugerli",
+        "given": "David"
+      },
+      {
+        "family": "Jaun",
+        "given": "Rudolf"
+      },
+      {
+        "family": "Pfister",
+        "given": "Ulrich"
+      }
+    ],
+    "event-place": "Basel",
+    "ISBN": "3-7190-1058-9",
+    "issued": {
+      "date-parts": [
+        [
+          "1990"
+        ]
+      ]
+    },
+    "number-of-pages": "434",
+    "publisher": "Helbing & Lichtenhahn",
+    "publisher-place": "Basel",
+    "source": "Library of Congress ISBN",
+    "title": "Schweiz im Wandel. Studien zur neueren Gesellschaftsgeschichte",
+    "title-short": "Schweiz im Wandel",
+    "type": "book"
+  },
+  {
+    "id": "Brugger2016",
+    "accessed": {
+      "date-parts": [
+        [
+          "2016",
+          8,
+          10
+        ]
+      ]
+    },
+    "citation-key": "Brugger2016",
+    "collection-number": "60",
+    "collection-title": "FKW. Zeitschrift für Geschlechterforschung und visuelle Kultur",
+    "editor": [
+      {
+        "family": "Brugger",
+        "given": "Eva"
+      },
+      {
+        "family": "Christadler",
+        "given": "Maike"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          "2016"
+        ]
+      ]
+    },
+    "title": "Riskante Versprechen. Erfolg und Scheitern in der Vormoderne",
+    "type": "book",
+    "URL": "http://www.fkw-journal.de./index.php/fkw/issue/view/72"
+  },
+  {
+    "id": "Capus2013",
+    "author": [
+      {
+        "family": "Capus",
+        "given": "Alex"
+      }
+    ],
+    "citation-key": "Capus2013",
+    "event-place": "München",
+    "issued": {
+      "date-parts": [
+        [
+          "2013"
+        ]
+      ]
+    },
+    "note": "Ebook",
+    "publisher": "Carl Hanser Verlag",
+    "publisher-place": "München",
+    "title": "Der Fälscher, die Spionin und der Bombenbauer (E-Book)",
+    "type": "book"
+  },
+  {
+    "id": "ChaptGPT2023",
+    "citation-key": "ChaptGPT2023",
+    "container-title": "ChatGPT (Version 3.5)",
+    "issued": {
+      "date-parts": [
+        [
+          "2023",
+          3,
+          23
+        ]
+      ]
+    },
+    "title": "Prompt: Was ist Geologie?",
+    "type": "webpage",
+    "URL": "https://chat.openai.com/"
+  },
+  {
+    "id": "Delaloye2016",
+    "citation-key": "Delaloye2016",
+    "collection-number": "2",
+    "collection-title": "Traverse",
+    "editor": [
+      {
+        "family": "Delaloye",
+        "given": "Magali"
+      },
+      {
+        "family": "Gillard",
+        "given": "Diane"
+      },
+      {
+        "family": "Ludi",
+        "given": "Regula"
+      }
+    ],
+    "event-place": "Zürich",
+    "ISBN": "978-3-905315-68-4",
+    "issued": {
+      "date-parts": [
+        [
+          "2016"
+        ]
+      ]
+    },
+    "publisher": "Chronos",
+    "publisher-place": "Zürich",
+    "title": "Transnationale Feminismen - Les féminismes transnationaux",
+    "title-short": "Transnationale Feminismen",
+    "type": "book"
+  },
+  {
+    "id": "Diener1967",
+    "author": [
+      {
+        "family": "Diener",
+        "given": "Hermann"
+      }
+    ],
+    "citation-key": "Diener1967",
+    "container-title": "Archiv für Kulturgeschichte",
+    "issued": {
+      "date-parts": [
+        [
+          "1967"
+        ]
+      ]
+    },
+    "page": "43-97",
+    "title": "Die \"Camera Papagalli\" im Palast des Papstes. Papageien als Hausgenossen der Päpste, Könige und Fürsten des Mittelalters und der Renaissance",
+    "title-short": "Die \"Camera Papagalli\" im Palast des Papstes",
+    "type": "article-journal",
+    "volume": "49"
+  },
+  {
+    "id": "Dobrinski2007",
+    "accessed": {
+      "date-parts": [
+        [
+          "2014",
+          10,
+          10
+        ]
+      ]
+    },
+    "citation-key": "Dobrinski2007",
+    "editor": [
+      {
+        "family": "Dobrinski",
+        "given": "Claudia"
+      },
+      {
+        "family": "Gedderth",
+        "given": "Brunhilde"
+      },
+      {
+        "family": "Wipfler",
+        "given": "Katrin"
+      }
+    ],
+    "event-place": "München",
+    "ISBN": "978-3-7705-4527-8",
+    "issued": {
+      "date-parts": [
+        [
+          "2007"
+        ]
+      ]
+    },
+    "number-of-pages": "226",
+    "publisher": "W. Fink",
+    "publisher-place": "München",
+    "source": "Deutsche Digitale Bibliothek",
+    "title": "Kloster und Wirtschaftswelt im Mittelalter",
+    "type": "book",
+    "URL": "https://opacplus.bsb-muenchen.de/title/BV022535069"
+  },
+  {
+    "id": "Dufour1998",
+    "accessed": {
+      "date-parts": [
+        [
+          "2014",
+          3,
+          18
+        ]
+      ]
+    },
+    "author": [
+      {
+        "family": "Dufour",
+        "given": "Nicolas"
+      }
+    ],
+    "citation-key": "Dufour1998",
+    "container-title": "Journal de Genève et Gazette de Lausanne",
+    "issued": {
+      "date-parts": [
+        [
+          "1998",
+          2,
+          11
+        ]
+      ]
+    },
+    "page": "1",
+    "source": "Le Temps Archives Historiques",
+    "title": "Cinquante ans après sa mort, Ramuz hésite encore entre Paris et Lausanne",
+    "type": "article-newspaper",
+    "URL": "http://www.letempsarchives.ch/Repository/getFiles.asp?Style=OliveXLib:LowLevelEntityToSaveGifMSIE_LETEMPSFR&Type=text/html&Locale=french-skin-custom&Path=JDG/1998/02/11&ChunkNum=-1&ID=Ar00101&PageLabel=1"
+  },
+  {
+    "id": "Einstein1911",
+    "accessed": {
+      "date-parts": [
+        [
+          "2014",
+          2,
+          4
+        ]
+      ]
+    },
+    "archive": "ETH Bibliothek Zürich",
+    "author": [
+      {
+        "family": "Einstein",
+        "given": "Albert"
+      }
+    ],
+    "call-number": "HS 1457:39",
+    "citation-key": "Einstein1911",
+    "event-place": "o. O.",
+    "issued": {
+      "date-parts": [
+        [
+          "1911",
+          4,
+          2
+        ]
+      ]
+    },
+    "publisher-place": "o. O.",
+    "recipient": [
+      {
+        "family": "Habicht",
+        "given": "Conrad"
+      }
+    ],
+    "source": "Einstein-Online",
+    "type": "personal_communication",
+    "URL": "http://www.library.ethz.ch/content/download/1583/16074/file/Hs_1457_39.pdf"
+  },
+  {
+    "id": "Emich",
+    "citation-key": "Emich",
+    "editor": [
+      {
+        "family": "Emich",
+        "given": "Birgit"
+      },
+      {
+        "family": "Jaspert",
+        "given": "Nikolas"
+      },
+      {
+        "family": "Kunisch",
+        "given": "Johannes"
+      },
+      {
+        "family": "Luig",
+        "given": "Klaus"
+      },
+      {
+        "family": "Moraw",
+        "given": "Peter"
+      },
+      {
+        "family": "Oestmann",
+        "given": "Peter"
+      },
+      {
+        "family": "Schilling",
+        "given": "Heinz"
+      },
+      {
+        "family": "Schneidmüller",
+        "given": "Bernd"
+      },
+      {
+        "family": "Stollberg-Reilinger",
+        "given": "Barbara"
+      }
+    ],
+    "event-place": "Münster",
+    "publisher-place": "Münster",
+    "title": "Zeitschrift für historische Forschung",
+    "type": "book"
+  },
+  {
+    "id": "Ende1973",
+    "accessed": {
+      "date-parts": [
+        [
+          "2014",
+          10,
+          9
+        ]
+      ]
+    },
+    "citation-key": "Ende1973",
+    "container-title": "Jim Knopf und Lukas der Lokomotivführer (Hörspiel)",
+    "dimensions": "4:02 min.",
+    "director": [
+      {
+        "family": "Ende",
+        "given": "Michael"
+      }
+    ],
+    "event-place": "o. O.",
+    "issued": {
+      "date-parts": [
+        [
+          "1973"
+        ]
+      ]
+    },
+    "number": "01",
+    "publisher": "Universal Music Family Entertainment",
+    "publisher-place": "o. O.",
+    "source": "Spotify",
+    "title": "Lummerland",
+    "type": "broadcast",
+    "URL": "https://play.spotify.com/track/3VwH2BBHaHb1SsjLFJ9VAG"
+  },
+  {
+    "id": "Escher1849",
+    "abstract": "Brief von Alfred Escher (1819-1882) an Pfarrer Heinrich Schweizer in Rüti, Ausstellungsort Belvoir",
+    "archive": "Staatsarchiv des Kantons Zürich",
+    "author": [
+      {
+        "family": "Escher",
+        "given": "Alfred"
+      }
+    ],
+    "call-number": "X 52.3 w",
+    "citation-key": "Escher1849",
+    "event-place": "Belvoir",
+    "issued": {
+      "date-parts": [
+        [
+          "1849",
+          1,
+          6
+        ]
+      ]
+    },
+    "publisher-place": "Belvoir",
+    "recipient": [
+      {
+        "family": "Schweizer",
+        "given": "Heinrich"
+      }
+    ],
+    "source": "Online-Archivdatenbank des Staatsarchivs Zürich",
+    "type": "personal_communication"
+  },
+  {
+    "id": "Forster2006",
+    "citation-key": "Forster2006",
+    "dimensions": "113 min.",
+    "director": [
+      {
+        "family": "Forster",
+        "given": "Marc"
+      }
+    ],
+    "event-place": "USA",
+    "issued": {
+      "date-parts": [
+        [
+          "2006"
+        ]
+      ]
+    },
+    "publisher": "Columbia Pictures",
+    "publisher-place": "USA",
+    "source": "Sony Pictures",
+    "title": "Stranger than Fiction",
+    "type": "motion_picture"
+  },
+  {
+    "id": "Gahwyler1976",
+    "archive": "Schweizerische Nationalphonothek",
+    "author": [
+      {
+        "family": "Gähwyler",
+        "given": "Karl"
+      }
+    ],
+    "call-number": "18BD1486",
+    "citation-key": "Gahwyler1976",
+    "dimensions": "26min",
+    "event-place": "o. O.",
+    "issued": {
+      "date-parts": [
+        [
+          "1976"
+        ]
+      ]
+    },
+    "medium": "Plastikspule",
+    "publisher-place": "o. O.",
+    "title": "Ich will leben wie Mensch nicht wie Hund an Kette!",
+    "type": "song"
+  },
+  {
+    "id": "Gardi2012",
+    "author": [
+      {
+        "family": "Gardi",
+        "given": "René"
+      }
+    ],
+    "citation-key": "Gardi2012",
+    "container-title": "Postkoloniale Schweiz",
+    "editor": [
+      {
+        "family": "Purtschert",
+        "given": "Patricia"
+      },
+      {
+        "family": "Lüthi",
+        "given": "Barbara"
+      },
+      {
+        "family": "Falk",
+        "given": "Francesca"
+      }
+    ],
+    "event-place": "Bielefeld",
+    "issued": {
+      "date-parts": [
+        [
+          "2012"
+        ]
+      ]
+    },
+    "page": "373",
+    "publisher": "Transcript",
+    "publisher-place": "Bielefeld",
+    "title": "In der Bar von Mokolo, Mokolo 1953",
+    "type": "chapter"
+  },
+  {
+    "id": "Gauchat1920",
+    "accessed": {
+      "date-parts": [
+        [
+          "2014",
+          3,
+          18
+        ]
+      ]
+    },
+    "author": [
+      {
+        "family": "Gauchat",
+        "given": "L."
+      }
+    ],
+    "citation-key": "Gauchat1920",
+    "container-title": "Anzeiger für schweizerische Geschichte",
+    "DOI": "10.5169/seals-64626",
+    "issued": {
+      "date-parts": [
+        [
+          "1920"
+        ]
+      ]
+    },
+    "page": "1-11",
+    "source": "retro.seals.ch",
+    "title": "Le nom de la ville d'Oron à l'époque romaine",
+    "type": "article-journal",
+    "URL": "https://www.e-periodica.ch/digbib/view?pid=szg-004:1920:18::471#9",
+    "volume": "18"
+  },
+  {
+    "id": "Gemperli1958",
+    "author": [
+      {
+        "family": "Gemperli",
+        "given": "Stefan"
+      }
+    ],
+    "citation-key": "Gemperli1958",
+    "collection-title": "Veröffentlichungen des Staatsarchivs St. Gallen",
+    "event-place": "St. Gallen",
+    "issued": {
+      "date-parts": [
+        [
+          "1958"
+        ]
+      ]
+    },
+    "page": "604-607",
+    "publisher": "Departement des Innern, Amt für Kultur",
+    "publisher-place": "St. Gallen",
+    "title": "Gesetz über Aktenführung und Archivierung des Kantons St. Gallen",
+    "type": "report"
+  },
+  {
+    "id": "Gruntz2011",
+    "accessed": {
+      "date-parts": [
+        [
+          "2014",
+          3,
+          27
+        ]
+      ]
+    },
+    "citation-key": "Gruntz2011",
+    "container-title": "Until We Get There",
+    "dimensions": "3:55 min.",
+    "director": [
+      {
+        "family": "Gruntz",
+        "given": "James"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          "2011"
+        ]
+      ]
+    },
+    "publisher": "Bakara Music",
+    "source": "iTunes Store Switzerland",
+    "title": "Good Times",
+    "type": "broadcast",
+    "URL": "https://itunes.apple.com/ch/album/good-times/id458572221?i=458572233"
+  },
+  {
+    "id": "Haber2011",
+    "author": [
+      {
+        "family": "Haber",
+        "given": "Peter"
+      },
+      {
+        "family": "Hodel",
+        "given": "Jan"
+      }
+    ],
+    "citation-key": "Haber2011",
+    "event-place": "Basel",
+    "issued": {
+      "date-parts": [
+        [
+          "2011"
+        ]
+      ]
+    },
+    "number-of-pages": "Online-Datei",
+    "publisher": "hist.net",
+    "publisher-place": "Basel",
+    "title": "Geschichtswissenschaft und Web 2.0. Eine Dokumentation",
+    "title-short": "Geschichtswissenschaft und Web 2.0",
+    "type": "book"
+  },
+  {
+    "id": "Haber2011a",
+    "author": [
+      {
+        "family": "Haber",
+        "given": "Peter"
+      }
+    ],
+    "citation-key": "Haber2011a",
+    "interviewer": [
+      {
+        "family": "Natale",
+        "given": "Enrico"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          "2011",
+          6,
+          13
+        ]
+      ]
+    },
+    "publisher-place": "Basel",
+    "title": "Gespräch über Digital Humanities",
+    "type": "interview"
+  },
+  {
+    "id": "Hanzo2007",
+    "accessed": {
+      "date-parts": [
+        [
+          "2018",
+          3,
+          28
+        ]
+      ]
+    },
+    "author": [
+      {
+        "family": "Hanzo",
+        "given": "Lajos"
+      },
+      {
+        "family": "Somerville",
+        "given": "F. Clare"
+      },
+      {
+        "family": "Woodard",
+        "given": "Jason"
+      }
+    ],
+    "citation-key": "Hanzo2007",
+    "DOI": "10.1002/9780470516034",
+    "event-place": "Chichester, UK",
+    "ISBN": "978-0-470-51603-4 978-0-470-51581-5",
+    "issued": {
+      "date-parts": [
+        [
+          "2007",
+          8,
+          10
+        ]
+      ]
+    },
+    "language": "en",
+    "publisher": "John Wiley & Sons, Ltd.",
+    "publisher-place": "Chichester, UK",
+    "source": "CrossRef",
+    "title": "Voice and Audio Compression for Wireless Communications",
+    "type": "book",
+    "URL": "http://doi.wiley.com/10.1002/9780470516034"
+  },
+  {
+    "id": "HistorischeundAntiquarischeGesellschaftzuBasel2011",
+    "accessed": {
+      "date-parts": [
+        [
+          "2016",
+          8,
+          10
+        ]
+      ]
+    },
+    "citation-key": "HistorischeundAntiquarischeGesellschaftzuBasel2011",
+    "collection-number": "111",
+    "collection-title": "Basler Zeitschrift für Geschichte und Altertumskunde",
+    "editor": [
+      {
+        "literal": "Historische und Antiquarische Gesellschaft zu Basel"
+      }
+    ],
+    "event-place": "Basel",
+    "issued": {
+      "date-parts": [
+        [
+          "2011"
+        ]
+      ]
+    },
+    "publisher": "Schwabe",
+    "publisher-place": "Basel",
+    "title": "Basler Selbstzeugnisse",
+    "type": "book",
+    "URL": "http://www.e-periodica.ch/digbib/view?pid=bzg-002:2011:111#4"
+  },
+  {
+    "id": "Hoechner2018",
+    "author": [
+      {
+        "family": "Höchner",
+        "given": "Marc"
+      },
+      {
+        "family": "Mathys",
+        "given": "Nora"
+      },
+      {
+        "family": "Rüegg",
+        "given": "Severin"
+      },
+      {
+        "family": "Schlittler",
+        "given": "Lisa"
+      },
+      {
+        "family": "Schneider",
+        "given": "Oliver"
+      }
+    ],
+    "citation-key": "Hoechner2018",
+    "event-place": "Wabern",
+    "event-title": "Austellung Bernisches Historisches Museum, Bern, 23.08.2018−22.04.2019",
+    "ISBN": "978-3-9524783-1-8",
+    "issued": {
+      "date-parts": [
+        [
+          "2018"
+        ]
+      ]
+    },
+    "language": "ger",
+    "publisher": "Rub Media",
+    "publisher-place": "Wabern",
+    "title": "Grand Prix Suisse 1934-54: Bern im Rennfieber",
+    "title-short": "Grand Prix Suisse 1934-54",
+    "type": "book"
+  },
+  {
+    "id": "Holzhey2010",
+    "citation-key": "Holzhey2010",
+    "editor": [
+      {
+        "family": "Holzhey",
+        "given": "Magdalena"
+      },
+      {
+        "family": "Michel",
+        "given": "Regina"
+      }
+    ],
+    "event-place": "Friedrichshafen",
+    "event-title": "Ausstellung Zeppelin-Museum, Friedrichshafen, 29.10.2010−12.12.2010",
+    "issued": {
+      "date-parts": [
+        [
+          "2010"
+        ]
+      ]
+    },
+    "language": "ger",
+    "publisher": "Kunststiftung der ZF Friedrichshafen AG",
+    "publisher-place": "Friedrichshafen",
+    "title": "Das Double der Ursache. Sandra Boeschenstein",
+    "type": "book"
+  },
+  {
+    "id": "Honegger1996",
+    "author": [
+      {
+        "family": "Honegger",
+        "given": "Claudia"
+      }
+    ],
+    "call-number": "Oz 41659",
+    "citation-key": "Honegger1996",
+    "event-place": "München",
+    "ISBN": "3-423-04684-8",
+    "issued": {
+      "date-parts": [
+        [
+          "1996"
+        ]
+      ]
+    },
+    "number-of-pages": "300",
+    "publisher": "Deutscher Taschenbuch Verlag",
+    "publisher-place": "München",
+    "source": "aleph.unibas.ch Library Catalog",
+    "title": "Die Ordnung der Geschlechter. Die Wissenschaften vom Menschen und das Weib",
+    "title-short": "Ordnung der Geschlechter",
+    "type": "book"
+  },
+  {
+    "id": "Hug2014",
+    "abstract": "Zwischen zwei Buchdeckeln findet Al Imfelds Leben nicht genügend Platz. Das ist vermutlich der Hauptgrund für die über fünfzig Publikationen, die der Theologe, Philosoph, Tropenagronom, Journalist und Afrikakenner im Laufe seines bald 80-jährigen Lebens veröffentlicht hat.",
+    "accessed": {
+      "date-parts": [
+        [
+          "2014",
+          5,
+          23
+        ]
+      ]
+    },
+    "citation-key": "Hug2014",
+    "container-title": "Focus",
+    "dimensions": "60min",
+    "director": [
+      {
+        "family": "Hug",
+        "given": "Hannes"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          "2014",
+          5,
+          19
+        ]
+      ]
+    },
+    "language": "de-CH",
+    "medium": "mp3",
+    "publisher": "Schweizer Radio und Fernsehen SRF",
+    "source": "Schweizer Radio und Fernsehen SRF",
+    "title": "Al Imfeld: Mein Leben ist die Besteigung eines sozialen Mount Everest",
+    "title-short": "Al Imfeld",
+    "type": "broadcast",
+    "URL": "http://www.srf.ch/sendungen/focus/al-imfeld-mein-leben-ist-die-besteigung-eines-sozialen-mount-everest"
+  },
+  {
+    "id": "Hunger2012",
+    "accessed": {
+      "date-parts": [
+        [
+          "2014",
+          3,
+          27
+        ]
+      ]
+    },
+    "citation-key": "Hunger2012",
+    "container-title": "The Danger of Light",
+    "dimensions": "61 min",
+    "director": [
+      {
+        "family": "Hunger",
+        "given": "Sophie"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          "2012"
+        ]
+      ]
+    },
+    "publisher": "Two Gentlemen Records",
+    "source": "Two Gentlemen",
+    "type": "broadcast",
+    "URL": "https://itunes.apple.com/de/album/danger-light-deluxe-edition/id556828272"
+  },
+  {
+    "id": "Hurlimann2015",
+    "author": [
+      {
+        "family": "Hürlimann",
+        "given": "Katja"
+      }
+    ],
+    "citation-key": "Hurlimann2015",
+    "container-title": "traverse - Zeitschrift für Geschichte",
+    "issued": {
+      "date-parts": [
+        [
+          "2015"
+        ]
+      ]
+    },
+    "page": "190-192",
+    "title": "Rezension zu: Moddelmog, Claudia; Teuscher, Simon (Hg.): Königsmord, Kloster, Klinik, Baden 2012",
+    "type": "article-journal",
+    "volume": "3"
+  },
+  {
+    "id": "Hurlimann2015a",
+    "author": [
+      {
+        "family": "Hürlimann",
+        "given": "Katja"
+      }
+    ],
+    "citation-key": "Hurlimann2015a",
+    "container-title": "traverse - Zeitschrift für Geschichte",
+    "issued": {
+      "date-parts": [
+        [
+          "2015"
+        ]
+      ]
+    },
+    "page": "190-192",
+    "title": "Recension de: Moddelmog Claudia, Teuscher Simon (éds.), Königsmord, Kloster, Klinik, Baden, Hier + Jetzt, 2012",
+    "type": "article-journal",
+    "volume": "3"
+  },
+  {
+    "id": "JohnBuettner",
+    "accessed": {
+      "date-parts": [
+        [
+          "2016",
+          8,
+          10
+        ]
+      ]
+    },
+    "citation-key": "JohnBuettner",
+    "editor": [
+      {
+        "family": "John",
+        "given": "Jennifer"
+      },
+      {
+        "family": "Büttner",
+        "given": "Silke"
+      },
+      {
+        "family": "Heinz",
+        "given": "Kathrin"
+      },
+      {
+        "family": "Zimmermann",
+        "given": "Anja"
+      },
+      {
+        "family": "Brandes",
+        "given": "Kerstin"
+      },
+      {
+        "family": "Wienand",
+        "given": "Kea"
+      },
+      {
+        "family": "Adorf",
+        "given": "Sigrid"
+      },
+      {
+        "family": "Christadler",
+        "given": "Maike"
+      },
+      {
+        "family": "Futscher",
+        "given": "Edith"
+      },
+      {
+        "family": "Koos",
+        "given": "Marianne"
+      },
+      {
+        "family": "Hofer",
+        "given": "Kristina Pia"
+      },
+      {
+        "family": "Hermann",
+        "given": "Anja"
+      }
+    ],
+    "event-place": "Bremen",
+    "publisher-place": "Bremen",
+    "title": "FKW. Zeitschrift für Geschlechterforschung und visuelle Kultur",
+    "type": "book",
+    "URL": "http://www.fkw-journal.de/index.php/fkw/index"
+  },
+  {
+    "id": "Jost1932",
+    "accessed": {
+      "date-parts": [
+        [
+          "2014",
+          3,
+          25
+        ]
+      ]
+    },
+    "archive": "Staatsarchiv des Kantons Bern",
+    "archive_location": "FN Jost Fotonachlass Carl Jost",
+    "author": [
+      {
+        "family": "Jost",
+        "given": "Carl"
+      }
+    ],
+    "call-number": "FN Jost N 10064",
+    "citation-key": "Jost1932",
+    "dimensions": "3.5 x 2.5 cm",
+    "event-place": "Bern",
+    "issued": {
+      "circa": true,
+      "date-parts": [
+        [
+          "1932"
+        ]
+      ]
+    },
+    "medium": "Fotografie",
+    "publisher-place": "Bern",
+    "source": "Online-Inventar des Staatsarchivs des Kantons Bern",
+    "title": "Berner Mattequartier",
+    "type": "graphic",
+    "URL": "http://www.query.sta.be.ch/detail.aspx?ID=472422"
+  },
+  {
+    "id": "Kashimada2014",
+    "abstract": "Im späten 19. Jahrhundert entwickelte sich das rasch modernisierte Japan zu einem Militärstaat. Hautnah erlebte dies Paul Ritter. Für den jungen Diplomaten aus der neutralen Schweiz hatte sich Japan, das mit Reichtum und militärischer Stärke auftrumpfte, \"sehr rasch zu einem modernen Staat entwickelt\", wie er in Briefen an seine Eltern in Basel schrieb.",
+    "accessed": {
+      "date-parts": [
+        [
+          "2014",
+          3,
+          28
+        ]
+      ]
+    },
+    "author": [
+      {
+        "family": "Kashimada",
+        "given": "Fumi"
+      }
+    ],
+    "citation-key": "Kashimada2014",
+    "container-title": "swissinfo.ch",
+    "issued": {
+      "date-parts": [
+        [
+          "2014",
+          3,
+          18
+        ]
+      ]
+    },
+    "title": "Erster Schweizer Botschafter erlebt Japan im Umbruch",
+    "type": "webpage",
+    "URL": "http://www.swissinfo.ch/ger/politik/genauer-beobachter-der-meiji-aera_erster-schweizer-botschafter-erlebt-japan-im-umbruch/37959262"
+  },
+  {
+    "id": "Kennedy1962",
+    "accessed": {
+      "date-parts": [
+        [
+          "2014",
+          8,
+          5
+        ]
+      ]
+    },
+    "archive": "John F. Kennedy Presidental Library and Museum",
+    "author": [
+      {
+        "family": "Kennedy",
+        "given": "John F."
+      }
+    ],
+    "call-number": "JFKWHA-142-001",
+    "citation-key": "Kennedy1962",
+    "collection-title": "Historic Speeches",
+    "dimensions": "18min",
+    "event-place": "Washington DC",
+    "issued": {
+      "date-parts": [
+        [
+          "1962",
+          10,
+          22
+        ]
+      ]
+    },
+    "medium": "Tonband",
+    "publisher-place": "Washington DC",
+    "source": "jfklibrary.org",
+    "title": "Radio and television address to the American people on the Soviet arms build-up in Cuba",
+    "type": "song",
+    "URL": "http://www.jfklibrary.org/Asset-Viewer/sUVmCh-sB0moLfrBcaHaSg.aspx"
+  },
+  {
+    "id": "Koller2014",
+    "accessed": {
+      "date-parts": [
+        [
+          "2014",
+          9,
+          5
+        ]
+      ]
+    },
+    "author": [
+      {
+        "family": "Koller",
+        "given": "Guido"
+      }
+    ],
+    "citation-key": "Koller2014",
+    "collection-title": "infoclio.ch-Tagungsberichte",
+    "issued": {
+      "date-parts": [
+        [
+          "2014",
+          6,
+          24
+        ]
+      ]
+    },
+    "source": "infoclio.ch",
+    "title": "Lobbying. Die Vorräume der Macht",
+    "type": "report",
+    "URL": "https://www.infoclio.ch/de/node/135139"
+  },
+  {
+    "id": "Konig2012",
+    "accessed": {
+      "date-parts": [
+        [
+          "2014",
+          2,
+          4
+        ]
+      ]
+    },
+    "author": [
+      {
+        "family": "König",
+        "given": "Mareike"
+      }
+    ],
+    "citation-key": "Konig2012",
+    "container-title": "Redaktionsblog",
+    "issued": {
+      "date-parts": [
+        [
+          "2012",
+          4,
+          26
+        ]
+      ]
+    },
+    "title": "Guck mal, wer da bloggt! Neue Blogs bei de.hypotheses.org",
+    "type": "post-weblog",
+    "URL": "http://redaktionsblog.hypotheses.org/485"
+  },
+  {
+    "id": "Kortum2001",
+    "call-number": "D121 .K75 2001",
+    "citation-key": "Kortum2001",
+    "editor": [
+      {
+        "family": "Kortüm",
+        "given": "Hans-Henning"
+      }
+    ],
+    "event-place": "Berlin",
+    "ISBN": "3-05-003496-3",
+    "issued": {
+      "date-parts": [
+        [
+          "2001"
+        ]
+      ]
+    },
+    "number-of-pages": "309",
+    "publisher": "Akademie Verlag",
+    "publisher-place": "Berlin",
+    "source": "Library of Congress ISBN",
+    "title": "Krieg im Mittelalter",
+    "type": "book"
+  },
+  {
+    "id": "Kreis2014",
+    "author": [
+      {
+        "family": "Kreis",
+        "given": "Georg"
+      }
+    ],
+    "citation-key": "Kreis2014",
+    "edition": "2",
+    "event-place": "Zürich",
+    "ISBN": "978-3-03823-844-7",
+    "issued": {
+      "date-parts": [
+        [
+          "2014"
+        ]
+      ]
+    },
+    "number-of-pages": "299",
+    "publisher": "Neue Zürcher Zeitung",
+    "publisher-place": "Zürich",
+    "source": "Library of Congress ISBN",
+    "title": "Insel der unsicheren Geborgenheit. Die Schweiz in den Kriegsjahren 1914-1918",
+    "title-short": "Insel der unsicheren Geborgenheit",
+    "type": "book"
+  },
+  {
+    "id": "Leclerc",
+    "accessed": {
+      "date-parts": [
+        [
+          "2014",
+          9,
+          16
+        ]
+      ]
+    },
+    "citation-key": "Leclerc",
+    "container-title": "Histoire vivante",
+    "director": [
+      {
+        "family": "Leclerc",
+        "given": "Jean"
+      }
+    ],
+    "publisher": "Radio Télévision Suisse RTS",
+    "source": "RTS.ch",
+    "type": "broadcast",
+    "URL": "http://www.rts.ch/docs/histoire-vivante/podcasts/"
+  },
+  {
+    "id": "Marti-Weissenbach2006",
+    "abstract": "Artikel 'Füssli, Johann Konrad' im Historischen Lexikon der Schweiz - Geschichte",
+    "author": [
+      {
+        "family": "Marti-Weissenbach",
+        "given": "Karin"
+      }
+    ],
+    "citation-key": "Marti-Weissenbach2006",
+    "container-title": "Historisches Lexikon der Schweiz",
+    "event-place": "Basel",
+    "issued": {
+      "date-parts": [
+        [
+          "2006"
+        ]
+      ]
+    },
+    "language": "de",
+    "number-of-volumes": "13",
+    "page": "48",
+    "publisher": "Schwabe",
+    "publisher-place": "Basel",
+    "title": "Füssli, Johann Konrad",
+    "type": "entry-encyclopedia",
+    "volume": "5"
+  },
+  {
+    "id": "Meyers1885",
+    "accessed": {
+      "date-parts": [
+        [
+          "2015",
+          9,
+          11
+        ]
+      ]
+    },
+    "author": [
+      {
+        "literal": "o. A."
+      }
+    ],
+    "citation-key": "Meyers1885",
+    "container-title": "Meyers Konversations-Lexikon",
+    "edition": "4",
+    "event-place": "Leipzig, Wien",
+    "issued": {
+      "date-parts": [
+        [
+          "1885"
+        ],
+        [
+          "1892"
+        ]
+      ]
+    },
+    "page": "27",
+    "publisher": "Bibliographisches Institut",
+    "publisher-place": "Leipzig, Wien",
+    "source": "Retrobibliothek.de",
+    "title": "Chinesische Mauer",
+    "title-short": "Meyers Konversations-Lexikon",
+    "type": "entry-encyclopedia",
+    "URL": "http://www.retrobibliothek.de/retrobib/seite.html?id=103375"
+  },
+  {
+    "id": "Morgenthaler1964",
+    "accessed": {
+      "date-parts": [
+        [
+          "2014",
+          8,
+          8
+        ]
+      ]
+    },
+    "archive": "Staatsarchiv des Kantons Bern",
+    "archive_location": "D Spezialarchive",
+    "call-number": "VID 41",
+    "citation-key": "Morgenthaler1964",
+    "director": [
+      {
+        "family": "Morgenthaler",
+        "given": "Niklaus"
+      }
+    ],
+    "event-place": "Bern",
+    "issued": {
+      "date-parts": [
+        [
+          "1964"
+        ]
+      ]
+    },
+    "medium": "Film 16mm",
+    "publisher-place": "Bern",
+    "title": "Halen 1964",
+    "type": "motion_picture"
+  },
+  {
+    "id": "Moser1996",
+    "author": [
+      {
+        "family": "Moser",
+        "given": "Peter"
+      }
+    ],
+    "citation-key": "Moser1996",
+    "container-title": "NZZ",
+    "issued": {
+      "date-parts": [
+        [
+          "1996",
+          10,
+          25
+        ]
+      ]
+    },
+    "page": "166-171",
+    "title": "Besessen von der Vergangenheit? Geschichtsschreibung und Literatur in Irland",
+    "title-short": "Besessen von der Vergangenheit?",
+    "type": "article-newspaper"
+  },
+  {
+    "id": "Muller1998",
+    "abstract": "Schloss Wildegg ist vielen Leuten in erster Linie als Schulreiseziel aus der Kindheit bekannt. Die älteste Aussenstelle des Schweizerischen Landesmuseums beherbergt einen der komplettesten ...",
+    "accessed": {
+      "date-parts": [
+        [
+          "2014",
+          1,
+          24
+        ]
+      ]
+    },
+    "author": [
+      {
+        "family": "Müller",
+        "given": "Felix"
+      }
+    ],
+    "citation-key": "Muller1998",
+    "event-place": "Bern",
+    "genre": "Dissertation",
+    "issued": {
+      "date-parts": [
+        [
+          "1998"
+        ]
+      ]
+    },
+    "publisher": "Universität Bern",
+    "publisher-place": "Bern",
+    "title": "Aussterben oder Verarmen? Lebensführung und wirtschaftliche Verhältnisse der Berner Patrizierfamilie Effinger von Wildegg (1725-1815)",
+    "type": "thesis"
+  },
+  {
+    "id": "o.A.2010",
+    "accessed": {
+      "date-parts": [
+        [
+          "2014",
+          3,
+          28
+        ]
+      ]
+    },
+    "author": [
+      {
+        "literal": "o. A."
+      }
+    ],
+    "citation-key": "o.A.2010",
+    "container-title": "Schweizerische Nationalbibliothek",
+    "issued": {
+      "date-parts": [
+        [
+          "2010",
+          12,
+          23
+        ]
+      ]
+    },
+    "title": "Geschichte der Bibliothek",
+    "type": "webpage",
+    "URL": "http://www.nb.admin.ch/org/03651/index.html?lang=de"
+  },
+  {
+    "id": "Obama2012",
+    "accessed": {
+      "date-parts": [
+        [
+          "2015",
+          6,
+          5
+        ]
+      ]
+    },
+    "author": [
+      {
+        "family": "Obama",
+        "given": "Barack"
+      }
+    ],
+    "citation-key": "Obama2012",
+    "container-title": "@BarackObama",
+    "genre": "Twitter",
+    "issued": {
+      "date-parts": [
+        [
+          "2012",
+          11,
+          6
+        ]
+      ]
+    },
+    "title": "Four more years",
+    "type": "post-weblog",
+    "URL": "https://twitter.com/BarackObama/status/266031293945503744"
+  },
+  {
+    "id": "Pellin2014",
+    "accessed": {
+      "date-parts": [
+        [
+          "2014",
+          5,
+          16
+        ]
+      ]
+    },
+    "author": [
+      {
+        "family": "Pellin",
+        "given": "Elio"
+      }
+    ],
+    "citation-key": "Pellin2014",
+    "container-title": "swiss-lib",
+    "issued": {
+      "date-parts": [
+        [
+          "2014",
+          5,
+          6
+        ]
+      ]
+    },
+    "title": "Buch am Mittag",
+    "type": "post",
+    "URL": "https://lists.switch.ch/mailman/private/swiss-lib/2014-May/014964.html"
+  },
+  {
+    "id": "Pesne1729",
+    "accessed": {
+      "date-parts": [
+        [
+          "2014",
+          9,
+          12
+        ]
+      ]
+    },
+    "archive": "Stiftung Preussische Schlösser und Gärten",
+    "archive_location": "Park Schloss Charlottenburg",
+    "author": [
+      {
+        "family": "Pesne",
+        "given": "Antoine"
+      }
+    ],
+    "call-number": "00000012",
+    "citation-key": "Pesne1729",
+    "dimensions": "242 x 149 cm",
+    "event-place": "Berlin",
+    "issued": {
+      "date-parts": [
+        [
+          "1729"
+        ]
+      ]
+    },
+    "license": "Stiftung Preussische Schlösser und Gärten Berlin-Brandenburg",
+    "medium": "Gemälde / Öl auf Leinwand",
+    "publisher-place": "Berlin",
+    "source": "Bildportal der Kunstmuseen",
+    "title": "Der «Soldatenkönig» von Preußen - Friedrich Wilhelm I.",
+    "type": "graphic",
+    "URL": "http://www.bpk-images.de/?18671877727020631900&MEDIANUMBER=00000012"
+  },
+  {
+    "id": "Plag2007",
+    "author": [
+      {
+        "family": "Plag",
+        "given": "Ingo"
+      },
+      {
+        "family": "Braun",
+        "given": "Maria"
+      },
+      {
+        "family": "Lappe",
+        "given": "Sabine"
+      },
+      {
+        "family": "Schramm",
+        "given": "Mareile"
+      }
+    ],
+    "citation-key": "Plag2007",
+    "event-place": "Berlin; New York",
+    "ISBN": "978-3-11-019834-8 3-11-019834-7",
+    "issued": {
+      "date-parts": [
+        [
+          "2007"
+        ]
+      ]
+    },
+    "language": "English",
+    "publisher": "Mouton de Gruyter",
+    "publisher-place": "Berlin; New York",
+    "source": "Open WorldCat",
+    "title": "Introduction to English linguistics",
+    "type": "book"
+  },
+  {
+    "id": "Poletti",
+    "abstract": "«Rundschau» – Das Politmagazin: Hintergrund und Recherchen über aktuelle Ereignisse und latente Brennpunkte im In- und Ausland. Reportagen und Magazinberichte nah am Geschehen, oft mitten drin ohne je die kritisch-journalistische Distanz zu verlieren.",
+    "accessed": {
+      "date-parts": [
+        [
+          "2014",
+          5,
+          23
+        ]
+      ]
+    },
+    "citation-key": "Poletti",
+    "container-title": "Rundschau",
+    "director": [
+      {
+        "family": "Poletti",
+        "given": "Mario"
+      }
+    ],
+    "language": "de-CH",
+    "publisher": "Schweizer Radio und Fernsehen SRF",
+    "source": "Schweizer Radio und Fernsehen SRF",
+    "type": "broadcast",
+    "URL": "http://www.srf.ch/sendungen/rundschau/sendeportraet"
+  },
+  {
+    "id": "Reinau1981",
+    "accessed": {
+      "date-parts": [
+        [
+          "2014",
+          3,
+          6
+        ]
+      ]
+    },
+    "author": [
+      {
+        "family": "Reinau",
+        "given": "Hansjörg"
+      }
+    ],
+    "citation-key": "Reinau1981",
+    "event-place": "Basel",
+    "genre": "Dissertation",
+    "issued": {
+      "date-parts": [
+        [
+          "1981"
+        ]
+      ]
+    },
+    "publisher": "Universität Basel",
+    "publisher-place": "Basel",
+    "source": "edoc Basel",
+    "title": "Die Entstehung des Bürgerbegriffs bei den Griechen",
+    "type": "thesis",
+    "URL": "http://edoc.unibas.ch/diss/DissB_70"
+  },
+  {
+    "id": "Scheiwiller2015",
+    "author": [
+      {
+        "family": "Scheiwiller",
+        "given": "Walter"
+      }
+    ],
+    "citation-key": "Scheiwiller2015",
+    "collection-title": "NZZ Geschichte",
+    "container-title": "NZZ Geschichte: Wir Protestanten. Wie die Reformation die Schweiz reich gemacht hat",
+    "editor": [
+      {
+        "family": "Beglinger",
+        "given": "Martin"
+      }
+    ],
+    "issue": "2",
+    "issued": {
+      "date-parts": [
+        [
+          "2015"
+        ]
+      ]
+    },
+    "page": "82",
+    "title": "Kinder betteln bei den Amerikanern um Kaugummis, Chur 1945",
+    "type": "article-journal"
+  },
+  {
+    "id": "SchweizerischeGesellschaftfurGeschichte",
+    "citation-key": "SchweizerischeGesellschaftfurGeschichte",
+    "editor": [
+      {
+        "literal": "Schweizerische Gesellschaft für Geschichte"
+      }
+    ],
+    "event-place": "Basel",
+    "publisher": "Schwabe",
+    "publisher-place": "Basel",
+    "title": "Schweizerische Zeitschrift für Geschichte (SZG)",
+    "type": "book"
+  },
+  {
+    "id": "SchweizerischerBundesrat1992",
+    "accessed": {
+      "date-parts": [
+        [
+          "2014",
+          2,
+          23
+        ]
+      ]
+    },
+    "author": [
+      {
+        "family": "Schweizerischer Bundesrat",
+        "given": ""
+      }
+    ],
+    "citation-key": "SchweizerischerBundesrat1992",
+    "collection-title": "Bundesblatt",
+    "issued": {
+      "date-parts": [
+        [
+          "1992",
+          2,
+          19
+        ]
+      ]
+    },
+    "number": "2/17",
+    "page": "1441-1481",
+    "source": "Amtsdruckschriften",
+    "title": "Botschaft über die Reorganisation der Schweizerischen Landesbibliothek vom 19. Februar 1992",
+    "type": "report",
+    "URL": "http://www.amtsdruckschriften.bar.admin.ch/viewOrigDoc.do?id=10052205"
+  },
+  {
+    "id": "Siegenthaler1990",
+    "author": [
+      {
+        "family": "Siegenthaler",
+        "given": "Hansjörg"
+      }
+    ],
+    "citation-key": "Siegenthaler1990",
+    "container-title": "Schweiz im Wandel: Studien zur neueren Gesellschaftsgeschichte",
+    "editor": [
+      {
+        "family": "Brändli",
+        "given": "Sebastian"
+      },
+      {
+        "family": "Gugerli",
+        "given": "David"
+      },
+      {
+        "family": "Jaun",
+        "given": "Rudolf"
+      },
+      {
+        "family": "Pfister",
+        "given": "Ulrich"
+      }
+    ],
+    "event-place": "Basel",
+    "issued": {
+      "date-parts": [
+        [
+          "1990"
+        ]
+      ]
+    },
+    "page": "419-434",
+    "publisher": "Helbing und Lichtenhahn",
+    "publisher-place": "Basel",
+    "title": "Die Rede von der Kontinuität in der Diskontinuität sozialen Wandels – das Beispiel der dreißiger Jahre",
+    "type": "chapter"
+  },
+  {
+    "id": "Stadtwanderer2014",
+    "accessed": {
+      "date-parts": [
+        [
+          "2014",
+          3,
+          25
+        ]
+      ]
+    },
+    "author": [
+      {
+        "literal": "Stadtwanderer"
+      }
+    ],
+    "citation-key": "Stadtwanderer2014",
+    "container-title": "Stadtwanderer - Geschichte(n) aus meinem Lebensraum",
+    "issued": {
+      "date-parts": [
+        [
+          "2014",
+          3,
+          22
+        ]
+      ]
+    },
+    "title": "Gelebte Machtteilung",
+    "title-short": "Gelebte Machtteilung",
+    "type": "post-weblog",
+    "URL": "http://www.stadtwanderer.net/?p=16726"
+  },
+  {
+    "id": "Strassburg1210",
+    "author": [
+      {
+        "family": "Strassburg",
+        "given": "Gottfried"
+      }
+    ],
+    "citation-key": "Strassburg1210",
+    "issued": {
+      "circa": true,
+      "date-parts": [
+        [
+          "1210"
+        ]
+      ]
+    },
+    "title": "Tristan und Isolde",
+    "type": "book"
+  },
+  {
+    "id": "Verpflegungsverträge1868",
+    "archive": "Staatsarchiv des Kantons Bern",
+    "archive_location": "Armen- und Fürsorgewesen 1858-1897",
+    "call-number": "BB XII B 163",
+    "citation-key": "Verpflegungsverträge1868",
+    "event-place": "Bern",
+    "issued": {
+      "date-parts": [
+        [
+          "1868"
+        ],
+        [
+          "1879"
+        ]
+      ]
+    },
+    "publisher-place": "Bern",
+    "title": "Verpflegungsverträge für Verdingkinder",
+    "type": "manuscript"
+  },
+  {
+    "id": "Vulgata",
+    "accessed": {
+      "date-parts": [
+        [
+          "2014",
+          2,
+          5
+        ]
+      ]
+    },
+    "archive": "Burgerbibliothek Bern",
+    "call-number": "Cod. 4",
+    "citation-key": "Vulgata",
+    "event-place": "Tours, Kloster St. Martin",
+    "issued": {
+      "literal": "um 820–830"
+    },
+    "publisher-place": "Tours, Kloster St. Martin",
+    "source": "e-codices",
+    "title": "Biblia latina (Vulgata), Teil 2: Salomon bis Apokalypse (unvollständig)",
+    "type": "manuscript",
+    "URL": "http://www.e-codices.unifr.ch/de/list/one/bbb/0004"
+  },
+  {
+    "id": "Wyss2014",
+    "abstract": "Le 11 septembre 1973, Pinochet renverse le gouvernement socialiste d'Allende, au Chili.",
+    "accessed": {
+      "date-parts": [
+        [
+          "2014",
+          5,
+          23
+        ]
+      ]
+    },
+    "citation-key": "Wyss2014",
+    "container-title": "Histoire vivante",
+    "dimensions": "56min.",
+    "director": [
+      {
+        "family": "Wyss",
+        "given": "Daniel"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          "2014",
+          5,
+          18
+        ]
+      ]
+    },
+    "publisher": "Radio Télévision Suisse",
+    "source": "rts.ch",
+    "title": "La barque n'est pas pleine - Réfugiés chiliens en Suisse",
+    "title-short": "La barque n'est pas pleine",
+    "type": "broadcast",
+    "URL": "http://www.rts.ch/docs/histoire-vivante/a-voir/5757336-la-barque-n-est-pas-pleine-refugies-chiliens-en-suisse.html"
+  },
+  {
+    "id": "Ziegler2015",
+    "accessed": {
+      "date-parts": [
+        [
+          "2015",
+          11,
+          19
+        ]
+      ]
+    },
+    "author": [
+      {
+        "family": "Ziegler",
+        "given": "Béatrice"
+      }
+    ],
+    "citation-key": "Ziegler2015",
+    "container-title": "H-Soz-Kult",
+    "issued": {
+      "date-parts": [
+        [
+          "2015",
+          9,
+          10
+        ]
+      ]
+    },
+    "title": "Rezension zu: Holenstein, André: Mitten in Europa. Verflechtung und Abgrenzung in der Schweizer Geschichte, Baden 2014",
+    "type": "webpage",
+    "URL": "http://www.hsozkult.de/publicationreview/id/rezbuecher-24026"
+  },
+  {
+    "id": "Ziegler2015a",
+    "accessed": {
+      "date-parts": [
+        [
+          "2015",
+          11,
+          19
+        ]
+      ]
+    },
+    "author": [
+      {
+        "family": "Ziegler",
+        "given": "Béatrice"
+      }
+    ],
+    "citation-key": "Ziegler2015a",
+    "container-title": "H-Soz-Kult",
+    "issued": {
+      "date-parts": [
+        [
+          "2015",
+          9,
+          10
+        ]
+      ]
+    },
+    "title": "Recension de: Holenstein André, Mitten in Europa. Verflechtung und Abgrenzung in der Schweizer Geschichte, Baden, Hier + Jetzt, 2014",
+    "type": "webpage",
+    "URL": "http://www.hsozkult.de/publicationreview/id/rezbuecher-24026"
+  },
+  {
+    "id": "Zogg2000",
+    "author": [
+      {
+        "family": "Zogg",
+        "given": "Andi"
+      }
+    ],
+    "citation-key": "Zogg2000",
+    "event-place": "Zürich",
+    "genre": "Lizentiatsarbeit",
+    "issued": {
+      "date-parts": [
+        [
+          "2000"
+        ]
+      ]
+    },
+    "publisher": "Universität Zürich",
+    "publisher-place": "Zürich",
+    "title": "Das \"System\" hat die Grippe. Vom Umgang mit einer Epidemie im Jahr des schweizerischen Landesstreiks von 1918",
+    "title-short": "Das „System“ hat die Grippe",
+    "type": "thesis"
+  }
 ]
