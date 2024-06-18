@@ -2159,5 +2159,47 @@
     "title": "Das \"System\" hat die Grippe. Vom Umgang mit einer Epidemie im Jahr des schweizerischen Landesstreiks von 1918",
     "title-short": "Das „System“ hat die Grippe",
     "type": "thesis"
+  },
+  {
+    "id": "PhilovonAlexandria1962",
+    "author": [
+      {
+        "literal": "Philo von Alexandria"
+      }
+    ],
+    "citation-key": "PhilovonAlexandria1962",
+    "edition": "2",
+    "editor": [
+      {
+        "family": "Heinemann",
+        "given": "Isaak"
+      },
+      {
+        "family": "Adler",
+        "given": "Maximilian"
+      },
+      {
+        "family": "Theiler",
+        "given": "Willy"
+      },
+      {
+        "family": "Cohn",
+        "given": "Leopold"
+      }
+    ],
+    "event-place": "Berlin",
+    "ISBN": "978-3-11-005032-5",
+    "issued": {
+      "date-parts": [
+        [
+          "1962"
+        ]
+      ]
+    },
+    "publisher": "De Gruyter",
+    "publisher-place": "Berlin",
+    "title": "Die Werke in deutscher Übersetzung",
+    "type": "book",
+    "volume": "1"
   }
 ]
