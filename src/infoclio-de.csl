@@ -31,6 +31,7 @@
   <locale xml:lang="de">
     <terms>
       <term name="editor" form="short">Hg.</term>
+      <term name="editor" form="verb-short">hg. v.</term>
       <term name="interviewer" form="verb">Interview geführt von</term>
       <term name="accessed">Stand</term>
       <term name="letter">Schreiben</term>
@@ -75,6 +76,7 @@
           <text macro="creator"/>
           <group delimiter=", ">
             <text macro="title"/>
+            <text macro="scientific-editor"/>
             <group delimiter=": ">
               <text macro="in"/>
               <text macro="container-creator"/>
@@ -180,6 +182,22 @@
         <text variable="collection-title"/>
         <text variable="container-title"/>
       </else-if>
+    </choose>
+  </macro>
+  <macro name="scientific-editor">
+    <choose>
+      <if type="book">
+        <choose>
+          <if variable="author editor">
+            <group delimiter=" ">
+              <label variable="editor" form="verb-short"/>
+              <names variable="editor">
+                <name sort-separator=", " name-as-sort-order="all" et-al-min="4" et-al-use-first="3"/>
+              </names>
+            </group>
+          </if>
+        </choose>
+      </if>
     </choose>
   </macro>
   <macro name="in">
