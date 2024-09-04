@@ -1,0 +1,32 @@
+input:
+- Honegger1996
+- Haber2011
+- Bourdieu1990
+- Honegger1996 p. 16
+- Haber2011 p. 1-2
+- Bourdieu1990 p. 79
+tests:
+- style: src/infoclio-fr-nocaps.csl
+  citations:
+  - Honegger Claudia, <i>Die Ordnung der Geschlechter. Die Wissenschaften vom Menschen und das Weib</i>, München, Deutscher Taschenbuch Verlag, 1996.
+  - Haber Peter et Hodel Jan, <i>Geschichtswissenschaft und Web 2.0. Eine Dokumentation</i>, Basel, hist.net, 2011.
+  - Bourdieu Pierre, « Die biographische Illusion », <i>Bios</i> 3 (1), 1990 [1986], pp. 75‑81.
+  - Honegger, <i>Ordnung der Geschlechter</i>, <i>op. cit.</i>, p. 16.
+  - Haber et Hodel, <i>Geschichtswissenschaft und Web 2.0</i>, <i>op. cit.</i>, pp. 1‑2.
+  - Bourdieu, « Die biographische Illusion », <i>art. cit.</i>, p. 79.
+- style: src/infoclio-de.csl
+  citations:
+  - 'Honegger, Claudia: Die Ordnung der Geschlechter. Die Wissenschaften vom Menschen und das Weib, München 1996.'
+  - 'Haber, Peter; Hodel, Jan: Geschichtswissenschaft und Web 2.0. Eine Dokumentation, Basel 2011.'
+  - 'Bourdieu, Pierre: Die biographische Illusion, in: Bios 3 (1), 1990 [1986], S. 75–81.'
+  - 'Honegger: Ordnung der Geschlechter, S. 16.'
+  - 'Haber; Hodel: Geschichtswissenschaft und Web 2.0, S. 1–2.'
+  - 'Bourdieu: Die biographische Illusion, S. 79.'
+- style: src/infoclio-fr-smallcaps.csl
+  citations:
+  - <span style="font-variant:small-caps;">Honegger</span> Claudia, <i>Die Ordnung der Geschlechter. Die Wissenschaften vom Menschen und das Weib</i>, München, Deutscher Taschenbuch Verlag, 1996.
+  - <span style="font-variant:small-caps;">Haber</span> Peter et <span style="font-variant:small-caps;">Hodel</span> Jan, <i>Geschichtswissenschaft und Web 2.0. Eine Dokumentation</i>, Basel, hist.net, 2011.
+  - <span style="font-variant:small-caps;">Bourdieu</span> Pierre, « Die biographische Illusion », <i>Bios</i> 3 (1), 1990 [1986], pp. 75‑81.
+  - <span style="font-variant:small-caps;">Honegger</span>, <i>Ordnung der Geschlechter</i>, <i>op. cit.</i>, p. 16.
+  - <span style="font-variant:small-caps;">Haber</span> et <span style="font-variant:small-caps;">Hodel</span>, <i>Geschichtswissenschaft und Web 2.0</i>, <i>op. cit.</i>, pp. 1‑2.
+  - <span style="font-variant:small-caps;">Bourdieu</span>, « Die biographische Illusion », <i>art. cit.</i>, p. 79.

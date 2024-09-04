@@ -1,0 +1,12 @@
+input:
+- Strassburg1210
+tests:
+- style: src/infoclio-fr-nocaps.csl
+  citations:
+  - Strassburg Gottfried, <i>Tristan und Isolde</i>, vers 1210.
+- style: src/infoclio-fr-smallcaps.csl
+  citations:
+  - <span style="font-variant:small-caps;">Strassburg</span> Gottfried, <i>Tristan und Isolde</i>, vers 1210.
+- style: src/infoclio-de.csl
+  citations:
+  - 'Strassburg, Gottfried: Tristan und Isolde, ca. 1210.'

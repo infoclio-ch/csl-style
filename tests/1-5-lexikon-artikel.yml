@@ -1,0 +1,16 @@
+input:
+- Marti-Weissenbach2006
+- Meyers1885
+tests:
+- style: src/infoclio-fr-smallcaps.csl
+  citations:
+  - '<span style="font-variant:small-caps;">Marti-Weissenbach</span> Karin, « Füssli, Johann Konrad », in: <i>Historisches Lexikon der Schweiz</i>, vol. 5 / 13, Basel, Schwabe, 2006, p. 48.'
+  - '<span style="font-variant:small-caps;">o. A.</span>, « Chinesische Mauer », in: <i>Meyers Konversations-Lexikon</i>, 4<sup>e</sup> édition, Leipzig, Wien, Bibliographisches Institut, 1885–1892, p. 27. En ligne: &#60;http://www.retrobibliothek.de/retrobib/seite.html?id=103375&#62;, consulté le 11.09.2015.'
+- style: src/infoclio-de.csl
+  citations:
+  - 'Marti-Weissenbach, Karin: Füssli, Johann Konrad, in: Historisches Lexikon der Schweiz, Bd. 5 / 13, Basel 2006, S. 48.'
+  - 'o. A.: Chinesische Mauer, in: Meyers Konversations-Lexikon, Leipzig, Wien 1885–1892, S. 27. Online: &#60;http://www.retrobibliothek.de/retrobib/seite.html?id=103375&#62;, Stand: 11.09.2015.'
+- style: src/infoclio-fr-nocaps.csl
+  citations:
+  - 'Marti-Weissenbach Karin, « Füssli, Johann Konrad », in: <i>Historisches Lexikon der Schweiz</i>, vol. 5 / 13, Basel, Schwabe, 2006, p. 48.'
+  - 'o. A., « Chinesische Mauer », in: <i>Meyers Konversations-Lexikon</i>, 4<sup>e</sup> édition, Leipzig, Wien, Bibliographisches Institut, 1885–1892, p. 27. En ligne: &#60;http://www.retrobibliothek.de/retrobib/seite.html?id=103375&#62;, consulté le 11.09.2015.'

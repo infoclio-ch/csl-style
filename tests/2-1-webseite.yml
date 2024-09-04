@@ -1,0 +1,16 @@
+input:
+- Kashimada2014
+- o.A.2010
+tests:
+- style: src/infoclio-de.csl
+  citations:
+  - 'Kashimada, Fumi: Erster Schweizer Botschafter erlebt Japan im Umbruch, swissinfo.ch, 18.03.2014, &#60;http://www.swissinfo.ch/ger/politik/genauer-beobachter-der-meiji-aera_erster-schweizer-botschafter-erlebt-japan-im-umbruch/37959262&#62;, Stand: 28.03.2014.'
+  - 'o. A.: Geschichte der Bibliothek, Schweizerische Nationalbibliothek, 23.12.2010, &#60;http://www.nb.admin.ch/org/03651/index.html?lang=de&#62;, Stand: 28.03.2014.'
+- style: src/infoclio-fr-nocaps.csl
+  citations:
+  - Kashimada Fumi, « Erster Schweizer Botschafter erlebt Japan im Umbruch », <i>swissinfo.ch</i>, 18.03.2014, &#60;http://www.swissinfo.ch/ger/politik/genauer-beobachter-der-meiji-aera_erster-schweizer-botschafter-erlebt-japan-im-umbruch/37959262&#62;, consulté le 28.03.2014.
+  - o. A., « Geschichte der Bibliothek », <i>Schweizerische Nationalbibliothek</i>, 23.12.2010, &#60;http://www.nb.admin.ch/org/03651/index.html?lang=de&#62;, consulté le 28.03.2014.
+- style: src/infoclio-fr-smallcaps.csl
+  citations:
+  - <span style="font-variant:small-caps;">Kashimada</span> Fumi, « Erster Schweizer Botschafter erlebt Japan im Umbruch », <i>swissinfo.ch</i>, 18.03.2014, &#60;http://www.swissinfo.ch/ger/politik/genauer-beobachter-der-meiji-aera_erster-schweizer-botschafter-erlebt-japan-im-umbruch/37959262&#62;, consulté le 28.03.2014.
+  - <span style="font-variant:small-caps;">o. A.</span>, « Geschichte der Bibliothek », <i>Schweizerische Nationalbibliothek</i>, 23.12.2010, &#60;http://www.nb.admin.ch/org/03651/index.html?lang=de&#62;, consulté le 28.03.2014.

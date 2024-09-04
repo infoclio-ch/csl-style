@@ -1,0 +1,16 @@
+input:
+- Moser1996
+- Dufour1998
+tests:
+- style: src/infoclio-fr-nocaps.csl
+  citations:
+  - Moser Peter, « Besessen von der Vergangenheit? Geschichtsschreibung und Literatur in Irland », <i>NZZ</i>, 25.10.1996, pp. 166‑171.
+  - 'Dufour Nicolas, « Cinquante ans après sa mort, Ramuz hésite encore entre Paris et Lausanne », <i>Journal de Genève et Gazette de Lausanne</i>, 11.02.1998, p. 1. En ligne: &#60;http://www.letempsarchives.ch/Repository/getFiles.asp?Style=OliveXLib:LowLevelEntityToSaveGifMSIE_LETEMPSFR&#38;Type=text/html&#38;Locale=french-skin-custom&#38;Path=JDG/1998/02/11&#38;ChunkNum=-1&#38;ID=Ar00101&#38;PageLabel=1&#62;, consulté le 18.03.2014.'
+- style: src/infoclio-de.csl
+  citations:
+  - 'Moser, Peter: Besessen von der Vergangenheit? Geschichtsschreibung und Literatur in Irland, in: NZZ, 25.10.1996, S. 166–171.'
+  - 'Dufour, Nicolas: Cinquante ans après sa mort, Ramuz hésite encore entre Paris et Lausanne, in: Journal de Genève et Gazette de Lausanne, 11.02.1998, S. 1. Online: &#60;http://www.letempsarchives.ch/Repository/getFiles.asp?Style=OliveXLib:LowLevelEntityToSaveGifMSIE_LETEMPSFR&#38;Type=text/html&#38;Locale=french-skin-custom&#38;Path=JDG/1998/02/11&#38;ChunkNum=-1&#38;ID=Ar00101&#38;PageLabel=1&#62;, Stand: 18.03.2014.'
+- style: src/infoclio-fr-smallcaps.csl
+  citations:
+  - <span style="font-variant:small-caps;">Moser</span> Peter, « Besessen von der Vergangenheit? Geschichtsschreibung und Literatur in Irland », <i>NZZ</i>, 25.10.1996, pp. 166‑171.
+  - '<span style="font-variant:small-caps;">Dufour</span> Nicolas, « Cinquante ans après sa mort, Ramuz hésite encore entre Paris et Lausanne », <i>Journal de Genève et Gazette de Lausanne</i>, 11.02.1998, p. 1. En ligne: &#60;http://www.letempsarchives.ch/Repository/getFiles.asp?Style=OliveXLib:LowLevelEntityToSaveGifMSIE_LETEMPSFR&#38;Type=text/html&#38;Locale=french-skin-custom&#38;Path=JDG/1998/02/11&#38;ChunkNum=-1&#38;ID=Ar00101&#38;PageLabel=1&#62;, consulté le 18.03.2014.'

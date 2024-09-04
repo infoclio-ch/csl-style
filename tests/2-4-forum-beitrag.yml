@@ -1,0 +1,16 @@
+input:
+- BlaueFee2012
+- Pellin2014
+tests:
+- style: src/infoclio-fr-smallcaps.csl
+  citations:
+  - '<span style="font-variant:small-caps;">Blaue Fee</span>, « Warum nicht? », <i>Spiegel Online-Forum: Kindergärten - Sollte es mehr männliche Erzieher geben?</i>, 02.09.2012, &#60;http://forum.spiegel.de/f10/kindergaerten-sollte-es-mehr-maennliche-erzieher-geben-69683.html#post10873112&#62;, consulté le 04.02.2014.'
+  - <span style="font-variant:small-caps;">Pellin</span> Elio, « Buch am Mittag », <i>swiss-lib</i>, 06.05.2014, &#60;https://lists.switch.ch/mailman/private/swiss-lib/2014-May/014964.html&#62;, consulté le 16.05.2014.
+- style: src/infoclio-de.csl
+  citations:
+  - 'Blaue Fee: Warum nicht?, Spiegel Online-Forum: Kindergärten - Sollte es mehr männliche Erzieher geben?, 02.09.2012, &#60;http://forum.spiegel.de/f10/kindergaerten-sollte-es-mehr-maennliche-erzieher-geben-69683.html#post10873112&#62;, Stand: 04.02.2014.'
+  - 'Pellin, Elio: Buch am Mittag, swiss-lib, 06.05.2014, &#60;https://lists.switch.ch/mailman/private/swiss-lib/2014-May/014964.html&#62;, Stand: 16.05.2014.'
+- style: src/infoclio-fr-nocaps.csl
+  citations:
+  - 'Blaue Fee, « Warum nicht? », <i>Spiegel Online-Forum: Kindergärten - Sollte es mehr männliche Erzieher geben?</i>, 02.09.2012, &#60;http://forum.spiegel.de/f10/kindergaerten-sollte-es-mehr-maennliche-erzieher-geben-69683.html#post10873112&#62;, consulté le 04.02.2014.'
+  - Pellin Elio, « Buch am Mittag », <i>swiss-lib</i>, 06.05.2014, &#60;https://lists.switch.ch/mailman/private/swiss-lib/2014-May/014964.html&#62;, consulté le 16.05.2014.

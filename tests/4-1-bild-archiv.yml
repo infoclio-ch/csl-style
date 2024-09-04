@@ -1,0 +1,16 @@
+input:
+- Jost1932
+- Pesne1729
+tests:
+- style: src/infoclio-fr-smallcaps.csl
+  citations:
+  - '<span style="font-variant:small-caps;">Jost</span> Carl, <i>Berner Mattequartier</i>, Bern, vers 1932, Fotografie, 3.5 x 2.5 cm, Staatsarchiv des Kantons Bern, FN Jost Fotonachlass Carl Jost, Cote: FN Jost N 10064. En ligne: &#60;http://www.query.sta.be.ch/detail.aspx?ID=472422&#62;, consulté le 25.03.2014.'
+  - '<span style="font-variant:small-caps;">Pesne</span> Antoine, <i>Der «Soldatenkönig» von Preußen - Friedrich Wilhelm I.</i>, Berlin, 1729, Gemälde / Öl auf Leinwand, 242 x 149 cm, Stiftung Preussische Schlösser und Gärten, Park Schloss Charlottenburg, Cote: 00000012. En ligne: &#60;http://www.bpk-images.de/?18671877727020631900&#38;MEDIANUMBER=00000012&#62;, consulté le 12.09.2014.'
+- style: src/infoclio-de.csl
+  citations:
+  - 'Jost, Carl: Berner Mattequartier, Bern ca. 1932, Fotografie, 3.5 x 2.5 cm, Staatsarchiv des Kantons Bern, FN Jost Fotonachlass Carl Jost, Signatur: FN Jost N 10064. Online: &#60;http://www.query.sta.be.ch/detail.aspx?ID=472422&#62;, Stand: 25.03.2014.'
+  - 'Pesne, Antoine: Der «Soldatenkönig» von Preußen - Friedrich Wilhelm I., Berlin 1729, Gemälde / Öl auf Leinwand, 242 x 149 cm, Stiftung Preussische Schlösser und Gärten, Park Schloss Charlottenburg, Signatur: 00000012. Online: &#60;http://www.bpk-images.de/?18671877727020631900&#38;MEDIANUMBER=00000012&#62;, Stand: 12.09.2014.'
+- style: src/infoclio-fr-nocaps.csl
+  citations:
+  - 'Jost Carl, <i>Berner Mattequartier</i>, Bern, vers 1932, Fotografie, 3.5 x 2.5 cm, Staatsarchiv des Kantons Bern, FN Jost Fotonachlass Carl Jost, Cote: FN Jost N 10064. En ligne: &#60;http://www.query.sta.be.ch/detail.aspx?ID=472422&#62;, consulté le 25.03.2014.'
+  - 'Pesne Antoine, <i>Der «Soldatenkönig» von Preußen - Friedrich Wilhelm I.</i>, Berlin, 1729, Gemälde / Öl auf Leinwand, 242 x 149 cm, Stiftung Preussische Schlösser und Gärten, Park Schloss Charlottenburg, Cote: 00000012. En ligne: &#60;http://www.bpk-images.de/?18671877727020631900&#38;MEDIANUMBER=00000012&#62;, consulté le 12.09.2014.'

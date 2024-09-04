@@ -1,0 +1,12 @@
+input:
+- Haber2011a
+tests:
+- style: src/infoclio-fr-nocaps.csl
+  citations:
+  - Haber Peter, Gespräch über Digital Humanities, entretien réalisé par Enrico Natale, Basel, 13.06.2011.
+- style: src/infoclio-de.csl
+  citations:
+  - 'Haber, Peter: Gespräch über Digital Humanities, Interview geführt von Enrico Natale, Basel 13.06.2011.'
+- style: src/infoclio-fr-smallcaps.csl
+  citations:
+  - <span style="font-variant:small-caps;">Haber</span> Peter, Gespräch über Digital Humanities, entretien réalisé par Enrico Natale, Basel, 13.06.2011.

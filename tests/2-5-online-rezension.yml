@@ -1,0 +1,16 @@
+tests:
+- style: src/infoclio-de.csl
+  input:
+  - Ziegler2015
+  citations:
+  - 'Ziegler, Béatrice: Rezension zu: Holenstein, André: Mitten in Europa. Verflechtung und Abgrenzung in der Schweizer Geschichte, Baden 2014, H-Soz-Kult, 10.09.2015, &#60;http://www.hsozkult.de/publicationreview/id/rezbuecher-24026&#62;, Stand: 19.11.2015.'
+- style: src/infoclio-fr-nocaps.csl
+  input:
+  - Ziegler2015a
+  citations:
+  - 'Ziegler Béatrice, « Recension de: Holenstein André, Mitten in Europa. Verflechtung und Abgrenzung in der Schweizer Geschichte, Baden, Hier + Jetzt, 2014 », <i>H-Soz-Kult</i>, 10.09.2015, &#60;http://www.hsozkult.de/publicationreview/id/rezbuecher-24026&#62;, consulté le 19.11.2015.'
+- style: src/infoclio-fr-smallcaps.csl
+  input:
+  - Ziegler2015a
+  citations:
+  - '<span style="font-variant:small-caps;">Ziegler</span> Béatrice, « Recension de: Holenstein André, Mitten in Europa. Verflechtung und Abgrenzung in der Schweizer Geschichte, Baden, Hier + Jetzt, 2014 », <i>H-Soz-Kult</i>, 10.09.2015, &#60;http://www.hsozkult.de/publicationreview/id/rezbuecher-24026&#62;, consulté le 19.11.2015.'

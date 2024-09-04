@@ -1,0 +1,16 @@
+input:
+- Gardi2012
+- Scheiwiller2015
+tests:
+- style: src/infoclio-de.csl
+  citations:
+  - 'Gardi, René: In der Bar von Mokolo, Mokolo 1953, in: Purtschert, Patricia; Lüthi, Barbara; Falk, Francesca (Hg.): Postkoloniale Schweiz, Bielefeld 2012, S. 373.'
+  - 'Scheiwiller, Walter: Kinder betteln bei den Amerikanern um Kaugummis, Chur 1945, in: NZZ Geschichte: Wir Protestanten. Wie die Reformation die Schweiz reich gemacht hat (2), 2015, S. 82.'
+- style: src/infoclio-fr-smallcaps.csl
+  citations:
+  - '<span style="font-variant:small-caps;">Gardi</span> René, « In der Bar von Mokolo, Mokolo 1953 », in: <span style="font-variant:small-caps;">Purtschert</span> Patricia, <span style="font-variant:small-caps;">Lüthi</span> Barbara et <span style="font-variant:small-caps;">Falk</span> Francesca (éds.), <i>Postkoloniale Schweiz</i>, Bielefeld, Transcript, 2012, p. 373.'
+  - '<span style="font-variant:small-caps;">Scheiwiller</span> Walter, « Kinder betteln bei den Amerikanern um Kaugummis, Chur 1945 », <i>NZZ Geschichte: Wir Protestanten. Wie die Reformation die Schweiz reich gemacht hat</i> (2), 2015, p. 82.'
+- style: src/infoclio-fr-nocaps.csl
+  citations:
+  - 'Gardi René, « In der Bar von Mokolo, Mokolo 1953 », in: Purtschert Patricia, Lüthi Barbara et Falk Francesca (éds.), <i>Postkoloniale Schweiz</i>, Bielefeld, Transcript, 2012, p. 373.'
+  - 'Scheiwiller Walter, « Kinder betteln bei den Amerikanern um Kaugummis, Chur 1945 », <i>NZZ Geschichte: Wir Protestanten. Wie die Reformation die Schweiz reich gemacht hat</i> (2), 2015, p. 82.'

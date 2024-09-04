@@ -1,0 +1,20 @@
+input:
+- Zogg2000
+- Muller1998
+- Reinau1981
+tests:
+- style: src/infoclio-de.csl
+  citations:
+  - 'Zogg, Andi: Das «System» hat die Grippe. Vom Umgang mit einer Epidemie im Jahr des schweizerischen Landesstreiks von 1918, Lizentiatsarbeit, Universität Zürich, Zürich 2000.'
+  - 'Müller, Felix: Aussterben oder Verarmen? Lebensführung und wirtschaftliche Verhältnisse der Berner Patrizierfamilie Effinger von Wildegg (1725-1815), Dissertation, Universität Bern, Bern 1998.'
+  - 'Reinau, Hansjörg: Die Entstehung des Bürgerbegriffs bei den Griechen, Dissertation, Universität Basel, Basel 1981. Online: &#60;http://edoc.unibas.ch/diss/DissB_70&#62;, Stand: 06.03.2014.'
+- style: src/infoclio-fr-smallcaps.csl
+  citations:
+  - <span style="font-variant:small-caps;">Zogg</span> Andi, <i>Das « System » hat die Grippe. Vom Umgang mit einer Epidemie im Jahr des schweizerischen Landesstreiks von 1918</i>, Lizentiatsarbeit, Zürich, Universität Zürich, 2000.
+  - <span style="font-variant:small-caps;">Müller</span> Felix, <i>Aussterben oder Verarmen? Lebensführung und wirtschaftliche Verhältnisse der Berner Patrizierfamilie Effinger von Wildegg (1725-1815)</i>, Dissertation, Bern, Universität Bern, 1998.
+  - '<span style="font-variant:small-caps;">Reinau</span> Hansjörg, <i>Die Entstehung des Bürgerbegriffs bei den Griechen</i>, Dissertation, Basel, Universität Basel, 1981. En ligne: &#60;http://edoc.unibas.ch/diss/DissB_70&#62;, consulté le 06.03.2014.'
+- style: src/infoclio-fr-nocaps.csl
+  citations:
+  - Zogg Andi, <i>Das « System » hat die Grippe. Vom Umgang mit einer Epidemie im Jahr des schweizerischen Landesstreiks von 1918</i>, Lizentiatsarbeit, Zürich, Universität Zürich, 2000.
+  - Müller Felix, <i>Aussterben oder Verarmen? Lebensführung und wirtschaftliche Verhältnisse der Berner Patrizierfamilie Effinger von Wildegg (1725-1815)</i>, Dissertation, Bern, Universität Bern, 1998.
+  - 'Reinau Hansjörg, <i>Die Entstehung des Bürgerbegriffs bei den Griechen</i>, Dissertation, Basel, Universität Basel, 1981. En ligne: &#60;http://edoc.unibas.ch/diss/DissB_70&#62;, consulté le 06.03.2014.'

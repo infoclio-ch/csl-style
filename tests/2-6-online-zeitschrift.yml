@@ -1,0 +1,16 @@
+input:
+- JohnBuettner
+- Brugger2016
+tests:
+- style: src/infoclio-fr-nocaps.csl
+  citations:
+  - 'John Jennifer, Büttner Silke, Heinz Kathrin et al. (éds.), <i>FKW. Zeitschrift für Geschlechterforschung und visuelle Kultur</i>, Bremen. En ligne: &#60;http://www.fkw-journal.de/index.php/fkw/index&#62;, consulté le 10.08.2016.'
+  - 'Brugger Eva et Christadler Maike (éds.), <i>Riskante Versprechen. Erfolg und Scheitern in der Vormoderne</i>, 2016 (FKW. Zeitschrift für Geschlechterforschung und visuelle Kultur 60). En ligne: &#60;http://www.fkw-journal.de./index.php/fkw/issue/view/72&#62;, consulté le 10.08.2016.'
+- style: src/infoclio-de.csl
+  citations:
+  - 'John, Jennifer; Büttner, Silke; Heinz, Kathrin u. a. (Hg.): FKW. Zeitschrift für Geschlechterforschung und visuelle Kultur, Bremen. Online: &#60;http://www.fkw-journal.de/index.php/fkw/index&#62;, Stand: 10.08.2016.'
+  - 'Brugger, Eva; Christadler, Maike (Hg.): Riskante Versprechen. Erfolg und Scheitern in der Vormoderne, 2016 (FKW. Zeitschrift für Geschlechterforschung und visuelle Kultur 60). Online: &#60;http://www.fkw-journal.de./index.php/fkw/issue/view/72&#62;, Stand: 10.08.2016.'
+- style: src/infoclio-fr-smallcaps.csl
+  citations:
+  - '<span style="font-variant:small-caps;">John</span> Jennifer, <span style="font-variant:small-caps;">Büttner</span> Silke, <span style="font-variant:small-caps;">Heinz</span> Kathrin et al. (éds.), <i>FKW. Zeitschrift für Geschlechterforschung und visuelle Kultur</i>, Bremen. En ligne: &#60;http://www.fkw-journal.de/index.php/fkw/index&#62;, consulté le 10.08.2016.'
+  - '<span style="font-variant:small-caps;">Brugger</span> Eva et <span style="font-variant:small-caps;">Christadler</span> Maike (éds.), <i>Riskante Versprechen. Erfolg und Scheitern in der Vormoderne</i>, 2016 (FKW. Zeitschrift für Geschlechterforschung und visuelle Kultur 60). En ligne: &#60;http://www.fkw-journal.de./index.php/fkw/issue/view/72&#62;, consulté le 10.08.2016.'

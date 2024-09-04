@@ -1,0 +1,24 @@
+input:
+- Stadtwanderer2014
+- Konig2012
+- Obama2012
+- Berset2020
+tests:
+- style: src/infoclio-de.csl
+  citations:
+  - 'Stadtwanderer: Gelebte Machtteilung, Stadtwanderer - Geschichte(n) aus meinem Lebensraum, 22.03.2014, &#60;http://www.stadtwanderer.net/?p=16726&#62;, Stand: 25.03.2014.'
+  - 'König, Mareike: Guck mal, wer da bloggt! Neue Blogs bei de.hypotheses.org, Redaktionsblog, 26.04.2012, &#60;http://redaktionsblog.hypotheses.org/485&#62;, Stand: 04.02.2014.'
+  - 'Obama, Barack: Four more years, Twitter, @BarackObama, 06.11.2012, &#60;https://twitter.com/BarackObama/status/266031293945503744&#62;, Stand: 05.06.2015.'
+  - 'Berset, Alain: Der Bundesrat hat sich heute zu einer ausserordentlichen Sitzung getroffen..., Facebook, 28.02.2020, &#60;https://www.facebook.com/BersetAlain/photos/a.1115701091805829/3549035598472354/?type=3&#38;theater&#62;, Stand: 10.03.2020.'
+- style: src/infoclio-fr-nocaps.csl
+  citations:
+  - Stadtwanderer, « Gelebte Machtteilung », <i>Stadtwanderer - Geschichte(n) aus meinem Lebensraum</i>, 22.03.2014, &#60;http://www.stadtwanderer.net/?p=16726&#62;, consulté le 25.03.2014.
+  - König Mareike, « Guck mal, wer da bloggt! Neue Blogs bei de.hypotheses.org », <i>Redaktionsblog</i>, 26.04.2012, &#60;http://redaktionsblog.hypotheses.org/485&#62;, consulté le 04.02.2014.
+  - Obama Barack, « Four more years », Twitter, <i>@BarackObama</i>, 06.11.2012, &#60;https://twitter.com/BarackObama/status/266031293945503744&#62;, consulté le 05.06.2015.
+  - Berset Alain, « Der Bundesrat hat sich heute zu einer ausserordentlichen Sitzung getroffen... », <i>Facebook</i>, 28.02.2020, &#60;https://www.facebook.com/BersetAlain/photos/a.1115701091805829/3549035598472354/?type=3&#38;theater&#62;, consulté le 10.03.2020.
+- style: src/infoclio-fr-smallcaps.csl
+  citations:
+  - <span style="font-variant:small-caps;">Stadtwanderer</span>, « Gelebte Machtteilung », <i>Stadtwanderer - Geschichte(n) aus meinem Lebensraum</i>, 22.03.2014, &#60;http://www.stadtwanderer.net/?p=16726&#62;, consulté le 25.03.2014.
+  - <span style="font-variant:small-caps;">König</span> Mareike, « Guck mal, wer da bloggt! Neue Blogs bei de.hypotheses.org », <i>Redaktionsblog</i>, 26.04.2012, &#60;http://redaktionsblog.hypotheses.org/485&#62;, consulté le 04.02.2014.
+  - <span style="font-variant:small-caps;">Obama</span> Barack, « Four more years », Twitter, <i>@BarackObama</i>, 06.11.2012, &#60;https://twitter.com/BarackObama/status/266031293945503744&#62;, consulté le 05.06.2015.
+  - <span style="font-variant:small-caps;">Berset</span> Alain, « Der Bundesrat hat sich heute zu einer ausserordentlichen Sitzung getroffen... », <i>Facebook</i>, 28.02.2020, &#60;https://www.facebook.com/BersetAlain/photos/a.1115701091805829/3549035598472354/?type=3&#38;theater&#62;, consulté le 10.03.2020.

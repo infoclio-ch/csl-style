@@ -1,0 +1,12 @@
+input:
+- Capus2013
+tests:
+- style: src/infoclio-fr-nocaps.csl
+  citations:
+  - Capus Alex, <i>Der Fälscher, die Spionin und der Bombenbauer (E-Book)</i>, München, Carl Hanser Verlag, 2013.
+- style: src/infoclio-de.csl
+  citations:
+  - 'Capus, Alex: Der Fälscher, die Spionin und der Bombenbauer (E-Book), München 2013.'
+- style: src/infoclio-fr-smallcaps.csl
+  citations:
+  - <span style="font-variant:small-caps;">Capus</span> Alex, <i>Der Fälscher, die Spionin und der Bombenbauer (E-Book)</i>, München, Carl Hanser Verlag, 2013.

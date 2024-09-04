@@ -1,0 +1,28 @@
+input:
+- Hug2014
+- Leclerc
+- Ende1973
+- Gruntz2011
+- Hunger2012
+tests:
+- style: src/infoclio-de.csl
+  citations:
+  - 'Hug, Hannes: Al Imfeld: Mein Leben ist die Besteigung eines sozialen Mount Everest, Focus, mp3, 60 min, Schweizer Radio und Fernsehen SRF, 19.05.2014. Online: &#60;http://www.srf.ch/sendungen/focus/al-imfeld-mein-leben-ist-die-besteigung-eines-sozialen-mount-everest&#62;, Stand: 23.05.2014.'
+  - 'Leclerc, Jean: Histoire vivante, Radio Télévision Suisse RTS. Online: &#60;http://www.rts.ch/docs/histoire-vivante/podcasts/&#62;, Stand: 16.09.2014.'
+  - 'Ende, Michael: Lummerland, Jim Knopf und Lukas der Lokomotivführer (Hörspiel) 01, 4:02 min., Universal Music Family Entertainment, o. O. 1973. Online: &#60;https://play.spotify.com/track/3VwH2BBHaHb1SsjLFJ9VAG&#62;, Stand: 09.10.2014.'
+  - 'Gruntz, James: Good Times, Until We Get There, 3:55 min., Bakara Music, 2011. Online: &#60;https://itunes.apple.com/ch/album/good-times/id458572221?i=458572233&#62;, Stand: 27.03.2014.'
+  - 'Hunger, Sophie: The Danger of Light, 61 min, Two Gentlemen Records, 2012. Online: &#60;https://itunes.apple.com/de/album/danger-light-deluxe-edition/id556828272&#62;, Stand: 27.03.2014.'
+- style: src/infoclio-fr-smallcaps.csl
+  citations:
+  - '<span style="font-variant:small-caps;">Hug</span> Hannes, « Al Imfeld: Mein Leben ist die Besteigung eines sozialen Mount Everest », <i>Focus</i>, mp3, 60 min, Schweizer Radio und Fernsehen SRF, 19.05.2014. En ligne: &#60;http://www.srf.ch/sendungen/focus/al-imfeld-mein-leben-ist-die-besteigung-eines-sozialen-mount-everest&#62;, consulté le 23.05.2014.'
+  - '<span style="font-variant:small-caps;">Leclerc</span> Jean, <i>Histoire vivante</i>, Radio Télévision Suisse RTS. En ligne: &#60;http://www.rts.ch/docs/histoire-vivante/podcasts/&#62;, consulté le 16.09.2014.'
+  - '<span style="font-variant:small-caps;">Ende</span> Michael, « Lummerland », <i>Jim Knopf und Lukas der Lokomotivführer (Hörspiel)</i> 01, 4:02 min., Universal Music Family Entertainment, o. O., 1973. En ligne: &#60;https://play.spotify.com/track/3VwH2BBHaHb1SsjLFJ9VAG&#62;, consulté le 09.10.2014.'
+  - '<span style="font-variant:small-caps;">Gruntz</span> James, « Good Times », <i>Until We Get There</i>, 3:55 min., Bakara Music, 2011. En ligne: &#60;https://itunes.apple.com/ch/album/good-times/id458572221?i=458572233&#62;, consulté le 27.03.2014.'
+  - '<span style="font-variant:small-caps;">Hunger</span> Sophie, <i>The Danger of Light</i>, 61 min, Two Gentlemen Records, 2012. En ligne: &#60;https://itunes.apple.com/de/album/danger-light-deluxe-edition/id556828272&#62;, consulté le 27.03.2014.'
+- style: src/infoclio-fr-nocaps.csl
+  citations:
+  - 'Hug Hannes, « Al Imfeld: Mein Leben ist die Besteigung eines sozialen Mount Everest », <i>Focus</i>, mp3, 60 min, Schweizer Radio und Fernsehen SRF, 19.05.2014. En ligne: &#60;http://www.srf.ch/sendungen/focus/al-imfeld-mein-leben-ist-die-besteigung-eines-sozialen-mount-everest&#62;, consulté le 23.05.2014.'
+  - 'Leclerc Jean, <i>Histoire vivante</i>, Radio Télévision Suisse RTS. En ligne: &#60;http://www.rts.ch/docs/histoire-vivante/podcasts/&#62;, consulté le 16.09.2014.'
+  - 'Ende Michael, « Lummerland », <i>Jim Knopf und Lukas der Lokomotivführer (Hörspiel)</i> 01, 4:02 min., Universal Music Family Entertainment, o. O., 1973. En ligne: &#60;https://play.spotify.com/track/3VwH2BBHaHb1SsjLFJ9VAG&#62;, consulté le 09.10.2014.'
+  - 'Gruntz James, « Good Times », <i>Until We Get There</i>, 3:55 min., Bakara Music, 2011. En ligne: &#60;https://itunes.apple.com/ch/album/good-times/id458572221?i=458572233&#62;, consulté le 27.03.2014.'
+  - 'Hunger Sophie, <i>The Danger of Light</i>, 61 min, Two Gentlemen Records, 2012. En ligne: &#60;https://itunes.apple.com/de/album/danger-light-deluxe-edition/id556828272&#62;, consulté le 27.03.2014.'

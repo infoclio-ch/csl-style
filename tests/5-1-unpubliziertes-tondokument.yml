@@ -1,0 +1,16 @@
+input:
+- Gahwyler1976
+- Kennedy1962
+tests:
+- style: src/infoclio-fr-nocaps.csl
+  citations:
+  - 'Gähwyler Karl, « Ich will leben wie Mensch nicht wie Hund an Kette! », Plastikspule, 26min, o. O., 1976, Schweizerische Nationalphonothek, Cote: 18BD1486.'
+  - 'Kennedy John F., « Radio and television address to the American people on the Soviet arms build-up in Cuba », <i>Historic Speeches</i>, Tonband, 18min, Washington DC, 22.10.1962, John F. Kennedy Presidental Library and Museum, Cote: JFKWHA-142-001. En ligne: &#60;http://www.jfklibrary.org/Asset-Viewer/sUVmCh-sB0moLfrBcaHaSg.aspx&#62;, consulté le 05.08.2014.'
+- style: src/infoclio-fr-smallcaps.csl
+  citations:
+  - '<span style="font-variant:small-caps;">Gähwyler</span> Karl, « Ich will leben wie Mensch nicht wie Hund an Kette! », Plastikspule, 26min, o. O., 1976, Schweizerische Nationalphonothek, Cote: 18BD1486.'
+  - '<span style="font-variant:small-caps;">Kennedy</span> John F., « Radio and television address to the American people on the Soviet arms build-up in Cuba », <i>Historic Speeches</i>, Tonband, 18min, Washington DC, 22.10.1962, John F. Kennedy Presidental Library and Museum, Cote: JFKWHA-142-001. En ligne: &#60;http://www.jfklibrary.org/Asset-Viewer/sUVmCh-sB0moLfrBcaHaSg.aspx&#62;, consulté le 05.08.2014.'
+- style: src/infoclio-de.csl
+  citations:
+  - 'Gähwyler, Karl: Ich will leben wie Mensch nicht wie Hund an Kette!, Plastikspule, 26min, o. O. 1976, Schweizerische Nationalphonothek, Signatur: 18BD1486.'
+  - 'Kennedy, John F.: Radio and television address to the American people on the Soviet arms build-up in Cuba, Historic Speeches, Tonband, 18min, Washington DC 22.10.1962, John F. Kennedy Presidental Library and Museum, Signatur: JFKWHA-142-001. Online: &#60;http://www.jfklibrary.org/Asset-Viewer/sUVmCh-sB0moLfrBcaHaSg.aspx&#62;, Stand: 05.08.2014.'

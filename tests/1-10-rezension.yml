@@ -1,0 +1,16 @@
+tests:
+- style: src/infoclio-de.csl
+  input:
+  - Hurlimann2015
+  citations:
+  - 'Hürlimann, Katja: Rezension zu: Moddelmog, Claudia; Teuscher, Simon (Hg.): Königsmord, Kloster, Klinik, Baden 2012, in: traverse - Zeitschrift für Geschichte 3, 2015, S. 190–192.'
+- style: src/infoclio-fr-nocaps.csl
+  input:
+  - Hurlimann2015a
+  citations:
+  - 'Hürlimann Katja, « Recension de: Moddelmog Claudia, Teuscher Simon (éds.), Königsmord, Kloster, Klinik, Baden, Hier + Jetzt, 2012 », <i>traverse - Zeitschrift für Geschichte</i> 3, 2015, pp. 190‑192.'
+- style: src/infoclio-fr-smallcaps.csl
+  input:
+  - Hurlimann2015a
+  citations:
+  - '<span style="font-variant:small-caps;">Hürlimann</span> Katja, « Recension de: Moddelmog Claudia, Teuscher Simon (éds.), Königsmord, Kloster, Klinik, Baden, Hier + Jetzt, 2012 », <i>traverse - Zeitschrift für Geschichte</i> 3, 2015, pp. 190‑192.'

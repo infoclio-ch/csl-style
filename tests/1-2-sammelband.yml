@@ -1,0 +1,20 @@
+input:
+- Kortum2001
+- Brandli1990
+- Dobrinski2007
+tests:
+- style: src/infoclio-fr-nocaps.csl
+  citations:
+  - Kortüm Hans-Henning (éd.), <i>Krieg im Mittelalter</i>, Berlin, Akademie Verlag, 2001.
+  - Brändli Sebastian, Gugerli David, Jaun Rudolf et al. (éds.), <i>Schweiz im Wandel. Studien zur neueren Gesellschaftsgeschichte</i>, Basel, Helbing &#38; Lichtenhahn, 1990.
+  - 'Dobrinski Claudia, Gedderth Brunhilde et Wipfler Katrin (éds.), <i>Kloster und Wirtschaftswelt im Mittelalter</i>, München, W. Fink, 2007. En ligne: &#60;https://opacplus.bsb-muenchen.de/title/BV022535069&#62;, consulté le 10.10.2014.'
+- style: src/infoclio-fr-smallcaps.csl
+  citations:
+  - <span style="font-variant:small-caps;">Kortüm</span> Hans-Henning (éd.), <i>Krieg im Mittelalter</i>, Berlin, Akademie Verlag, 2001.
+  - <span style="font-variant:small-caps;">Brändli</span> Sebastian, <span style="font-variant:small-caps;">Gugerli</span> David, <span style="font-variant:small-caps;">Jaun</span> Rudolf et al. (éds.), <i>Schweiz im Wandel. Studien zur neueren Gesellschaftsgeschichte</i>, Basel, Helbing &#38; Lichtenhahn, 1990.
+  - '<span style="font-variant:small-caps;">Dobrinski</span> Claudia, <span style="font-variant:small-caps;">Gedderth</span> Brunhilde et <span style="font-variant:small-caps;">Wipfler</span> Katrin (éds.), <i>Kloster und Wirtschaftswelt im Mittelalter</i>, München, W. Fink, 2007. En ligne: &#60;https://opacplus.bsb-muenchen.de/title/BV022535069&#62;, consulté le 10.10.2014.'
+- style: src/infoclio-de.csl
+  citations:
+  - 'Kortüm, Hans-Henning (Hg.): Krieg im Mittelalter, Berlin 2001.'
+  - 'Brändli, Sebastian; Gugerli, David; Jaun, Rudolf u. a. (Hg.): Schweiz im Wandel. Studien zur neueren Gesellschaftsgeschichte, Basel 1990.'
+  - 'Dobrinski, Claudia; Gedderth, Brunhilde; Wipfler, Katrin (Hg.): Kloster und Wirtschaftswelt im Mittelalter, München 2007. Online: &#60;https://opacplus.bsb-muenchen.de/title/BV022535069&#62;, Stand: 10.10.2014.'

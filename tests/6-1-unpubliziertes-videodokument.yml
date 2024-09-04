@@ -1,0 +1,12 @@
+input:
+- Morgenthaler1964
+tests:
+- style: src/infoclio-de.csl
+  citations:
+  - 'Morgenthaler, Niklaus: Halen 1964, Film 16mm, Bern 1964, Staatsarchiv des Kantons Bern, D Spezialarchive, Signatur: VID 41.'
+- style: src/infoclio-fr-nocaps.csl
+  citations:
+  - 'Morgenthaler Niklaus, <i>Halen 1964</i>, Film 16mm, Bern, 1964, Staatsarchiv des Kantons Bern, D Spezialarchive, Cote: VID 41.'
+- style: src/infoclio-fr-smallcaps.csl
+  citations:
+  - '<span style="font-variant:small-caps;">Morgenthaler</span> Niklaus, <i>Halen 1964</i>, Film 16mm, Bern, 1964, Staatsarchiv des Kantons Bern, D Spezialarchive, Cote: VID 41.'
