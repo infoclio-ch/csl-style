@@ -2201,5 +2201,87 @@
     "title": "Die Werke in deutscher Übersetzung",
     "type": "book",
     "volume": "1"
+  },
+  {
+    "id": "Bonneuil2016",
+    "author": [
+      {
+        "family": "Bonneuil",
+        "given": "Christophe"
+      },
+      {
+        "family": "Fressoz",
+        "given": "Jean-Baptiste"
+      }
+    ],
+    "citation-key": "Bonneuil2016",
+    "event-place": "London",
+    "ISBN": "978-1-78478-079-1",
+    "issued": {
+      "date-parts": [
+        [
+          "2016"
+        ]
+      ]
+    },
+    "language": "eng",
+    "publisher": "Verso",
+    "publisher-place": "London",
+    "source": "SLSP",
+    "title": "The shock of the Anthropocene: the Earth, history, and us",
+    "title-short": "The shock of the Anthropocene",
+    "translator": [
+      {
+        "family": "Fernbach",
+        "given": "David"
+      }
+    ],
+    "type": "book"
+  },
+  {
+    "id": "Warburg1995",
+    "abstract": "If I am to show you images, most of which I photographed myself, from a journey undertaken some twentyseven years in the past, and to accompany them with words, then it behooves me to preface my attempt with an explanation. The few weeks I have had at my disposal have not given me the chance to revive and to work through my old memories in such a way that I might offer you a solid introduction into the psychic life of the Indians. Moreover, even at the time, I was unable to give depth to my impressions, as I had",
+    "accessed": {
+      "date-parts": [
+        [
+          "2024",
+          9,
+          4
+        ]
+      ]
+    },
+    "author": [
+      {
+        "family": "Warburg",
+        "given": "Aby M."
+      }
+    ],
+    "citation-key": "Warburg1995",
+    "editor": [
+      {
+        "family": "Steinberg",
+        "given": "Michael P."
+      }
+    ],
+    "event-place": "New York",
+    "ISBN": "978-0-8014-8435-3",
+    "issued": {
+      "date-parts": [
+        [
+          "1995"
+        ]
+      ]
+    },
+    "publisher": "Cornell University Press",
+    "publisher-place": "New York",
+    "title": "Images from the Region of the Pueblo Indians of North America",
+    "translator": [
+      {
+        "family": "Steinberg",
+        "given": "Michael P."
+      }
+    ],
+    "type": "book",
+    "URL": "https://www.jstor.org/stable/10.7591/j.ctt1g69xgc"
   }
 ]

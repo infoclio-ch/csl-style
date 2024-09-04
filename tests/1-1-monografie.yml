@@ -6,16 +6,10 @@ input:
 - Becker2002
 - Hanzo2007
 - PhilovonAlexandria1962
+- Bonneuil2016
+- Warburg1995
+
 tests:
-- style: src/infoclio-fr-smallcaps.csl
-  citations:
-  - <span style="font-variant:small-caps;">Honegger</span> Claudia, <i>Die Ordnung der Geschlechter. Die Wissenschaften vom Menschen und das Weib</i>, München, Deutscher Taschenbuch Verlag, 1996.
-  - <span style="font-variant:small-caps;">Haber</span> Peter et <span style="font-variant:small-caps;">Hodel</span> Jan, <i>Geschichtswissenschaft und Web 2.0. Eine Dokumentation</i>, Basel, hist.net, 2011.
-  - <span style="font-variant:small-caps;">Kreis</span> Georg, <i>Insel der unsicheren Geborgenheit. Die Schweiz in den Kriegsjahren 1914-1918</i>, 2<sup>e</sup> édition, Zürich, Neue Zürcher Zeitung, 2014.
-  - <span style="font-variant:small-caps;">Plag</span> Ingo, <span style="font-variant:small-caps;">Braun</span> Maria, <span style="font-variant:small-caps;">Lappe</span> Sabine et al., <i>Introduction to English linguistics</i>, Berlin; New York, Mouton de Gruyter, 2007.
-  - <span style="font-variant:small-caps;">Becker</span> Peter, <i>Verderbnis und Entartung. Eine Geschichte der Kriminologie des 19. Jahrhunderts als Diskurs und Praxis</i>, Göttingen, Vandenhoeck &#38; Ruprecht, 2002 (Veröffentlichungen des Max-Planck-Instituts für Geschichte 176).
-  - '<span style="font-variant:small-caps;">Hanzo</span> Lajos, <span style="font-variant:small-caps;">Somerville</span> F. Clare et <span style="font-variant:small-caps;">Woodard</span> Jason, <i>Voice and Audio Compression for Wireless Communications</i>, Chichester, UK, John Wiley &#38; Sons, Ltd., 2007. En ligne: &#60;https://doi.org/10.1002/9780470516034&#62;, consulté le 28.03.2018.'
-  - <span style="font-variant:small-caps;">Philo von Alexandria</span>, <i>Die Werke in deutscher Übersetzung</i>, éd. par <span style="font-variant:small-caps;">Heinemann</span> Isaak, <span style="font-variant:small-caps;">Adler</span> Maximilian, <span style="font-variant:small-caps;">Theiler</span> Willy et al., vol. 1, 2<sup>e</sup> édition, Berlin, De Gruyter, 1962.
 - style: src/infoclio-de.csl
   citations:
   - 'Honegger, Claudia: Die Ordnung der Geschlechter. Die Wissenschaften vom Menschen und das Weib, München 1996.'
@@ -25,6 +19,21 @@ tests:
   - 'Becker, Peter: Verderbnis und Entartung. Eine Geschichte der Kriminologie des 19. Jahrhunderts als Diskurs und Praxis, Göttingen 2002 (Veröffentlichungen des Max-Planck-Instituts für Geschichte 176).'
   - 'Hanzo, Lajos; Somerville, F. Clare; Woodard, Jason: Voice and Audio Compression for Wireless Communications, Chichester, UK 2007. Online: &#60;https://doi.org/10.1002/9780470516034&#62;, Stand: 28.03.2018.'
   - 'Philo von Alexandria: Die Werke in deutscher Übersetzung, hg. v. Heinemann, Isaak; Adler, Maximilian; Theiler, Willy u. a., Bd. 1, Berlin 1962<sup>2</sup>.'
+  - 'Bonneuil, Christophe; Fressoz, Jean-Baptiste: The shock of the Anthropocene: the Earth, history, and us, übers. v. Fernbach, David, London 2016.'
+  - 'Warburg, Aby M.: Images from the Region of the Pueblo Indians of North America, hg. &#38; übers. v. Steinberg, Michael P., New York 1995. Online: &#60;https://www.jstor.org/stable/10.7591/j.ctt1g69xgc&#62;, Stand: 04.09.2024.'
+
+- style: src/infoclio-fr-smallcaps.csl
+  citations:
+  - <span style="font-variant:small-caps;">Honegger</span> Claudia, <i>Die Ordnung der Geschlechter. Die Wissenschaften vom Menschen und das Weib</i>, München, Deutscher Taschenbuch Verlag, 1996.
+  - <span style="font-variant:small-caps;">Haber</span> Peter et <span style="font-variant:small-caps;">Hodel</span> Jan, <i>Geschichtswissenschaft und Web 2.0. Eine Dokumentation</i>, Basel, hist.net, 2011.
+  - <span style="font-variant:small-caps;">Kreis</span> Georg, <i>Insel der unsicheren Geborgenheit. Die Schweiz in den Kriegsjahren 1914-1918</i>, 2<sup>e</sup> édition, Zürich, Neue Zürcher Zeitung, 2014.
+  - <span style="font-variant:small-caps;">Plag</span> Ingo, <span style="font-variant:small-caps;">Braun</span> Maria, <span style="font-variant:small-caps;">Lappe</span> Sabine et al., <i>Introduction to English linguistics</i>, Berlin; New York, Mouton de Gruyter, 2007.
+  - <span style="font-variant:small-caps;">Becker</span> Peter, <i>Verderbnis und Entartung. Eine Geschichte der Kriminologie des 19. Jahrhunderts als Diskurs und Praxis</i>, Göttingen, Vandenhoeck &#38; Ruprecht, 2002 (Veröffentlichungen des Max-Planck-Instituts für Geschichte 176).
+  - '<span style="font-variant:small-caps;">Hanzo</span> Lajos, <span style="font-variant:small-caps;">Somerville</span> F. Clare et <span style="font-variant:small-caps;">Woodard</span> Jason, <i>Voice and Audio Compression for Wireless Communications</i>, Chichester, UK, John Wiley &#38; Sons, Ltd., 2007. En ligne: &#60;https://doi.org/10.1002/9780470516034&#62;, consulté le 28.03.2018.'
+  - <span style="font-variant:small-caps;">Philo von Alexandria</span>, <i>Die Werke in deutscher Übersetzung</i>, éd. par <span style="font-variant:small-caps;">Heinemann</span> Isaak, <span style="font-variant:small-caps;">Adler</span> Maximilian, <span style="font-variant:small-caps;">Theiler</span> Willy et al., vol. 1, 2<sup>e</sup> édition, Berlin, De Gruyter, 1962.
+  - '<span style="font-variant:small-caps;">Bonneuil</span> Christophe et <span style="font-variant:small-caps;">Fressoz</span> Jean-Baptiste, <i>The shock of the Anthropocene: the Earth, history, and us</i>, trad. par <span style="font-variant:small-caps;">Fernbach</span> David, London, Verso, 2016.'
+  - '<span style="font-variant:small-caps;">Warburg</span> Aby M., <i>Images from the Region of the Pueblo Indians of North America</i>, éd. et trad. par <span style="font-variant:small-caps;">Steinberg</span> Michael P., New York, Cornell University Press, 1995. En ligne: &#60;https://www.jstor.org/stable/10.7591/j.ctt1g69xgc&#62;, consulté le 04.09.2024.'
+
 - style: src/infoclio-fr-nocaps.csl
   citations:
   - Honegger Claudia, <i>Die Ordnung der Geschlechter. Die Wissenschaften vom Menschen und das Weib</i>, München, Deutscher Taschenbuch Verlag, 1996.
@@ -34,4 +43,5 @@ tests:
   - Becker Peter, <i>Verderbnis und Entartung. Eine Geschichte der Kriminologie des 19. Jahrhunderts als Diskurs und Praxis</i>, Göttingen, Vandenhoeck &#38; Ruprecht, 2002 (Veröffentlichungen des Max-Planck-Instituts für Geschichte 176).
   - 'Hanzo Lajos, Somerville F. Clare et Woodard Jason, <i>Voice and Audio Compression for Wireless Communications</i>, Chichester, UK, John Wiley &#38; Sons, Ltd., 2007. En ligne: &#60;https://doi.org/10.1002/9780470516034&#62;, consulté le 28.03.2018.'
   - Philo von Alexandria, <i>Die Werke in deutscher Übersetzung</i>, éd. par Heinemann Isaak, Adler Maximilian, Theiler Willy et al., vol. 1, 2<sup>e</sup> édition, Berlin, De Gruyter, 1962.
-
+  - 'Bonneuil Christophe et Fressoz Jean-Baptiste, <i>The shock of the Anthropocene: the Earth, history, and us</i>, trad. par Fernbach David, London, Verso, 2016.'
+  - 'Warburg Aby M., <i>Images from the Region of the Pueblo Indians of North America</i>, éd. et trad. par Steinberg Michael P., New York, Cornell University Press, 1995. En ligne: &#60;https://www.jstor.org/stable/10.7591/j.ctt1g69xgc&#62;, consulté le 04.09.2024.'
