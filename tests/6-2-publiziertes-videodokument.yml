@@ -2,19 +2,24 @@ input:
 - Wyss2014
 - Poletti
 - Forster2006
+- MrDrohne2018
+
 tests:
 - style: src/infoclio-fr-nocaps.csl
   citations:
   - 'Wyss Daniel, « La barque n’est pas pleine - Réfugiés chiliens en Suisse », <i>Histoire vivante</i>, 56 min, Radio Télévision Suisse, 18.05.2014. En ligne: &#60;http://www.rts.ch/docs/histoire-vivante/a-voir/5757336-la-barque-n-est-pas-pleine-refugies-chiliens-en-suisse.html&#62;, consulté le 23.05.2014.'
   - 'Poletti Mario, <i>Rundschau</i>, Schweizer Radio und Fernsehen SRF. En ligne: &#60;http://www.srf.ch/sendungen/rundschau/sendeportraet&#62;, consulté le 23.05.2014.'
   - Forster Marc, <i>Stranger than Fiction</i>, 113 min, Columbia Pictures, USA, 2006.
+  - 'Mr Drohne, <i>Sturm Burglind Schweiz/Emmental</i>, 3:12 min, YouTube, 03.01.2018. En ligne: &#60;https://www.youtube.com/watch?v=lMulfSOh-uY&#38;t=21s&#62;, consulté le 19.12.2018.'
 - style: src/infoclio-de.csl
   citations:
   - 'Wyss, Daniel: La barque n’est pas pleine - Réfugiés chiliens en Suisse, Histoire vivante, 56 min, Radio Télévision Suisse, 18.05.2014. Online: &#60;http://www.rts.ch/docs/histoire-vivante/a-voir/5757336-la-barque-n-est-pas-pleine-refugies-chiliens-en-suisse.html&#62;, Stand: 23.05.2014.'
   - 'Poletti, Mario: Rundschau, Schweizer Radio und Fernsehen SRF. Online: &#60;http://www.srf.ch/sendungen/rundschau/sendeportraet&#62;, Stand: 23.05.2014.'
   - 'Forster, Marc: Stranger than Fiction, 113 min, Columbia Pictures, USA 2006.'
+  - 'Mr Drohne: Sturm Burglind Schweiz/Emmental, 3:12 min, YouTube, 03.01.2018. Online: &#60;https://www.youtube.com/watch?v=lMulfSOh-uY&#38;t=21s&#62;, Stand: 19.12.2018.'
 - style: src/infoclio-fr-smallcaps.csl
   citations:
   - '<span style="font-variant:small-caps;">Wyss</span> Daniel, « La barque n’est pas pleine - Réfugiés chiliens en Suisse », <i>Histoire vivante</i>, 56 min, Radio Télévision Suisse, 18.05.2014. En ligne: &#60;http://www.rts.ch/docs/histoire-vivante/a-voir/5757336-la-barque-n-est-pas-pleine-refugies-chiliens-en-suisse.html&#62;, consulté le 23.05.2014.'
   - '<span style="font-variant:small-caps;">Poletti</span> Mario, <i>Rundschau</i>, Schweizer Radio und Fernsehen SRF. En ligne: &#60;http://www.srf.ch/sendungen/rundschau/sendeportraet&#62;, consulté le 23.05.2014.'
   - <span style="font-variant:small-caps;">Forster</span> Marc, <i>Stranger than Fiction</i>, 113 min, Columbia Pictures, USA, 2006.
+  - '<span style="font-variant:small-caps;">Mr Drohne</span>, <i>Sturm Burglind Schweiz/Emmental</i>, 3:12 min, YouTube, 03.01.2018. En ligne: &#60;https://www.youtube.com/watch?v=lMulfSOh-uY&#38;t=21s&#62;, consulté le 19.12.2018.'

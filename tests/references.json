@@ -279,21 +279,21 @@
     "type": "book"
   },
   {
-    "id": "ChaptGPT2023",
-    "citation-key": "ChaptGPT2023",
-    "container-title": "ChatGPT (Version 3.5)",
+    "id": "ChatGPT2024",
+    "citation-key": "ChatGPT2024",
+    "container-title": "ChatGPT 4",
     "issued": {
       "date-parts": [
         [
-          "2023",
-          3,
+          "2024",
+          1,
           23
         ]
       ]
     },
-    "title": "Prompt: Was ist Geologie?",
+    "title": "Prompt: Was ist Geschichte?",
     "type": "webpage",
-    "URL": "https://chat.openai.com/"
+    "URL": "https://chat.openai.com"
   },
   {
     "id": "Delaloye2016",
@@ -816,7 +816,8 @@
     },
     "publisher-place": "Basel",
     "title": "Gespräch über Digital Humanities",
-    "type": "interview"
+    "type": "interview",
+    "event-place": "Basel"
   },
   {
     "id": "Hanzo2007",
@@ -2283,5 +2284,80 @@
     ],
     "type": "book",
     "URL": "https://www.jstor.org/stable/10.7591/j.ctt1g69xgc"
+  },
+  {
+    "id": "MrDrohne2018",
+    "accessed": {
+      "date-parts": [
+        [
+          "2018",
+          12,
+          19
+        ]
+      ]
+    },
+    "citation-key": "MrDrohne2018",
+    "dimensions": "3:12 min",
+    "director": [
+      {
+        "literal": "Mr Drohne"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          "2018",
+          1,
+          3
+        ]
+      ]
+    },
+    "license": "CC BY",
+    "publisher": "YouTube",
+    "title": "Sturm Burglind Schweiz/Emmental",
+    "type": "motion_picture",
+    "URL": "https://www.youtube.com/watch?v=lMulfSOh-uY&t=21s"
+  },
+  {
+    "id": "Spitteler1915",
+    "abstract": "Schweizerische Nationalbibliothek (NB). Spitteler, Carl an Seelig, Carl; Korrespondenz / Spitteler, Carl an Seelig, Carl; Korrespondenz. Luzern, 26.12.1915",
+    "accessed": {
+      "date-parts": [
+        [
+          "2024",
+          1,
+          23
+        ]
+      ]
+    },
+    "archive": "Schweizerische Nationalbibliothek (NB)",
+    "author": [
+      {
+        "family": "Spitteler",
+        "given": "Carl"
+      }
+    ],
+    "call-number": "SLA-CS-B-1-SEEL-4",
+    "citation-key": "Spitteler1915",
+    "event-place": "Luzern",
+    "issued": {
+      "date-parts": [
+        [
+          "1915",
+          12,
+          26
+        ]
+      ]
+    },
+    "language": "de",
+    "publisher-place": "Luzern",
+    "type": "personal_communication",
+    "URL": "https://www.helveticarchives.ch/detail.aspx?ID=1189686",
+    "recipient": [
+      {
+        "family": "Seelig",
+        "given": "Carl"
+      }
+    ]
   }
 ]

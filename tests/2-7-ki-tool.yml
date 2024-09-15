@@ -1,0 +1,9 @@
+input:
+- ChatGPT2024
+tests:
+- style: src/infoclio-de.csl
+  citations:
+  - 'Prompt: Was ist Geschichte?, ChatGPT 4, 23.01.2024, &#60;https://chat.openai.com&#62;.'
+- style: src/infoclio-fr-smallcaps.csl
+  citations:
+  - '« Prompt: Was ist Geschichte? », <i>ChatGPT 4</i>, 23.01.2024, &#60;https://chat.openai.com&#62;.'
