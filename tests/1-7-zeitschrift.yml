@@ -16,3 +16,12 @@ tests:
   - 'traverse. Zeitschrift für Geschichte 23 (2): Transnationale Feminismen, 2016.'
   - 'Geschichte und Gesellschaft 47 (1): Digital History – Herausforderungen und Chancen für die Geschichtswissenschaften, 2021.'
   - 'Elmer, Sara; Kuhn, Konrad J.; Speich Chassé, Daniel (Hg.): Handlungsfeld Entwicklung. Schweizer Erwartungen und Erfahrungen in der Geschichte der Entwicklungsarbeit, Basel 2014 (Itinera 35).'
+- style: src/infoclio-fr-smallcaps.csl
+  citations:
+  - '<i>Schweizerische Zeitschrift für Geschichte</i>. En ligne: &#60;https://www.sgg-ssh.ch/community/publikationen/&#62;, consulté le 14.01.2025.'
+  - '<i>traverse. Zeitschrift für Geschichte</i>, années 2016–2019.'
+  - '<i>Schweizerische Zeitschrift für Geschichte</i> 74 (2), 2024. En ligne: &#60;https://www.sgg-ssh.ch/szg/szg-rsh-rss-74-2024-no-2/&#62;, consulté le 02.12.2024.'
+  - '<i>NZZ Geschichte</i> 55, 2023.'
+  - '<i>traverse. Zeitschrift für Geschichte</i> 23 (2), « Transnationale Feminismen », 2016.'
+  - '<i>Geschichte und Gesellschaft</i> 47 (1), « Digital History – Herausforderungen und Chancen für die Geschichtswissenschaften », 2021.'
+  - '<span style="font-variant:small-caps;">Elmer</span> Sara, <span style="font-variant:small-caps;">Kuhn</span> Konrad J. et <span style="font-variant:small-caps;">Speich Chassé</span> Daniel (éds.), <i>Handlungsfeld Entwicklung. Schweizer Erwartungen und Erfahrungen in der Geschichte der Entwicklungsarbeit</i>, Basel, Schwabe, 2014 (Itinera 35).'
