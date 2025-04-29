@@ -296,40 +296,6 @@
     "URL": "https://chat.openai.com"
   },
   {
-    "id": "Delaloye2016",
-    "citation-key": "Delaloye2016",
-    "collection-number": "2",
-    "collection-title": "Traverse",
-    "editor": [
-      {
-        "family": "Delaloye",
-        "given": "Magali"
-      },
-      {
-        "family": "Gillard",
-        "given": "Diane"
-      },
-      {
-        "family": "Ludi",
-        "given": "Regula"
-      }
-    ],
-    "event-place": "Zürich",
-    "ISBN": "978-3-905315-68-4",
-    "issued": {
-      "date-parts": [
-        [
-          "2016"
-        ]
-      ]
-    },
-    "publisher": "Chronos",
-    "publisher-place": "Zürich",
-    "title": "Transnationale Feminismen - Les féminismes transnationaux",
-    "title-short": "Transnationale Feminismen",
-    "type": "book"
-  },
-  {
     "id": "Diener1967",
     "author": [
       {
@@ -469,52 +435,6 @@
     "source": "Einstein-Online",
     "type": "personal_communication",
     "URL": "http://www.library.ethz.ch/content/download/1583/16074/file/Hs_1457_39.pdf"
-  },
-  {
-    "id": "Emich",
-    "citation-key": "Emich",
-    "editor": [
-      {
-        "family": "Emich",
-        "given": "Birgit"
-      },
-      {
-        "family": "Jaspert",
-        "given": "Nikolas"
-      },
-      {
-        "family": "Kunisch",
-        "given": "Johannes"
-      },
-      {
-        "family": "Luig",
-        "given": "Klaus"
-      },
-      {
-        "family": "Moraw",
-        "given": "Peter"
-      },
-      {
-        "family": "Oestmann",
-        "given": "Peter"
-      },
-      {
-        "family": "Schilling",
-        "given": "Heinz"
-      },
-      {
-        "family": "Schneidmüller",
-        "given": "Bernd"
-      },
-      {
-        "family": "Stollberg-Reilinger",
-        "given": "Barbara"
-      }
-    ],
-    "event-place": "Münster",
-    "publisher-place": "Münster",
-    "title": "Zeitschrift für historische Forschung",
-    "type": "book"
   },
   {
     "id": "Ende1973",
@@ -864,39 +784,6 @@
     "title": "Voice and Audio Compression for Wireless Communications",
     "type": "book",
     "URL": "http://doi.wiley.com/10.1002/9780470516034"
-  },
-  {
-    "id": "HistorischeundAntiquarischeGesellschaftzuBasel2011",
-    "accessed": {
-      "date-parts": [
-        [
-          "2016",
-          8,
-          10
-        ]
-      ]
-    },
-    "citation-key": "HistorischeundAntiquarischeGesellschaftzuBasel2011",
-    "collection-number": "111",
-    "collection-title": "Basler Zeitschrift für Geschichte und Altertumskunde",
-    "editor": [
-      {
-        "literal": "Historische und Antiquarische Gesellschaft zu Basel"
-      }
-    ],
-    "event-place": "Basel",
-    "issued": {
-      "date-parts": [
-        [
-          "2011"
-        ]
-      ]
-    },
-    "publisher": "Schwabe",
-    "publisher-place": "Basel",
-    "title": "Basler Selbstzeugnisse",
-    "type": "book",
-    "URL": "http://www.e-periodica.ch/digbib/view?pid=bzg-002:2011:111#4"
   },
   {
     "id": "Hoechner2018",
@@ -1849,20 +1736,6 @@
     "type": "article-journal"
   },
   {
-    "id": "SchweizerischeGesellschaftfurGeschichte",
-    "citation-key": "SchweizerischeGesellschaftfurGeschichte",
-    "editor": [
-      {
-        "literal": "Schweizerische Gesellschaft für Geschichte"
-      }
-    ],
-    "event-place": "Basel",
-    "publisher": "Schwabe",
-    "publisher-place": "Basel",
-    "title": "Schweizerische Zeitschrift für Geschichte (SZG)",
-    "type": "book"
-  },
-  {
     "id": "SchweizerischerBundesrat1992",
     "accessed": {
       "date-parts": [
@@ -2359,5 +2232,151 @@
         "given": "Carl"
       }
     ]
+  },
+  {
+    "id": "SZGAusgabe",
+    "citation-key": "SZGAusgabe",
+    "issue": "2",
+    "issued": {
+      "date-parts": [
+        [
+          "2024"
+        ]
+      ]
+    },
+    "type": "periodical",
+    "volume": "74",
+    "container-title": "Schweizerische Zeitschrift für Geschichte",
+    "accessed": {
+      "date-parts": [
+        [
+          "2024",
+          12,
+          2
+        ]
+      ]
+    },
+    "URL": "https://www.sgg-ssh.ch/szg/szg-rsh-rss-74-2024-no-2/"
+  },
+  {
+    "id": "Elmer2014",
+    "citation-key": "Elmer2014",
+    "collection-number": "35",
+    "collection-title": "Itinera",
+    "edition": "Schwabe",
+    "editor": [
+      {
+        "family": "Elmer",
+        "given": "Sara"
+      },
+      {
+        "family": "Kuhn",
+        "given": "Konrad J."
+      },
+      {
+        "family": "Speich Chassé",
+        "given": "Daniel"
+      }
+    ],
+    "event-place": "Basel",
+    "issued": {
+      "date-parts": [
+        [
+          "2014"
+        ]
+      ]
+    },
+    "publisher-place": "Basel",
+    "title": "Handlungsfeld Entwicklung. Schweizer Erwartungen und Erfahrungen in der Geschichte der Entwicklungsarbeit",
+    "type": "book"
+  },
+  {
+    "id": "Laessig2021",
+    "citation-key": "Laessig2021",
+    "container-title": "Geschichte und Gesellschaft",
+    "editor": [
+      {
+        "family": "Lässig",
+        "given": "Simone"
+      }
+    ],
+    "issue": "1",
+    "issued": {
+      "date-parts": [
+        [
+          "2021"
+        ]
+      ]
+    },
+    "language": "de",
+    "title": "Digital History – Herausforderungen und Chancen für die Geschichtswissenschaften",
+    "type": "periodical",
+    "volume": "47"
+  },
+  {
+    "id": "SZGZeitschrift",
+    "accessed": {
+      "date-parts": [
+        [
+          "2025",
+          1,
+          14
+        ]
+      ]
+    },
+    "citation-key": "SZGZeitschrift",
+    "title": "Schweizerische Zeitschrift für Geschichte",
+    "type": "periodical",
+    "URL": "https://www.sgg-ssh.ch/community/publikationen/"
+  },
+  {
+    "id": "TraverseZeitschrift",
+    "abstract": "Schweizer Zeitschriften online - Ein Service der ETH-Bibliothek. Revues suisses en ligne - Un service de ETH Library. Swiss journals online - A service by ETH Library.",
+    "citation-key": "TraverseZeitschrift",
+    "issued": {
+      "date-parts": [
+        [
+          "2016"
+        ],
+        [
+          "2019"
+        ]
+      ]
+    },
+    "language": "de",
+    "title": "traverse. Zeitschrift für Geschichte",
+    "type": "periodical"
+  },
+  {
+    "id": "TraverseAusgabe",
+    "abstract": "Schweizer Zeitschriften online - Ein Service der ETH-Bibliothek. Revues suisses en ligne - Un service de ETH Library. Swiss journals online - A service by ETH Library.",
+    "citation-key": "TraverseAusgabe",
+    "container-title": "traverse. Zeitschrift für Geschichte",
+    "issue": "2",
+    "issued": {
+      "date-parts": [
+        [
+          "2016"
+        ]
+      ]
+    },
+    "language": "de",
+    "type": "periodical",
+    "volume": "23",
+    "title": "Transnationale Feminismen"
+  },
+  {
+    "id": "NZZGeschichteAusgabe",
+    "citation-key": "NZZGeschichteAusgabe",
+    "container-title": "NZZ Geschichte",
+    "issued": {
+      "date-parts": [
+        [
+          "2023"
+        ]
+      ]
+    },
+    "type": "periodical",
+    "volume": "55"
   }
 ]

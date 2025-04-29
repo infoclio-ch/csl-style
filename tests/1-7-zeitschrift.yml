@@ -1,24 +1,18 @@
 input:
-- SchweizerischeGesellschaftfurGeschichte
-- Emich
-- Delaloye2016
-- HistorischeundAntiquarischeGesellschaftzuBasel2011
+- SZGZeitschrift
+- TraverseZeitschrift
+- SZGAusgabe
+- NZZGeschichteAusgabe
+- TraverseAusgabe
+- Laessig2021
+- Elmer2014
 tests:
-- style: src/infoclio-fr-smallcaps.csl
-  citations:
-  - <span style="font-variant:small-caps;">Schweizerische Gesellschaft für Geschichte</span> (éd.), <i>Schweizerische Zeitschrift für Geschichte (SZG)</i>, Basel, Schwabe.
-  - <span style="font-variant:small-caps;">Emich</span> Birgit, <span style="font-variant:small-caps;">Jaspert</span> Nikolas, <span style="font-variant:small-caps;">Kunisch</span> Johannes et al. (éds.), <i>Zeitschrift für historische Forschung</i>, Münster.
-  - <span style="font-variant:small-caps;">Delaloye</span> Magali, <span style="font-variant:small-caps;">Gillard</span> Diane et <span style="font-variant:small-caps;">Ludi</span> Regula (éds.), <i>Transnationale Feminismen - Les féminismes transnationaux</i>, Zürich, Chronos, 2016 (Traverse 2).
-  - '<span style="font-variant:small-caps;">Historische und Antiquarische Gesellschaft zu Basel</span> (éd.), <i>Basler Selbstzeugnisse</i>, Basel, Schwabe, 2011 (Basler Zeitschrift für Geschichte und Altertumskunde 111). En ligne: &#60;http://www.e-periodica.ch/digbib/view?pid=bzg-002:2011:111#4&#62;, consulté le 10.08.2016.'
-- style: src/infoclio-fr-nocaps.csl
-  citations:
-  - Schweizerische Gesellschaft für Geschichte (éd.), <i>Schweizerische Zeitschrift für Geschichte (SZG)</i>, Basel, Schwabe.
-  - Emich Birgit, Jaspert Nikolas, Kunisch Johannes et al. (éds.), <i>Zeitschrift für historische Forschung</i>, Münster.
-  - Delaloye Magali, Gillard Diane et Ludi Regula (éds.), <i>Transnationale Feminismen - Les féminismes transnationaux</i>, Zürich, Chronos, 2016 (Traverse 2).
-  - 'Historische und Antiquarische Gesellschaft zu Basel (éd.), <i>Basler Selbstzeugnisse</i>, Basel, Schwabe, 2011 (Basler Zeitschrift für Geschichte und Altertumskunde 111). En ligne: &#60;http://www.e-periodica.ch/digbib/view?pid=bzg-002:2011:111#4&#62;, consulté le 10.08.2016.'
 - style: src/infoclio-de.csl
   citations:
-  - 'Schweizerische Gesellschaft für Geschichte (Hg.): Schweizerische Zeitschrift für Geschichte (SZG), Basel.'
-  - 'Emich, Birgit; Jaspert, Nikolas; Kunisch, Johannes u. a. (Hg.): Zeitschrift für historische Forschung, Münster.'
-  - 'Delaloye, Magali; Gillard, Diane; Ludi, Regula (Hg.): Transnationale Feminismen - Les féminismes transnationaux, Zürich 2016 (Traverse 2).'
-  - 'Historische und Antiquarische Gesellschaft zu Basel (Hg.): Basler Selbstzeugnisse, Basel 2011 (Basler Zeitschrift für Geschichte und Altertumskunde 111). Online: &#60;http://www.e-periodica.ch/digbib/view?pid=bzg-002:2011:111#4&#62;, Stand: 10.08.2016.'
+  - 'Schweizerische Zeitschrift für Geschichte. Online: &#60;https://www.sgg-ssh.ch/community/publikationen/&#62;, Stand: 14.01.2025.'
+  - 'traverse. Zeitschrift für Geschichte, Jg. 2016–2019.'
+  - 'Schweizerische Zeitschrift für Geschichte 74 (2), 2024. Online: &#60;https://www.sgg-ssh.ch/szg/szg-rsh-rss-74-2024-no-2/&#62;, Stand: 02.12.2024.'
+  - 'NZZ Geschichte 55, 2023.'
+  - 'traverse. Zeitschrift für Geschichte 23 (2): Transnationale Feminismen, 2016.'
+  - 'Geschichte und Gesellschaft 47 (1): Digital History – Herausforderungen und Chancen für die Geschichtswissenschaften, 2021.'
+  - 'Elmer, Sara; Kuhn, Konrad J.; Speich Chassé, Daniel (Hg.): Handlungsfeld Entwicklung. Schweizer Erwartungen und Erfahrungen in der Geschichte der Entwicklungsarbeit, Basel 2014 (Itinera 35).'
