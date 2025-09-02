@@ -221,41 +221,6 @@
     "type": "book"
   },
   {
-    "id": "Brugger2016",
-    "accessed": {
-      "date-parts": [
-        [
-          "2016",
-          8,
-          10
-        ]
-      ]
-    },
-    "citation-key": "Brugger2016",
-    "collection-number": "60",
-    "collection-title": "FKW. Zeitschrift für Geschlechterforschung und visuelle Kultur",
-    "editor": [
-      {
-        "family": "Brugger",
-        "given": "Eva"
-      },
-      {
-        "family": "Christadler",
-        "given": "Maike"
-      }
-    ],
-    "issued": {
-      "date-parts": [
-        [
-          "2016"
-        ]
-      ]
-    },
-    "title": "Riskante Versprechen. Erfolg und Scheitern in der Vormoderne",
-    "type": "book",
-    "URL": "http://www.fkw-journal.de./index.php/fkw/issue/view/72"
-  },
-  {
     "id": "Capus2013",
     "author": [
       {
@@ -996,74 +961,6 @@
     "title": "Recension de: Moddelmog Claudia, Teuscher Simon (éds.), Königsmord, Kloster, Klinik, Baden, Hier + Jetzt, 2012",
     "type": "article-journal",
     "volume": "3"
-  },
-  {
-    "id": "JohnBuettner",
-    "accessed": {
-      "date-parts": [
-        [
-          "2016",
-          8,
-          10
-        ]
-      ]
-    },
-    "citation-key": "JohnBuettner",
-    "editor": [
-      {
-        "family": "John",
-        "given": "Jennifer"
-      },
-      {
-        "family": "Büttner",
-        "given": "Silke"
-      },
-      {
-        "family": "Heinz",
-        "given": "Kathrin"
-      },
-      {
-        "family": "Zimmermann",
-        "given": "Anja"
-      },
-      {
-        "family": "Brandes",
-        "given": "Kerstin"
-      },
-      {
-        "family": "Wienand",
-        "given": "Kea"
-      },
-      {
-        "family": "Adorf",
-        "given": "Sigrid"
-      },
-      {
-        "family": "Christadler",
-        "given": "Maike"
-      },
-      {
-        "family": "Futscher",
-        "given": "Edith"
-      },
-      {
-        "family": "Koos",
-        "given": "Marianne"
-      },
-      {
-        "family": "Hofer",
-        "given": "Kristina Pia"
-      },
-      {
-        "family": "Hermann",
-        "given": "Anja"
-      }
-    ],
-    "event-place": "Bremen",
-    "publisher-place": "Bremen",
-    "title": "FKW. Zeitschrift für Geschlechterforschung und visuelle Kultur",
-    "type": "book",
-    "URL": "http://www.fkw-journal.de/index.php/fkw/index"
   },
   {
     "id": "Jost1932",
@@ -2263,7 +2160,6 @@
     "citation-key": "Elmer2014",
     "collection-number": "35",
     "collection-title": "Itinera",
-    "edition": "Schwabe",
     "editor": [
       {
         "family": "Elmer",
@@ -2288,7 +2184,8 @@
     },
     "publisher-place": "Basel",
     "title": "Handlungsfeld Entwicklung. Schweizer Erwartungen und Erfahrungen in der Geschichte der Entwicklungsarbeit",
-    "type": "book"
+    "type": "book",
+    "publisher": "Schwabe"
   },
   {
     "id": "Laessig2021",
@@ -2344,8 +2241,8 @@
       ]
     },
     "language": "de",
-    "title": "traverse. Zeitschrift für Geschichte",
-    "type": "periodical"
+    "type": "periodical",
+    "container-title": "traverse. Zeitschrift für Geschichte"
   },
   {
     "id": "TraverseAusgabe",
@@ -2378,5 +2275,208 @@
     },
     "type": "periodical",
     "volume": "55"
+  },
+  {
+    "id": "OnlineZeitschrift21",
+    "accessed": {
+      "date-parts": [
+        [
+          "2025",
+          1,
+          11
+        ]
+      ]
+    },
+    "citation-key": "OnlineZeitschrift21",
+    "issued": {
+      "date-parts": [
+        [
+          "2020"
+        ],
+        [
+          "2024"
+        ]
+      ]
+    },
+    "title": "21: Inquiries into Art, History, and the Visual. Beiträge zur Kunstgeschichte und visuellen Kultur",
+    "type": "periodical",
+    "URL": "https://21-inquiries.eu/",
+    "note": "note: online"
+  },
+  {
+    "id": "OnlineZeitschriftFKW",
+    "accessed": {
+      "date-parts": [
+        [
+          "2016",
+          8,
+          10
+        ]
+      ]
+    },
+    "citation-key": "OnlineZeitschriftFKW",
+    "title": "FKW. Zeitschrift für Geschlechterforschung und visuelle Kultur",
+    "type": "periodical",
+    "URL": "http://www.fkw-journal.de/index.php/fkw/index",
+    "note": "note: online"
+  },
+  {
+    "id": "OnlineZeitschriftFKWAusgabe",
+    "accessed": {
+      "date-parts": [
+        [
+          "2016",
+          8,
+          10
+        ]
+      ]
+    },
+    "citation-key": "OnlineZeitschriftFKWAusgabe",
+    "container-title": "FKW. Zeitschrift für Geschlechterforschung und visuelle Kultur",
+    "issued": {
+      "date-parts": [
+        [
+          "2016"
+        ]
+      ]
+    },
+    "type": "periodical",
+    "URL": "https://www.fkw-journal.de/index.php/fkw/issue/view/72",
+    "volume": "60",
+    "note": "online"
+  },
+  {
+    "id": "OnlineZeitschriftSozialGeschichteAusgabe",
+    "accessed": {
+      "date-parts": [
+        [
+          "2025",
+          2,
+          14
+        ]
+      ]
+    },
+    "citation-key": "OnlineZeitschriftSozialGeschichteAusgabe",
+    "container-title": "Sozial.Geschichte Online. Zeitschrift für historische Analyse des 20. und 21. Jahrhunderts",
+    "issued": {
+      "date-parts": [
+        [
+          "2024"
+        ]
+      ]
+    },
+    "type": "periodical",
+    "URL": "https://duepublico2.uni-due.de/receive/duepublico_mods_00082537",
+    "volume": "37",
+    "note": "note: online"
+  },
+  {
+    "id": "Stress2014",
+    "accessed": {
+      "date-parts": [
+        [
+          "2025",
+          2,
+          3
+        ]
+      ]
+    },
+    "citation-key": "Stress2014",
+    "container-title": "Zeithistorische Forschungen / Studies in Contemporary History",
+    "issue": "3",
+    "issued": {
+      "date-parts": [
+        [
+          "2014"
+        ]
+      ]
+    },
+    "title": "Stress!",
+    "type": "periodical",
+    "URL": "https://zeithistorische-forschungen.de/3-2014",
+    "volume": "11",
+    "note": "note: online"
+  },
+  {
+    "id": "Kypta2016",
+    "abstract": "In late medieval economy, failing was as much a social as an economic process. The story of the hanseatic merchant Hildebrand Veckinchusen (ca. 1365-1426) shows how his network of family members, friends, and business partners on the one hand enabled him to be successful as a merchant. On the other hand the same network deployed its social power against him once he had run into problems: As his potential new investors had to stem from the circle of his old partners, they all knew his fate, and they all informed each other about his shortcomings. So Hildebrand had to borrow the money he needed from outside his network from an external creditor. His friends would have been able to defer the return of his loans (as they knew how to keep track of him), whereas the external creditor could not and thus put him in prison as an insolvent debtor. His friends offered help only on the condition that Hildebrand did admit his faults and listened to their advice, but he refused. But Veckinchusen’s network demanded control of his decisions and affairs in which the social an economic sphere were intimately linked. Hildebrand didn’t perceive himself as failed, contrary to what his friends expected him to do. Thus he wasn’t allowed back into the network, which, to be successful, had to exclude failures such as Hildebrand Veckinchusen.",
+    "accessed": {
+      "date-parts": [
+        [
+          "2025",
+          1,
+          30
+        ]
+      ]
+    },
+    "author": [
+      {
+        "family": "Kypta",
+        "given": "Ulla"
+      }
+    ],
+    "citation-key": "Kypta2016",
+    "container-title": "FKW. Zeitschrift für Geschlechterforschung und visuelle Kultur",
+    "DOI": "10.57871/fkw6020161373",
+    "ISSN": "2197-6910",
+    "issued": {
+      "date-parts": [
+        [
+          "2016",
+          7,
+          7
+        ]
+      ]
+    },
+    "language": "de",
+    "license": "Copyright (c) 2016 FKW // Zeitschrift für Geschlechterforschung und visuelle Kultur",
+    "source": "www.fkw-journal.de",
+    "title": "Smarte Unternehmer, ausgegrenzte Versager. Produktives Scheitern im 15. Jahrhundert?",
+    "title-short": "Smarte Unternehmer, ausgegrenzte Versager",
+    "type": "article-journal",
+    "URL": "https://www.fkw-journal.de/index.php/fkw/article/view/1373",
+    "volume": "60"
+  },
+  {
+    "id": "Mason2024",
+    "abstract": "This article reconstructs the physical and intellectual content of Stella Kramrisch’s 1968 exhibition Unknown India. Ritual Art in Tribe and Village, organized for the Philadelphia Museum of Art. By probing Kramrisch’s curatorial practice from conception to realization, it opens questions about her impact on canons and categories we continue to utilize today. In Unknown India, Kramrisch synthesized a vision rooted in the global Arts and Crafts movement and in India’s movement for cultural independence. But here she explicitly struggled with taxonomy, moving South Asia to the forefront of global dialogues on terms including folk, tribal, tradition, authenticity, craft, design, and even art. As contemporary scholars debate the dynamism of authenticity, the intersectionality of the spiritual and practical, and the fluidity of hierarchies, Unknown India remains a touchstone.",
+    "accessed": {
+      "date-parts": [
+        [
+          "2025",
+          2,
+          10
+        ]
+      ]
+    },
+    "author": [
+      {
+        "family": "Mason",
+        "given": "Darielle"
+      }
+    ],
+    "citation-key": "Mason2024",
+    "container-title": "21: Inquiries into Art, History, and the Visual",
+    "DOI": "10.11588/xxi.2024.4.107515",
+    "ISSN": "2701-1550",
+    "issue": "4",
+    "issued": {
+      "date-parts": [
+        [
+          "2024",
+          12,
+          20
+        ]
+      ]
+    },
+    "language": "en",
+    "license": "Copyright (c) 2024",
+    "source": "journals.ub.uni-heidelberg.de",
+    "status": "online",
+    "title": "Timing the Timeless: Stella Kramrisch’s “Unknown India”",
+    "title-short": "Timing the Timeless",
+    "type": "article-journal",
+    "URL": "https://journals.ub.uni-heidelberg.de/index.php/xxi/article/view/107515",
+    "volume": "5"
   }
 ]

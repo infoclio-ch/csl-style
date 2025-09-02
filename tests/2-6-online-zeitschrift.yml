@@ -1,16 +1,14 @@
 input:
-- JohnBuettner
-- Brugger2016
+- OnlineZeitschriftFKW
+- OnlineZeitschrift21
+- OnlineZeitschriftFKWAusgabe
+- OnlineZeitschriftSozialGeschichteAusgabe
+- Stress2014
 tests:
-- style: src/infoclio-fr-nocaps.csl
-  citations:
-  - 'John Jennifer, Büttner Silke, Heinz Kathrin et al. (éds.), <i>FKW. Zeitschrift für Geschlechterforschung und visuelle Kultur</i>, Bremen. En ligne: &#60;http://www.fkw-journal.de/index.php/fkw/index&#62;, consulté le 10.08.2016.'
-  - 'Brugger Eva et Christadler Maike (éds.), <i>Riskante Versprechen. Erfolg und Scheitern in der Vormoderne</i>, 2016 (FKW. Zeitschrift für Geschlechterforschung und visuelle Kultur 60). En ligne: &#60;http://www.fkw-journal.de./index.php/fkw/issue/view/72&#62;, consulté le 10.08.2016.'
 - style: src/infoclio-de.csl
   citations:
-  - 'John, Jennifer; Büttner, Silke; Heinz, Kathrin u. a. (Hg.): FKW. Zeitschrift für Geschlechterforschung und visuelle Kultur, Bremen. Online: &#60;http://www.fkw-journal.de/index.php/fkw/index&#62;, Stand: 10.08.2016.'
-  - 'Brugger, Eva; Christadler, Maike (Hg.): Riskante Versprechen. Erfolg und Scheitern in der Vormoderne, 2016 (FKW. Zeitschrift für Geschlechterforschung und visuelle Kultur 60). Online: &#60;http://www.fkw-journal.de./index.php/fkw/issue/view/72&#62;, Stand: 10.08.2016.'
-- style: src/infoclio-fr-smallcaps.csl
-  citations:
-  - '<span style="font-variant:small-caps;">John</span> Jennifer, <span style="font-variant:small-caps;">Büttner</span> Silke, <span style="font-variant:small-caps;">Heinz</span> Kathrin et al. (éds.), <i>FKW. Zeitschrift für Geschlechterforschung und visuelle Kultur</i>, Bremen. En ligne: &#60;http://www.fkw-journal.de/index.php/fkw/index&#62;, consulté le 10.08.2016.'
-  - '<span style="font-variant:small-caps;">Brugger</span> Eva et <span style="font-variant:small-caps;">Christadler</span> Maike (éds.), <i>Riskante Versprechen. Erfolg und Scheitern in der Vormoderne</i>, 2016 (FKW. Zeitschrift für Geschlechterforschung und visuelle Kultur 60). En ligne: &#60;http://www.fkw-journal.de./index.php/fkw/issue/view/72&#62;, consulté le 10.08.2016.'
+  - 'FKW. Zeitschrift für Geschlechterforschung und visuelle Kultur, &#60;http://www.fkw-journal.de/index.php/fkw/index&#62;, Stand: 10.08.2016.'
+  - '21: Inquiries into Art, History, and the Visual. Beiträge zur Kunstgeschichte und visuellen Kultur, Jg. 2020–2024, &#60;https://21-inquiries.eu/&#62;, Stand: 11.01.2025.'
+  - 'FKW. Zeitschrift für Geschlechterforschung und visuelle Kultur 60, 2016, &#60;https://www.fkw-journal.de/index.php/fkw/issue/view/72&#62;, Stand: 10.08.2016.'
+  - 'Sozial.Geschichte Online. Zeitschrift für historische Analyse des 20. und 21. Jahrhunderts 37, 2024, &#60;https://duepublico2.uni-due.de/receive/duepublico_mods_00082537&#62;, Stand: 14.02.2025.'
+  - 'Zeithistorische Forschungen / Studies in Contemporary History 11 (3): Stress!, 2014, &#60;https://zeithistorische-forschungen.de/3-2014&#62;, Stand: 03.02.2025.'
