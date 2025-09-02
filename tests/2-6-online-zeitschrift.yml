@@ -12,3 +12,17 @@ tests:
   - 'FKW. Zeitschrift für Geschlechterforschung und visuelle Kultur 60, 2016, &#60;https://www.fkw-journal.de/index.php/fkw/issue/view/72&#62;, Stand: 10.08.2016.'
   - 'Sozial.Geschichte Online. Zeitschrift für historische Analyse des 20. und 21. Jahrhunderts 37, 2024, &#60;https://duepublico2.uni-due.de/receive/duepublico_mods_00082537&#62;, Stand: 14.02.2025.'
   - 'Zeithistorische Forschungen / Studies in Contemporary History 11 (3): Stress!, 2014, &#60;https://zeithistorische-forschungen.de/3-2014&#62;, Stand: 03.02.2025.'
+- style: src/infoclio-fr-smallcaps.csl
+  citations:
+  - '<i>FKW. Zeitschrift für Geschlechterforschung und visuelle Kultur</i>, &#60;http://www.fkw-journal.de/index.php/fkw/index&#62;, consulté le 10.08.2016.'
+  - '<i>21: Inquiries into Art, History, and the Visual. Beiträge zur Kunstgeschichte und visuellen Kultur</i>, années 2020–2024, &#60;https://21-inquiries.eu/&#62;, consulté le 11.01.2025.'
+  - '<i>FKW. Zeitschrift für Geschlechterforschung und visuelle Kultur</i> 60, 2016, &#60;https://www.fkw-journal.de/index.php/fkw/issue/view/72&#62;, consulté le 10.08.2016.'
+  - '<i>Sozial.Geschichte Online. Zeitschrift für historische Analyse des 20. und 21. Jahrhunderts</i> 37, 2024, &#60;https://duepublico2.uni-due.de/receive/duepublico_mods_00082537&#62;, consulté le 14.02.2025.'
+  - '<i>Zeithistorische Forschungen / Studies in Contemporary History</i> 11 (3), « Stress! », 2014, &#60;https://zeithistorische-forschungen.de/3-2014&#62;, consulté le 03.02.2025.'
+- style: src/infoclio-fr-nocaps.csl
+  citations:
+  - '<i>FKW. Zeitschrift für Geschlechterforschung und visuelle Kultur</i>, &#60;http://www.fkw-journal.de/index.php/fkw/index&#62;, consulté le 10.08.2016.'
+  - '<i>21: Inquiries into Art, History, and the Visual. Beiträge zur Kunstgeschichte und visuellen Kultur</i>, années 2020–2024, &#60;https://21-inquiries.eu/&#62;, consulté le 11.01.2025.'
+  - '<i>FKW. Zeitschrift für Geschlechterforschung und visuelle Kultur</i> 60, 2016, &#60;https://www.fkw-journal.de/index.php/fkw/issue/view/72&#62;, consulté le 10.08.2016.'
+  - '<i>Sozial.Geschichte Online. Zeitschrift für historische Analyse des 20. und 21. Jahrhunderts</i> 37, 2024, &#60;https://duepublico2.uni-due.de/receive/duepublico_mods_00082537&#62;, consulté le 14.02.2025.'
+  - '<i>Zeithistorische Forschungen / Studies in Contemporary History</i> 11 (3), « Stress! », 2014, &#60;https://zeithistorische-forschungen.de/3-2014&#62;, consulté le 03.02.2025.'

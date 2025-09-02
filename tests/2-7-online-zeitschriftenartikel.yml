@@ -6,3 +6,11 @@ tests:
   citations:
   - 'Kypta, Ulla: Smarte Unternehmer, ausgegrenzte Versager. Produktives Scheitern im 15. Jahrhundert?, in: FKW. Zeitschrift für Geschlechterforschung und visuelle Kultur 60, 07.07.2016, &#60;https://doi.org/10.57871/fkw6020161373&#62;, Stand: 30.01.2025.'
   - 'Mason, Darielle: Timing the Timeless: Stella Kramrisch’s “Unknown India”, in: 21: Inquiries into Art, History, and the Visual 5 (4), 20.12.2024, &#60;https://doi.org/10.11588/xxi.2024.4.107515&#62;, Stand: 10.02.2025.'
+- style: src/infoclio-fr-smallcaps.csl
+  citations:
+  - '<span style="font-variant:small-caps;">Kypta</span> Ulla, « Smarte Unternehmer, ausgegrenzte Versager. Produktives Scheitern im 15. Jahrhundert? », <i>FKW. Zeitschrift für Geschlechterforschung und visuelle Kultur</i> 60, 07.07.2016, &#60;https://doi.org/10.57871/fkw6020161373&#62;, consulté le 30.01.2025.'
+  - '<span style="font-variant:small-caps;">Mason</span> Darielle, « Timing the Timeless: Stella Kramrisch’s “Unknown India” », <i>21: Inquiries into Art, History, and the Visual</i> 5 (4), 20.12.2024, &#60;https://doi.org/10.11588/xxi.2024.4.107515&#62;, consulté le 10.02.2025.'
+- style: src/infoclio-fr-nocaps.csl
+  citations:
+  - 'Kypta Ulla, « Smarte Unternehmer, ausgegrenzte Versager. Produktives Scheitern im 15. Jahrhundert? », <i>FKW. Zeitschrift für Geschlechterforschung und visuelle Kultur</i> 60, 07.07.2016, &#60;https://doi.org/10.57871/fkw6020161373&#62;, consulté le 30.01.2025.'
+  - 'Mason Darielle, « Timing the Timeless: Stella Kramrisch’s “Unknown India” », <i>21: Inquiries into Art, History, and the Visual</i> 5 (4), 20.12.2024, &#60;https://doi.org/10.11588/xxi.2024.4.107515&#62;, consulté le 10.02.2025.'

@@ -568,19 +568,50 @@
       <if type="webpage post post-weblog dataset" match="any">
         <text macro="url-or-doi"/>
       </if>
+      <else-if type="periodical">
+        <choose>
+          <if variable="note">
+            <text macro="url-or-doi"/>
+          </if>
+        </choose>
+      </else-if>
+      <else-if type="article-journal">
+        <choose>
+          <if variable="page" match="none">
+            <text macro="url-or-doi"/>
+          </if>
+        </choose>
+      </else-if>
     </choose>
   </macro>
   <macro name="url-non-web-documents">
     <choose>
-      <if type="webpage post post-weblog dataset" match="none">
+      <if type="periodical">
         <choose>
-          <if variable="DOI URL" match="any">
-            <group delimiter=": ">
-              <text term="online" text-case="capitalize-first"/>
-              <text macro="url-or-doi"/>
-            </group>
+          <if variable="note" match="none">
+            <text macro="url-or-doi-with-online-term"/>
           </if>
         </choose>
+      </if>
+      <else-if type="article-journal">
+        <choose>
+          <if variable="page">
+            <text macro="url-or-doi-with-online-term"/>
+          </if>
+        </choose>
+      </else-if>
+      <else-if type="webpage post post-weblog dataset" match="none">
+        <text macro="url-or-doi-with-online-term"/>
+      </else-if>
+    </choose>
+  </macro>
+  <macro name="url-or-doi-with-online-term">
+    <choose>
+      <if variable="DOI URL" match="any">
+        <group delimiter=": ">
+          <text term="online" text-case="capitalize-first"/>
+          <text macro="url-or-doi"/>
+        </group>
       </if>
     </choose>
   </macro>
