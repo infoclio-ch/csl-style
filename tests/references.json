@@ -1676,7 +1676,7 @@
       }
     ],
     "citation-key": "Siegenthaler1990",
-    "container-title": "Schweiz im Wandel: Studien zur neueren Gesellschaftsgeschichte",
+    "container-title": "Schweiz im Wandel. Studien zur neueren Gesellschaftsgeschichte",
     "editor": [
       {
         "family": "Brändli",
@@ -2153,7 +2153,8 @@
         ]
       ]
     },
-    "URL": "https://www.sgg-ssh.ch/szg/szg-rsh-rss-74-2024-no-2/"
+    "URL": "https://www.sgg-ssh.ch/szg/szg-rsh-rss-74-2024-no-2/",
+    "container-title-short": "SZG"
   },
   {
     "id": "Elmer2014",
@@ -2224,7 +2225,8 @@
     "citation-key": "SZGZeitschrift",
     "title": "Schweizerische Zeitschrift für Geschichte",
     "type": "periodical",
-    "URL": "https://www.sgg-ssh.ch/community/publikationen/"
+    "URL": "https://www.sgg-ssh.ch/community/publikationen/",
+    "container-title-short": "SZG"
   },
   {
     "id": "TraverseZeitschrift",
@@ -2242,25 +2244,8 @@
     },
     "language": "de",
     "type": "periodical",
-    "container-title": "traverse. Zeitschrift für Geschichte"
-  },
-  {
-    "id": "TraverseAusgabe",
-    "abstract": "Schweizer Zeitschriften online - Ein Service der ETH-Bibliothek. Revues suisses en ligne - Un service de ETH Library. Swiss journals online - A service by ETH Library.",
-    "citation-key": "TraverseAusgabe",
     "container-title": "traverse. Zeitschrift für Geschichte",
-    "issue": "2",
-    "issued": {
-      "date-parts": [
-        [
-          "2016"
-        ]
-      ]
-    },
-    "language": "de",
-    "type": "periodical",
-    "volume": "23",
-    "title": "Transnationale Feminismen"
+    "container-title-short": "Traverse"
   },
   {
     "id": "NZZGeschichteAusgabe",
@@ -2274,7 +2259,8 @@
       ]
     },
     "type": "periodical",
-    "volume": "55"
+    "volume": "55",
+    "container-title-short": "NZZGeschichte"
   },
   {
     "id": "OnlineZeitschrift21",
@@ -2478,5 +2464,23 @@
     "type": "article-journal",
     "URL": "https://journals.ub.uni-heidelberg.de/index.php/xxi/article/view/107515",
     "volume": "5"
+  },
+  {
+    "id": "TransnationaleFeminismen",
+    "abstract": "Schweizer Zeitschriften online - Ein Service der ETH-Bibliothek. Revues suisses en ligne - Un service de ETH Library. Swiss journals online - A service by ETH Library.",
+    "citation-key": "TransnationaleFeminismen",
+    "container-title": "traverse. Zeitschrift für Geschichte",
+    "issue": "2",
+    "issued": {
+      "date-parts": [
+        [
+          "2016"
+        ]
+      ]
+    },
+    "language": "de",
+    "title": "Transnationale Feminismen",
+    "type": "periodical",
+    "volume": "23"
   }
 ]

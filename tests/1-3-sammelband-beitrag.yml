@@ -5,12 +5,12 @@ tests:
 - style: src/infoclio-de.csl
   citations:
   - 'Althoff, Gerd: Zu den Grundlagen des Gregorianischen Amtsverständnisses, in: Hasberg, Wolfgang (Hg.): Canossa. Aspekte einer Wende, Regensburg 2012, S. 73–88.'
-  - 'Siegenthaler, Hansjörg: Die Rede von der Kontinuität in der Diskontinuität sozialen Wandels – das Beispiel der dreißiger Jahre, in: Brändli, Sebastian; Gugerli, David; Jaun, Rudolf u. a. (Hg.): Schweiz im Wandel: Studien zur neueren Gesellschaftsgeschichte, Basel 1990, S. 419–434.'
+  - 'Siegenthaler, Hansjörg: Die Rede von der Kontinuität in der Diskontinuität sozialen Wandels – das Beispiel der dreißiger Jahre, in: Brändli, Sebastian; Gugerli, David; Jaun, Rudolf u. a. (Hg.): Schweiz im Wandel. Studien zur neueren Gesellschaftsgeschichte, Basel 1990, S. 419–434.'
 - style: src/infoclio-fr-smallcaps.csl
   citations:
   - '<span style="font-variant:small-caps;">Althoff</span> Gerd, « Zu den Grundlagen des Gregorianischen Amtsverständnisses », in: <span style="font-variant:small-caps;">Hasberg</span> Wolfgang (éd.), <i>Canossa. Aspekte einer Wende</i>, Regensburg, Friedrich Pustet, 2012, pp. 73‑88.'
-  - '<span style="font-variant:small-caps;">Siegenthaler</span> Hansjörg, « Die Rede von der Kontinuität in der Diskontinuität sozialen Wandels – das Beispiel der dreißiger Jahre », in: <span style="font-variant:small-caps;">Brändli</span> Sebastian, <span style="font-variant:small-caps;">Gugerli</span> David, <span style="font-variant:small-caps;">Jaun</span> Rudolf et al. (éds.), <i>Schweiz im Wandel: Studien zur neueren Gesellschaftsgeschichte</i>, Basel, Helbing und Lichtenhahn, 1990, pp. 419‑434.'
+  - '<span style="font-variant:small-caps;">Siegenthaler</span> Hansjörg, « Die Rede von der Kontinuität in der Diskontinuität sozialen Wandels – das Beispiel der dreißiger Jahre », in: <span style="font-variant:small-caps;">Brändli</span> Sebastian, <span style="font-variant:small-caps;">Gugerli</span> David, <span style="font-variant:small-caps;">Jaun</span> Rudolf et al. (éds.), <i>Schweiz im Wandel. Studien zur neueren Gesellschaftsgeschichte</i>, Basel, Helbing und Lichtenhahn, 1990, pp. 419‑434.'
 - style: src/infoclio-fr-nocaps.csl
   citations:
   - 'Althoff Gerd, « Zu den Grundlagen des Gregorianischen Amtsverständnisses », in: Hasberg Wolfgang (éd.), <i>Canossa. Aspekte einer Wende</i>, Regensburg, Friedrich Pustet, 2012, pp. 73‑88.'
-  - 'Siegenthaler Hansjörg, « Die Rede von der Kontinuität in der Diskontinuität sozialen Wandels – das Beispiel der dreißiger Jahre », in: Brändli Sebastian, Gugerli David, Jaun Rudolf et al. (éds.), <i>Schweiz im Wandel: Studien zur neueren Gesellschaftsgeschichte</i>, Basel, Helbing und Lichtenhahn, 1990, pp. 419‑434.'
+  - 'Siegenthaler Hansjörg, « Die Rede von der Kontinuität in der Diskontinuität sozialen Wandels – das Beispiel der dreißiger Jahre », in: Brändli Sebastian, Gugerli David, Jaun Rudolf et al. (éds.), <i>Schweiz im Wandel. Studien zur neueren Gesellschaftsgeschichte</i>, Basel, Helbing und Lichtenhahn, 1990, pp. 419‑434.'
