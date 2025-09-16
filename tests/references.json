@@ -2287,7 +2287,7 @@
     "title": "21: Inquiries into Art, History, and the Visual. Beiträge zur Kunstgeschichte und visuellen Kultur",
     "type": "periodical",
     "URL": "https://21-inquiries.eu/",
-    "note": "note: online"
+    "medium": "online"
   },
   {
     "id": "OnlineZeitschriftFKW",
@@ -2304,7 +2304,7 @@
     "title": "FKW. Zeitschrift für Geschlechterforschung und visuelle Kultur",
     "type": "periodical",
     "URL": "http://www.fkw-journal.de/index.php/fkw/index",
-    "note": "note: online"
+    "medium": "online"
   },
   {
     "id": "OnlineZeitschriftFKWAusgabe",
@@ -2329,7 +2329,7 @@
     "type": "periodical",
     "URL": "https://www.fkw-journal.de/index.php/fkw/issue/view/72",
     "volume": "60",
-    "note": "online"
+    "medium": "online"
   },
   {
     "id": "OnlineZeitschriftSozialGeschichteAusgabe",
@@ -2354,7 +2354,7 @@
     "type": "periodical",
     "URL": "https://duepublico2.uni-due.de/receive/duepublico_mods_00082537",
     "volume": "37",
-    "note": "note: online"
+    "medium": "online"
   },
   {
     "id": "Stress2014",
@@ -2381,7 +2381,7 @@
     "type": "periodical",
     "URL": "https://zeithistorische-forschungen.de/3-2014",
     "volume": "11",
-    "note": "note: online"
+    "medium": "online"
   },
   {
     "id": "Kypta2016",
@@ -2458,7 +2458,6 @@
     "language": "en",
     "license": "Copyright (c) 2024",
     "source": "journals.ub.uni-heidelberg.de",
-    "status": "online",
     "title": "Timing the Timeless: Stella Kramrisch’s “Unknown India”",
     "title-short": "Timing the Timeless",
     "type": "article-journal",
